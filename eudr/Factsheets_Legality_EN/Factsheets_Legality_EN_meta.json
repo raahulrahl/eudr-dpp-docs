@@ -1,0 +1,302 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Understanding the legality criteria under the EUDR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.89302793257783,
+          412.1584021550465
+        ],
+        [
+          515.3063426750433,
+          412.1584021550465
+        ],
+        [
+          515.3063426750433,
+          438.8759765625
+        ],
+        [
+          37.89302793257783,
+          438.8759765625
+        ]
+      ]
+    },
+    {
+      "title": "Unpacking legality requirements \nunder the EU Deforestation Regulation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          25.58310593765989,
+          84.94665636043939
+        ],
+        [
+          462.2009391112051,
+          84.94665636043939
+        ],
+        [
+          462.2009391112051,
+          141.3280029296875
+        ],
+        [
+          25.58310593765989,
+          141.3280029296875
+        ]
+      ]
+    },
+    {
+      "title": "This involves:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          295.6765939246497,
+          52.356269517118974
+        ],
+        [
+          355.2927551269531,
+          52.356269517118974
+        ],
+        [
+          355.2927551269531,
+          67.02978515625
+        ],
+        [
+          295.6765939246497,
+          67.02978515625
+        ]
+      ]
+    },
+    {
+      "title": "How to demonstrate legal compliance?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.124617665480606,
+          217.69752422275016
+        ],
+        [
+          406.3125,
+          217.69752422275016
+        ],
+        [
+          406.3125,
+          242.490966796875
+        ],
+        [
+          42.124617665480606,
+          242.490966796875
+        ]
+      ]
+    },
+    {
+      "title": "Can certification help \noperators demonstrate \ncompliance?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.54919387471465,
+          606.1305336005329
+        ],
+        [
+          262.9686279296875,
+          606.1305336005329
+        ],
+        [
+          262.9686279296875,
+          674.3509674072266
+        ],
+        [
+          36.54919387471465,
+          674.3509674072266
+        ]
+      ]
+    },
+    {
+      "title": "How does a due diligence system \nwork?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          298.5760524182836,
+          310.4784023594028
+        ],
+        [
+          535.8920288085938,
+          310.4784023594028
+        ],
+        [
+          535.8920288085938,
+          346.490966796875
+        ],
+        [
+          298.5760524182836,
+          346.490966796875
+        ]
+      ]
+    },
+    {
+      "title": "What is due diligence?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.08607085105454,
+          309.3925202421492
+        ],
+        [
+          199.0135040283203,
+          309.3925202421492
+        ],
+        [
+          199.0135040283203,
+          331.4909973144531
+        ],
+        [
+          40.08607085105454,
+          331.4909973144531
+        ]
+      ]
+    },
+    {
+      "title": "How to identify relevant \nlegal requirements?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          24.372140533677875,
+          52.0567235224818
+        ],
+        [
+          259.0669860839844,
+          52.0567235224818
+        ],
+        [
+          259.0669860839844,
+          98.02996826171875
+        ],
+        [
+          24.372140533677875,
+          98.02996826171875
+        ]
+      ]
+    },
+    {
+      "title": "If risks are",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          331.98186979125666,
+          432.98897877911423
+        ],
+        [
+          382.76263427734375,
+          432.98897877911423
+        ],
+        [
+          382.76263427734375,
+          447.25909423828125
+        ],
+        [
+          331.98186979125666,
+          447.25909423828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          21
+        ],
+        [
+          "PageFooter",
+          9
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Factsheets_Legality_EN"
+}

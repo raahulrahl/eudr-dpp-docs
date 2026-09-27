@@ -1,0 +1,850 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Cocoa with Purpose:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          126.94799999999998,
+          27.819000000000003
+        ],
+        [
+          465.476,
+          27.819000000000003
+        ],
+        [
+          465.476,
+          75.02699999999999
+        ],
+        [
+          126.94799999999998,
+          75.02699999999999
+        ]
+      ]
+    },
+    {
+      "title": "Due Diligence",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          143.04,
+          596.8439999999999
+        ],
+        [
+          486.33599999999996,
+          596.8439999999999
+        ],
+        [
+          486.33599999999996,
+          668.499
+        ],
+        [
+          143.04,
+          668.499
+        ]
+      ]
+    },
+    {
+      "title": "SAFE PROJECT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          339.9773087585603,
+          84.36383056640625
+        ],
+        [
+          496.57253251928523,
+          84.36383056640625
+        ],
+        [
+          496.57253251928523,
+          112.00372314453125
+        ],
+        [
+          339.9773087585603,
+          112.00372314453125
+        ]
+      ]
+    },
+    {
+      "title": "EUDR REGULATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          95.82684779707671,
+          344.62043695628165
+        ],
+        [
+          306.565100220649,
+          344.62043695628165
+        ],
+        [
+          306.565100220649,
+          366.365966796875
+        ],
+        [
+          95.82684779707671,
+          366.365966796875
+        ]
+      ]
+    },
+    {
+      "title": "WE WORK WITH...",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.5959106752794,
+          626.8268432617188
+        ],
+        [
+          501.43939208984375,
+          626.8268432617188
+        ],
+        [
+          501.43939208984375,
+          654.4667205810547
+        ],
+        [
+          306.5959106752794,
+          654.4667205810547
+        ]
+      ]
+    },
+    {
+      "title": "Key \nConcepts",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.57272661723177,
+          20.06500244140625
+        ],
+        [
+          198.1818467916109,
+          20.06500244140625
+        ],
+        [
+          198.1818467916109,
+          106.97662353515625
+        ],
+        [
+          51.57272661723177,
+          106.97662353515625
+        ]
+      ]
+    },
+    {
+      "title": "Cocoa production\nin Ecuador: \nAn overview",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.50807435926922,
+          61.89508056640625
+        ],
+        [
+          322.341152546688,
+          61.89508056640625
+        ],
+        [
+          322.341152546688,
+          181.61370849609375
+        ],
+        [
+          57.50807435926922,
+          181.61370849609375
+        ]
+      ]
+    },
+    {
+      "title": "The European Union: \nan important market",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          39.77587886781476,
+          223.51577487038588
+        ],
+        [
+          195.47613525390625,
+          223.51577487038588
+        ],
+        [
+          195.47613525390625,
+          263.07061767578125
+        ],
+        [
+          39.77587886781476,
+          263.07061767578125
+        ]
+      ]
+    },
+    {
+      "title": "Forest Conservation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          329.3113936801401,
+          223.89456799066394
+        ],
+        [
+          474.88939445745433,
+          223.89456799066394
+        ],
+        [
+          474.88939445745433,
+          243.57061767578125
+        ],
+        [
+          329.3113936801401,
+          243.57061767578125
+        ]
+      ]
+    },
+    {
+      "title": "Production",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.050736184684695,
+          418.3879172782864
+        ],
+        [
+          121.76856337386354,
+          418.3879172782864
+        ],
+        [
+          121.76856337386354,
+          438.5156555175781
+        ],
+        [
+          40.050736184684695,
+          438.5156555175781
+        ]
+      ]
+    },
+    {
+      "title": "Challenge EUDR",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          39.086022480308856,
+          670.5817561841711
+        ],
+        [
+          155.37964251539867,
+          670.5817561841711
+        ],
+        [
+          155.37964251539867,
+          690.7136383056641
+        ],
+        [
+          39.086022480308856,
+          690.7136383056641
+        ]
+      ]
+    },
+    {
+      "title": "In this scenario...",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          27.889632121741922,
+          22.62762451171875
+        ],
+        [
+          230.34012709456667,
+          22.62762451171875
+        ],
+        [
+          230.34012709456667,
+          55.7742919921875
+        ],
+        [
+          27.889632121741922,
+          55.7742919921875
+        ]
+      ]
+    },
+    {
+      "title": "Why is this important?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          7.558546147959058,
+          584.8760041723481
+        ],
+        [
+          171.68738707727388,
+          584.8760041723481
+        ],
+        [
+          171.68738707727388,
+          607.0006256103516
+        ],
+        [
+          7.558546147959058,
+          607.0006256103516
+        ]
+      ]
+    },
+    {
+      "title": "Challenges for Small-Scale Producers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          189.6293112805268,
+          237.4604932151516
+        ],
+        [
+          505.26607453853114,
+          237.4604932151516
+        ],
+        [
+          505.26607453853114,
+          300.98108700950127
+        ],
+        [
+          189.6293112805268,
+          300.98108700950127
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          399.70038564379325,
+          332.056440725352
+        ],
+        [
+          506.77278594586346,
+          332.056440725352
+        ],
+        [
+          506.77278594586346,
+          358.9467432662407
+        ],
+        [
+          399.70038564379325,
+          358.9467432662407
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          195.26367295118663,
+          332.8521239093023
+        ],
+        [
+          322.6859089349319,
+          332.8521239093023
+        ],
+        [
+          322.6859089349319,
+          359.53528720655294
+        ],
+        [
+          195.26367295118663,
+          359.53528720655294
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          206.65041522355162,
+          556.212945246845
+        ],
+        [
+          315.2273049150366,
+          556.212945246845
+        ],
+        [
+          315.2273049150366,
+          580.9145176820424
+        ],
+        [
+          206.65041522355162,
+          580.9145176820424
+        ]
+      ]
+    },
+    {
+      "title": "Step by Step: How do we support Smallholder Cocoa Farmers in adapting to EUDR?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          235.42,
+          10.959
+        ],
+        [
+          519.116,
+          10.959
+        ],
+        [
+          519.116,
+          81.771
+        ],
+        [
+          235.42,
+          81.771
+        ]
+      ]
+    },
+    {
+      "title": "Socialization and Awareness on EUDR",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          227.076,
+          130.665
+        ],
+        [
+          425.5439999999999,
+          130.665
+        ],
+        [
+          425.5439999999999,
+          144.99599999999998
+        ],
+        [
+          227.076,
+          144.99599999999998
+        ]
+      ]
+    },
+    {
+      "title": "Identifying gaps and conducting risk analysis in smallholders' organizations",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          227.076,
+          257.95799999999997
+        ],
+        [
+          475.01199999999994,
+          257.95799999999997
+        ],
+        [
+          475.01199999999994,
+          284.934
+        ],
+        [
+          227.076,
+          284.934
+        ]
+      ]
+    },
+    {
+      "title": "Mitigating identified risks through:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          227.076,
+          408.012
+        ],
+        [
+          407.664,
+          408.012
+        ],
+        [
+          407.664,
+          423.186
+        ],
+        [
+          227.076,
+          423.186
+        ]
+      ]
+    },
+    {
+      "title": "Strengthening management and sustainability systems for Due Diligence sustainability",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          227.076,
+          538.677
+        ],
+        [
+          470.84,
+          538.677
+        ],
+        [
+          470.84,
+          565.653
+        ],
+        [
+          227.076,
+          565.653
+        ]
+      ]
+    },
+    {
+      "title": "Feedback and dissemination to public entities",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          227.076,
+          671.028
+        ],
+        [
+          468.456,
+          671.028
+        ],
+        [
+          468.456,
+          685.3589999999999
+        ],
+        [
+          227.076,
+          685.3589999999999
+        ]
+      ]
+    },
+    {
+      "title": "Government-led efforts",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          50.660000000000004,
+          46.365
+        ],
+        [
+          440.44399999999996,
+          46.365
+        ],
+        [
+          440.44399999999996,
+          95.259
+        ],
+        [
+          50.660000000000004,
+          95.259
+        ]
+      ]
+    },
+    {
+      "title": "Committee Members:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          324.224,
+          220.023
+        ],
+        [
+          485.1439999999999,
+          220.023
+        ],
+        [
+          485.1439999999999,
+          236.88300000000004
+        ],
+        [
+          324.224,
+          236.88300000000004
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          7
+        ],
+        [
+          "PageFooter",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          19
+        ],
+        [
+          "Picture",
+          15
+        ],
+        [
+          "SectionHeader",
+          12
+        ],
+        [
+          "ListGroup",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "PageFooter",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/DDS-with-PbN-Finale_english"
+}

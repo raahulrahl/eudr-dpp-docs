@@ -1,0 +1,382 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CISUTAC Vision for a Circular and \nSustainable EU Textile Sector:\nA European EPR that drives circularity",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.12401694194496,
+          84.47882080078125
+        ],
+        [
+          529.5655127076118,
+          84.47882080078125
+        ],
+        [
+          529.5655127076118,
+          163.77484130859375
+        ],
+        [
+          68.12401694194496,
+          163.77484130859375
+        ]
+      ]
+    },
+    {
+      "title": "Establish EPR schemes tailored to widespread circularity",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.80000305175781,
+          523.2776159352738
+        ],
+        [
+          439.2074977000354,
+          523.2776159352738
+        ],
+        [
+          439.2074977000354,
+          542.8529663085938
+        ],
+        [
+          76.80000305175781,
+          542.8529663085938
+        ]
+      ]
+    },
+    {
+      "title": "Respect the waste hierarchy",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          76.37560646960357,
+          251.63527026562846
+        ],
+        [
+          260.4439571198048,
+          251.63527026562846
+        ],
+        [
+          260.4439571198048,
+          269.56524658203125
+        ],
+        [
+          76.37560646960357,
+          269.56524658203125
+        ]
+      ]
+    },
+    {
+      "title": "Incentivise eco-design for sustainable products",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.798223807769695,
+          48.11884205275524
+        ],
+        [
+          381.64816230370354,
+          48.11884205275524
+        ],
+        [
+          381.64816230370354,
+          76.08616420783216
+        ],
+        [
+          43.798223807769695,
+          76.08616420783216
+        ]
+      ]
+    },
+    {
+      "title": "Respect the heterogeneity of textiles",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.29028941041576,
+          301.5345475832904
+        ],
+        [
+          318.0332336425781,
+          301.5345475832904
+        ],
+        [
+          318.0332336425781,
+          334.32978006908115
+        ],
+        [
+          43.29028941041576,
+          334.32978006908115
+        ]
+      ]
+    },
+    {
+      "title": "Develop shared responsibility and foster partnerships",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          39.683224156761646,
+          608.6521542855702
+        ],
+        [
+          419.81739049954734,
+          608.6521542855702
+        ],
+        [
+          419.81739049954734,
+          631.3047943115234
+        ],
+        [
+          39.683224156761646,
+          631.3047943115234
+        ]
+      ]
+    },
+    {
+      "title": "Ensure uniform and effective compliance and enforcement",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          79.94751745267239,
+          260.5509580508578
+        ],
+        [
+          457.67938232421875,
+          260.5509580508578
+        ],
+        [
+          457.67938232421875,
+          280.77691650390625
+        ],
+        [
+          79.94751745267239,
+          280.77691650390625
+        ]
+      ]
+    },
+    {
+      "title": "Allow enough time for proper implementation and stakeholder consultation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          79.2202131910348,
+          438.88459768320763
+        ],
+        [
+          551.5223483991263,
+          438.88459768320763
+        ],
+        [
+          551.5223483991263,
+          458.95720538770314
+        ],
+        [
+          79.2202131910348,
+          458.95720538770314
+        ]
+      ]
+    },
+    {
+      "title": "Boost more sustainable consumer behaviour",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          39.18723310571473,
+          611.6613316251461
+        ],
+        [
+          367.65655517578125,
+          611.6613316251461
+        ],
+        [
+          367.65655517578125,
+          636.8408660888672
+        ],
+        [
+          39.18723310571473,
+          636.8408660888672
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "PageFooter",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "PageFooter",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "PageFooter",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/CISUTAC+Shared+Vision+on+EU+EPR+Driving+Circularity"
+}

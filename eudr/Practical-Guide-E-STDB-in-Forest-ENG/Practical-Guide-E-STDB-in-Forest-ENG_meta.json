@@ -1,0 +1,2892 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Practical Guide",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.76,
+          89.996
+        ],
+        [
+          377.58,
+          89.996
+        ],
+        [
+          377.58,
+          113.836
+        ],
+        [
+          200.76,
+          113.836
+        ]
+      ]
+    },
+    {
+      "title": "e-STDB Registration for Community-Managed Commodity Crops in Social Forestry Areas under the KHDPK Scheme",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.86,
+          129.332
+        ],
+        [
+          395.64,
+          129.332
+        ],
+        [
+          395.64,
+          284.292
+        ],
+        [
+          76.86,
+          284.292
+        ]
+      ]
+    },
+    {
+      "title": "Purpose of the Practical Guide",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.64,
+          41.72
+        ],
+        [
+          289.38,
+          41.72
+        ],
+        [
+          289.38,
+          64.368
+        ],
+        [
+          38.64,
+          64.368
+        ]
+      ]
+    },
+    {
+      "title": "Understanding e-STDB",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          38.64,
+          42.315999999999995
+        ],
+        [
+          248.21999999999997,
+          42.315999999999995
+        ],
+        [
+          248.21999999999997,
+          64.964
+        ],
+        [
+          38.64,
+          64.964
+        ]
+      ]
+    },
+    {
+      "title": "Definition of e-STDB",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.18,
+          154.95999999999998
+        ],
+        [
+          158.34,
+          154.95999999999998
+        ],
+        [
+          158.34,
+          169.85999999999999
+        ],
+        [
+          33.18,
+          169.85999999999999
+        ]
+      ]
+    },
+    {
+      "title": "Example of an Issued STDB",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          39.06,
+          42.91199999999999
+        ],
+        [
+          284.76,
+          42.91199999999999
+        ],
+        [
+          284.76,
+          64.964
+        ],
+        [
+          39.06,
+          64.964
+        ]
+      ]
+    },
+    {
+      "title": "SURAT TANDA DAFTAR USAHA BUDIDAYA TANAMAN PERKEBUNAN (STD-B) KABUPATEN BANDUNG KECAMATAN BANJARAN",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          95.76,
+          107.87599999999999
+        ],
+        [
+          322.98,
+          107.87599999999999
+        ],
+        [
+          322.98,
+          131.12
+        ],
+        [
+          95.76,
+          131.12
+        ]
+      ]
+    },
+    {
+      "title": "A. Keterangan Pemilik",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.4,
+          154.95999999999998
+        ],
+        [
+          129.35999999999999,
+          154.95999999999998
+        ],
+        [
+          129.35999999999999,
+          163.304
+        ],
+        [
+          71.4,
+          163.304
+        ]
+      ]
+    },
+    {
+      "title": "B. Data Kebun",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.4,
+          194.89200000000002
+        ],
+        [
+          109.62,
+          194.89200000000002
+        ],
+        [
+          109.62,
+          203.832
+        ],
+        [
+          71.4,
+          203.832
+        ]
+      ]
+    },
+    {
+      "title": "I. Kebun 1",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          77.28,
+          208.59999999999997
+        ],
+        [
+          109.62,
+          208.59999999999997
+        ],
+        [
+          109.62,
+          216.94400000000002
+        ],
+        [
+          77.28,
+          216.94400000000002
+        ]
+      ]
+    },
+    {
+      "title": "Example of an Issued STDB",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.64,
+          42.315999999999995
+        ],
+        [
+          285.6,
+          42.315999999999995
+        ],
+        [
+          285.6,
+          64.964
+        ],
+        [
+          38.64,
+          64.964
+        ]
+      ]
+    },
+    {
+      "title": "PEMILIK:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          102.47999999999999,
+          392.16800000000006
+        ],
+        [
+          127.68,
+          392.16800000000006
+        ],
+        [
+          127.68,
+          399.32000000000005
+        ],
+        [
+          102.47999999999999,
+          399.32000000000005
+        ]
+      ]
+    },
+    {
+      "title": "TITIK KOORDINAT:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          205.38,
+          392.16800000000006
+        ],
+        [
+          253.26,
+          392.16800000000006
+        ],
+        [
+          253.26,
+          399.32000000000005
+        ],
+        [
+          205.38,
+          399.32000000000005
+        ]
+      ]
+    },
+    {
+      "title": "PANJANG SISI:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          279.3,
+          392.16800000000006
+        ],
+        [
+          317.1,
+          392.16800000000006
+        ],
+        [
+          317.1,
+          399.32000000000005
+        ],
+        [
+          279.3,
+          399.32000000000005
+        ]
+      ]
+    },
+    {
+      "title": "Benefits of STDB",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          39.06,
+          42.315999999999995
+        ],
+        [
+          189.42000000000002,
+          42.315999999999995
+        ],
+        [
+          189.42000000000002,
+          62.57999999999999
+        ],
+        [
+          39.06,
+          62.57999999999999
+        ]
+      ]
+    },
+    {
+      "title": "For Farmers",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          198.24,
+          123.96799999999999
+        ],
+        [
+          272.15999999999997,
+          123.96799999999999
+        ],
+        [
+          272.15999999999997,
+          138.272
+        ],
+        [
+          198.24,
+          138.272
+        ]
+      ]
+    },
+    {
+      "title": "For Buyers",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.720000000000006,
+          383.824
+        ],
+        [
+          115.08,
+          383.824
+        ],
+        [
+          115.08,
+          399.916
+        ],
+        [
+          48.720000000000006,
+          399.916
+        ]
+      ]
+    },
+    {
+      "title": "Benefits of STDB",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          39.06,
+          42.315999999999995
+        ],
+        [
+          189.42000000000002,
+          42.315999999999995
+        ],
+        [
+          189.42000000000002,
+          62.57999999999999
+        ],
+        [
+          39.06,
+          62.57999999999999
+        ]
+      ]
+    },
+    {
+      "title": "For Government",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          217.14,
+          138.272
+        ],
+        [
+          319.20000000000005,
+          138.272
+        ],
+        [
+          319.20000000000005,
+          153.172
+        ],
+        [
+          217.14,
+          153.172
+        ]
+      ]
+    },
+    {
+      "title": "For Non-Governmental Organizations (NGOs)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.099999999999994,
+          363.55999999999995
+        ],
+        [
+          186.48000000000002,
+          363.55999999999995
+        ],
+        [
+          186.48000000000002,
+          395.74399999999997
+        ],
+        [
+          44.099999999999994,
+          395.74399999999997
+        ]
+      ]
+    },
+    {
+      "title": "Requirements for Registering a Plantation under STDB",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          36.12,
+          22.648
+        ],
+        [
+          308.7,
+          22.648
+        ],
+        [
+          308.7,
+          63.175999999999995
+        ],
+        [
+          36.12,
+          63.175999999999995
+        ]
+      ]
+    },
+    {
+      "title": "Farmer Eligibility Criteria",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          36.959999999999994,
+          119.2
+        ],
+        [
+          85.67999999999999,
+          119.2
+        ],
+        [
+          85.67999999999999,
+          155.556
+        ],
+        [
+          36.959999999999994,
+          155.556
+        ]
+      ]
+    },
+    {
+      "title": "Eligible Commodities",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          105.0,
+          119.2
+        ],
+        [
+          169.26,
+          119.2
+        ],
+        [
+          169.26,
+          143.636
+        ],
+        [
+          105.0,
+          143.636
+        ]
+      ]
+    },
+    {
+      "title": "Registration Operators",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          228.48000000000002,
+          119.2
+        ],
+        [
+          341.88,
+          119.2
+        ],
+        [
+          341.88,
+          132.90800000000002
+        ],
+        [
+          228.48000000000002,
+          132.90800000000002
+        ]
+      ]
+    },
+    {
+      "title": "Required Documents and Information",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          33.18,
+          240.18800000000002
+        ],
+        [
+          262.5,
+          240.18800000000002
+        ],
+        [
+          262.5,
+          256.28
+        ],
+        [
+          33.18,
+          256.28
+        ]
+      ]
+    },
+    {
+      "title": "Farm Information",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          42.42,
+          265.81600000000003
+        ],
+        [
+          127.26,
+          265.81600000000003
+        ],
+        [
+          127.26,
+          278.332
+        ],
+        [
+          42.42,
+          278.332
+        ]
+      ]
+    },
+    {
+      "title": "Farmer Information",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          42.42,
+          420.77599999999995
+        ],
+        [
+          136.07999999999998,
+          420.77599999999995
+        ],
+        [
+          136.07999999999998,
+          433.88800000000003
+        ],
+        [
+          42.42,
+          433.88800000000003
+        ]
+      ]
+    },
+    {
+      "title": "Plot Map",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          133.98000000000002,
+          505.40799999999996
+        ],
+        [
+          181.85999999999999,
+          505.40799999999996
+        ],
+        [
+          181.85999999999999,
+          518.52
+        ],
+        [
+          133.98000000000002,
+          518.52
+        ]
+      ]
+    },
+    {
+      "title": "How to Register a Plantation through the e-STDB System",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          36.12,
+          22.648
+        ],
+        [
+          301.14,
+          22.648
+        ],
+        [
+          301.14,
+          64.964
+        ],
+        [
+          36.12,
+          64.964
+        ]
+      ]
+    },
+    {
+      "title": "How to Register a Plantation through the e-STDB System",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          36.12,
+          22.648
+        ],
+        [
+          301.56,
+          22.648
+        ],
+        [
+          301.56,
+          64.964
+        ],
+        [
+          36.12,
+          64.964
+        ]
+      ]
+    },
+    {
+      "title": "Validity Period and Expiration of STDB",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          37.379999999999995,
+          41.72
+        ],
+        [
+          376.32,
+          41.72
+        ],
+        [
+          376.32,
+          64.368
+        ],
+        [
+          37.379999999999995,
+          64.368
+        ]
+      ]
+    },
+    {
+      "title": "VALIDITY PERIOD",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          70.98,
+          101.916
+        ],
+        [
+          126.0,
+          101.916
+        ],
+        [
+          126.0,
+          126.35199999999999
+        ],
+        [
+          70.98,
+          126.35199999999999
+        ]
+      ]
+    },
+    {
+      "title": "EXPIRATION",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          280.98,
+          302.17199999999997
+        ],
+        [
+          354.48,
+          302.17199999999997
+        ],
+        [
+          354.48,
+          315.284
+        ],
+        [
+          280.98,
+          315.284
+        ]
+      ]
+    },
+    {
+      "title": "Roles of Stakeholders",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          37.379999999999995,
+          41.72
+        ],
+        [
+          225.12,
+          41.72
+        ],
+        [
+          225.12,
+          61.983999999999995
+        ],
+        [
+          37.379999999999995,
+          61.983999999999995
+        ]
+      ]
+    },
+    {
+      "title": "Roles of Stakeholders",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          37.8,
+          42.315999999999995
+        ],
+        [
+          225.12,
+          42.315999999999995
+        ],
+        [
+          225.12,
+          62.58
+        ],
+        [
+          37.8,
+          62.58
+        ]
+      ]
+    },
+    {
+      "title": "Community Land Access",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          37.379999999999995,
+          41.72
+        ],
+        [
+          253.26,
+          41.72
+        ],
+        [
+          253.26,
+          63.175999999999995
+        ],
+        [
+          37.379999999999995,
+          63.175999999999995
+        ]
+      ]
+    },
+    {
+      "title": "Legally Recognized Farmers in Forest Areas",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          32.76,
+          115.62400000000001
+        ],
+        [
+          292.74,
+          115.62400000000001
+        ],
+        [
+          292.74,
+          132.31199999999998
+        ],
+        [
+          32.76,
+          132.31199999999998
+        ]
+      ]
+    },
+    {
+      "title": "Types of Forest Areas Accessible to Farmers",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          32.76,
+          205.61999999999998
+        ],
+        [
+          295.26,
+          205.61999999999998
+        ],
+        [
+          295.26,
+          222.308
+        ],
+        [
+          32.76,
+          222.308
+        ]
+      ]
+    },
+    {
+      "title": "What is KHDPK?",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          32.76,
+          424.9479999999999
+        ],
+        [
+          112.14000000000001,
+          424.9479999999999
+        ],
+        [
+          112.14000000000001,
+          438.05999999999995
+        ],
+        [
+          32.76,
+          438.05999999999995
+        ]
+      ]
+    },
+    {
+      "title": "STDB Registration Procedure for Farmers in Social Forestry Areas (KHDPK)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          37.8,
+          44.104
+        ],
+        [
+          386.40000000000003,
+          44.104
+        ],
+        [
+          386.40000000000003,
+          88.208
+        ],
+        [
+          37.8,
+          88.208
+        ]
+      ]
+    },
+    {
+      "title": "Supporting Prerequisite",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          32.76,
+          137.67600000000002
+        ],
+        [
+          178.92000000000002,
+          137.67600000000002
+        ],
+        [
+          178.92000000000002,
+          154.364
+        ],
+        [
+          32.76,
+          154.364
+        ]
+      ]
+    },
+    {
+      "title": "After issuance, farmers are expected to:",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          39.06,
+          435.676
+        ],
+        [
+          239.82,
+          435.676
+        ],
+        [
+          239.82,
+          449.384
+        ],
+        [
+          39.06,
+          449.384
+        ]
+      ]
+    },
+    {
+      "title": "Case Study: STDB Registration by Farmers in Forest Areas",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          37.379999999999995,
+          43.507999999999996
+        ],
+        [
+          318.36,
+          43.507999999999996
+        ],
+        [
+          318.36,
+          87.612
+        ],
+        [
+          37.379999999999995,
+          87.612
+        ]
+      ]
+    },
+    {
+      "title": "Case 1",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          43.67999999999999,
+          113.836
+        ],
+        [
+          81.48,
+          113.836
+        ],
+        [
+          81.48,
+          128.14
+        ],
+        [
+          43.67999999999999,
+          128.14
+        ]
+      ]
+    },
+    {
+      "title": "Data Duplication Due to Lack of Coordination Among Stakeholders",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          33.6,
+          131.12
+        ],
+        [
+          389.34000000000003,
+          131.12
+        ],
+        [
+          389.34000000000003,
+          147.212
+        ],
+        [
+          33.6,
+          147.212
+        ]
+      ]
+    },
+    {
+      "title": "Issue",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          46.620000000000005,
+          172.83999999999997
+        ],
+        [
+          78.12,
+          172.83999999999997
+        ],
+        [
+          78.12,
+          185.356
+        ],
+        [
+          46.620000000000005,
+          185.356
+        ]
+      ]
+    },
+    {
+      "title": "Solutions",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          40.32,
+          212.77199999999996
+        ],
+        [
+          87.78,
+          212.77199999999996
+        ],
+        [
+          87.78,
+          226.48000000000002
+        ],
+        [
+          40.32,
+          226.48000000000002
+        ]
+      ]
+    },
+    {
+      "title": "Case 2",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          43.67999999999999,
+          368.328
+        ],
+        [
+          81.48,
+          368.328
+        ],
+        [
+          81.48,
+          383.228
+        ],
+        [
+          43.67999999999999,
+          383.228
+        ]
+      ]
+    },
+    {
+      "title": "Unclear Partnership Documents Between Farmers and Perhutani",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          33.6,
+          385.61199999999997
+        ],
+        [
+          387.24,
+          385.61199999999997
+        ],
+        [
+          387.24,
+          401.704
+        ],
+        [
+          33.6,
+          401.704
+        ]
+      ]
+    },
+    {
+      "title": "Issue",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          46.620000000000005,
+          427.92799999999994
+        ],
+        [
+          78.12,
+          427.92799999999994
+        ],
+        [
+          78.12,
+          441.03999999999996
+        ],
+        [
+          46.620000000000005,
+          441.03999999999996
+        ]
+      ]
+    },
+    {
+      "title": "Solutions",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          40.32,
+          475.01199999999994
+        ],
+        [
+          87.78,
+          475.01199999999994
+        ],
+        [
+          87.78,
+          488.1239999999999
+        ],
+        [
+          40.32,
+          488.1239999999999
+        ]
+      ]
+    },
+    {
+      "title": "Case Study: STDB Registration by Farmers in Forest Areas",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          37.379999999999995,
+          45.296
+        ],
+        [
+          312.9,
+          45.296
+        ],
+        [
+          312.9,
+          89.39999999999999
+        ],
+        [
+          37.379999999999995,
+          89.39999999999999
+        ]
+      ]
+    },
+    {
+      "title": "Case 3",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          43.67999999999999,
+          131.12
+        ],
+        [
+          81.48,
+          131.12
+        ],
+        [
+          81.48,
+          145.42399999999998
+        ],
+        [
+          43.67999999999999,
+          145.42399999999998
+        ]
+      ]
+    },
+    {
+      "title": "Inconsistencies Between Farm Polygons and Forest Area Status",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          33.18,
+          148.404
+        ],
+        [
+          390.6,
+          148.404
+        ],
+        [
+          390.6,
+          163.9
+        ],
+        [
+          33.18,
+          163.9
+        ]
+      ]
+    },
+    {
+      "title": "Issue",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          47.46,
+          189.528
+        ],
+        [
+          77.69999999999999,
+          189.528
+        ],
+        [
+          77.69999999999999,
+          202.64000000000001
+        ],
+        [
+          47.46,
+          202.64000000000001
+        ]
+      ]
+    },
+    {
+      "title": "Solutions",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          40.32,
+          225.28799999999998
+        ],
+        [
+          88.19999999999999,
+          225.28799999999998
+        ],
+        [
+          88.19999999999999,
+          238.4
+        ],
+        [
+          40.32,
+          238.4
+        ]
+      ]
+    },
+    {
+      "title": "Best Practice Recommendations",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          38.22,
+          42.315999999999995
+        ],
+        [
+          309.53999999999996,
+          42.315999999999995
+        ],
+        [
+          309.53999999999996,
+          62.57999999999999
+        ],
+        [
+          38.22,
+          62.57999999999999
+        ]
+      ]
+    },
+    {
+      "title": "For Farmers",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          45.36,
+          100.724
+        ],
+        [
+          120.12,
+          100.724
+        ],
+        [
+          120.12,
+          115.02799999999999
+        ],
+        [
+          45.36,
+          115.02799999999999
+        ]
+      ]
+    },
+    {
+      "title": "For Buyers/Private Sector",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          167.16000000000003,
+          278.928
+        ],
+        [
+          328.44,
+          278.928
+        ],
+        [
+          328.44,
+          295.02
+        ],
+        [
+          167.16000000000003,
+          295.02
+        ]
+      ]
+    },
+    {
+      "title": "For Agriculture Offices",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          45.36,
+          433.2919999999999
+        ],
+        [
+          188.57999999999998,
+          433.2919999999999
+        ],
+        [
+          188.57999999999998,
+          449.384
+        ],
+        [
+          45.36,
+          449.384
+        ]
+      ]
+    },
+    {
+      "title": "Best Practice Recommendations",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          38.64,
+          42.315999999999995
+        ],
+        [
+          309.53999999999996,
+          42.315999999999995
+        ],
+        [
+          309.53999999999996,
+          62.57999999999999
+        ],
+        [
+          38.64,
+          62.57999999999999
+        ]
+      ]
+    },
+    {
+      "title": "For BPSKL (Forestry Authority)",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          45.36,
+          101.916
+        ],
+        [
+          232.26,
+          101.916
+        ],
+        [
+          232.26,
+          118.00800000000001
+        ],
+        [
+          45.36,
+          118.00800000000001
+        ]
+      ]
+    },
+    {
+      "title": "For Perhutani",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          141.54,
+          238.99599999999998
+        ],
+        [
+          226.38000000000002,
+          238.99599999999998
+        ],
+        [
+          226.38000000000002,
+          253.89599999999996
+        ],
+        [
+          141.54,
+          253.89599999999996
+        ]
+      ]
+    },
+    {
+      "title": "For NGOs and Development Partners",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          45.36,
+          377.26800000000003
+        ],
+        [
+          255.77999999999997,
+          377.26800000000003
+        ],
+        [
+          255.77999999999997,
+          392.76399999999995
+        ],
+        [
+          45.36,
+          392.76399999999995
+        ]
+      ]
+    },
+    {
+      "title": "Questions & Answers",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          37.8,
+          40.528
+        ],
+        [
+          217.56,
+          40.528
+        ],
+        [
+          217.56,
+          61.983999999999995
+        ],
+        [
+          37.8,
+          61.983999999999995
+        ]
+      ]
+    },
+    {
+      "title": "Questions & Answers",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          37.8,
+          40.528
+        ],
+        [
+          217.14,
+          40.528
+        ],
+        [
+          217.14,
+          61.38799999999999
+        ],
+        [
+          37.8,
+          61.38799999999999
+        ]
+      ]
+    },
+    {
+      "title": "Questions & Answers",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          38.22,
+          40.528
+        ],
+        [
+          217.56,
+          40.528
+        ],
+        [
+          217.56,
+          61.38799999999999
+        ],
+        [
+          38.22,
+          61.38799999999999
+        ]
+      ]
+    },
+    {
+      "title": "Questions & Answers",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          38.22,
+          40.528
+        ],
+        [
+          217.14,
+          40.528
+        ],
+        [
+          217.14,
+          61.38799999999999
+        ],
+        [
+          38.22,
+          61.38799999999999
+        ]
+      ]
+    },
+    {
+      "title": "Q Who is eligible to register for e-STDB?",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          31.08,
+          84.03599999999999
+        ],
+        [
+          214.20000000000002,
+          84.03599999999999
+        ],
+        [
+          214.20000000000002,
+          94.764
+        ],
+        [
+          31.08,
+          94.764
+        ]
+      ]
+    },
+    {
+      "title": "Q How long does the registration process take?",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          31.08,
+          160.92000000000002
+        ],
+        [
+          243.59999999999997,
+          160.92000000000002
+        ],
+        [
+          243.59999999999997,
+          172.24399999999997
+        ],
+        [
+          31.08,
+          172.24399999999997
+        ]
+      ]
+    },
+    {
+      "title": "Q What happens if my application is rejected?",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          31.08,
+          239.592
+        ],
+        [
+          234.36,
+          239.592
+        ],
+        [
+          234.36,
+          251.51199999999997
+        ],
+        [
+          31.08,
+          251.51199999999997
+        ]
+      ]
+    },
+    {
+      "title": "Q Can I update my e-STDB details after registration?",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          31.08,
+          353.428
+        ],
+        [
+          253.26,
+          353.428
+        ],
+        [
+          253.26,
+          364.75199999999995
+        ],
+        [
+          31.08,
+          364.75199999999995
+        ]
+      ]
+    },
+    {
+      "title": "Q How can buyers verify if a farmer holds a valid e-STDB?",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          31.08,
+          450.57599999999996
+        ],
+        [
+          275.94,
+          450.57599999999996
+        ],
+        [
+          275.94,
+          462.496
+        ],
+        [
+          31.08,
+          462.496
+        ]
+      ]
+    },
+    {
+      "title": "Questions & Answers",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          37.8,
+          40.528
+        ],
+        [
+          217.56,
+          40.528
+        ],
+        [
+          217.56,
+          61.983999999999995
+        ],
+        [
+          37.8,
+          61.983999999999995
+        ]
+      ]
+    },
+    {
+      "title": "STDB Application Form",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          37.379999999999995,
+          42.315999999999995
+        ],
+        [
+          244.85999999999996,
+          42.315999999999995
+        ],
+        [
+          244.85999999999996,
+          64.368
+        ],
+        [
+          37.379999999999995,
+          64.368
+        ]
+      ]
+    },
+    {
+      "title": "SURAT TANDA DAFTAR BUDIDAYA (STDB)",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          153.72,
+          118.00800000000001
+        ],
+        [
+          256.62,
+          118.00800000000001
+        ],
+        [
+          256.62,
+          125.75599999999999
+        ],
+        [
+          153.72,
+          125.75599999999999
+        ]
+      ]
+    },
+    {
+      "title": "Glossary of Terms",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          37.8,
+          40.528
+        ],
+        [
+          189.0,
+          40.528
+        ],
+        [
+          189.0,
+          61.983999999999995
+        ],
+        [
+          37.8,
+          61.983999999999995
+        ]
+      ]
+    },
+    {
+      "title": "e-STDB (Electronic Cultivation Registration Certificate)",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          42.839999999999996,
+          98.34
+        ],
+        [
+          369.18,
+          98.34
+        ],
+        [
+          369.18,
+          114.432
+        ],
+        [
+          42.839999999999996,
+          114.432
+        ]
+      ]
+    },
+    {
+      "title": "KHDPK (Special Management Forest Area)",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          42.839999999999996,
+          225.884
+        ],
+        [
+          297.35999999999996,
+          225.884
+        ],
+        [
+          297.35999999999996,
+          241.976
+        ],
+        [
+          42.839999999999996,
+          241.976
+        ]
+      ]
+    },
+    {
+      "title": "Agroforestry ( Wanatani )",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          42.839999999999996,
+          340.9119999999999
+        ],
+        [
+          188.16,
+          340.9119999999999
+        ],
+        [
+          188.16,
+          357.59999999999997
+        ],
+        [
+          42.839999999999996,
+          357.59999999999997
+        ]
+      ]
+    },
+    {
+      "title": "Forest Area ( Kawasan Hutan )",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          42.839999999999996,
+          467.86
+        ],
+        [
+          215.88000000000002,
+          467.86
+        ],
+        [
+          215.88000000000002,
+          483.35600000000005
+        ],
+        [
+          42.839999999999996,
+          483.35600000000005
+        ]
+      ]
+    },
+    {
+      "title": "Glossary of Terms",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          37.8,
+          40.528
+        ],
+        [
+          189.42000000000002,
+          40.528
+        ],
+        [
+          189.42000000000002,
+          62.57999999999999
+        ],
+        [
+          37.8,
+          62.57999999999999
+        ]
+      ]
+    },
+    {
+      "title": "RTRW (Regional Spatial Plan)",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          43.26,
+          98.34
+        ],
+        [
+          221.34,
+          98.34
+        ],
+        [
+          221.34,
+          115.02799999999999
+        ],
+        [
+          43.26,
+          115.02799999999999
+        ]
+      ]
+    },
+    {
+      "title": "Social Forestry ( Perhutanan Sosial )",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          43.26,
+          205.62
+        ],
+        [
+          249.06,
+          205.62
+        ],
+        [
+          249.06,
+          222.30799999999996
+        ],
+        [
+          43.26,
+          222.30799999999996
+        ]
+      ]
+    },
+    {
+      "title": "Farm Polygon ( Poligon Kebun )",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          43.26,
+          345.08399999999995
+        ],
+        [
+          225.54000000000002,
+          345.08399999999995
+        ],
+        [
+          225.54000000000002,
+          361.176
+        ],
+        [
+          43.26,
+          361.176
+        ]
+      ]
+    },
+    {
+      "title": "Contact List of Agencies Related to e-STDB",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          37.8,
+          42.315999999999995
+        ],
+        [
+          375.48,
+          42.315999999999995
+        ],
+        [
+          375.48,
+          63.772
+        ],
+        [
+          37.8,
+          63.772
+        ]
+      ]
+    },
+    {
+      "title": "Reference",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          37.8,
+          355.81199999999995
+        ],
+        [
+          119.69999999999999,
+          355.81199999999995
+        ],
+        [
+          119.69999999999999,
+          374.88399999999996
+        ],
+        [
+          37.8,
+          374.88399999999996
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          16
+        ],
+        [
+          "Picture",
+          12
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Diagram",
+          6
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          23
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          17
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "ListGroup",
+          6
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          24
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          27
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          34
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          13
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Form",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Practical-Guide-E-STDB-in-Forest-ENG"
+}

@@ -1,0 +1,2500 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Unlocking Scalable Financial and Incentive Mechanisms for Smallholders and Producers in Indonesia and Malaysia",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.336,
+          45.467999999999996
+        ],
+        [
+          394.552,
+          45.467999999999996
+        ],
+        [
+          394.552,
+          170.084
+        ],
+        [
+          39.336,
+          170.084
+        ]
+      ]
+    },
+    {
+      "title": "Glossary",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.08824991759485,
+          97.49422706882548
+        ],
+        [
+          120.80756353190924,
+          97.49422706882548
+        ],
+        [
+          120.80756353190924,
+          121.1090087890625
+        ],
+        [
+          40.08824991759485,
+          121.1090087890625
+        ]
+      ]
+    },
+    {
+      "title": "Executive Summary",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.711806559142296,
+          89.2095965744657
+        ],
+        [
+          296.90342270397116,
+          89.2095965744657
+        ],
+        [
+          296.90342270397116,
+          123.54965465406381
+        ],
+        [
+          40.711806559142296,
+          123.54965465406381
+        ]
+      ]
+    },
+    {
+      "title": "Introduction and Context",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.78089589616213,
+          90.56123459392218
+        ],
+        [
+          274.9920123890605,
+          90.56123459392218
+        ],
+        [
+          274.9920123890605,
+          116.05804443359375
+        ],
+        [
+          38.78089589616213,
+          116.05804443359375
+        ]
+      ]
+    },
+    {
+      "title": "Bottlenecks in \nSustainable Finance \nAcross the Supply Chain",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          37.871970304013495,
+          90.67685997709034
+        ],
+        [
+          265.5020487518695,
+          90.67685997709034
+        ],
+        [
+          265.5020487518695,
+          168.8580322265625
+        ],
+        [
+          37.871970304013495,
+          168.8580322265625
+        ]
+      ]
+    },
+    {
+      "title": "Financial institutions (FIs)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          306.0925892558446,
+          447.5814478560844
+        ],
+        [
+          481.9651241734886,
+          447.5814478560844
+        ],
+        [
+          481.9651241734886,
+          468.22100830078125
+        ],
+        [
+          306.0925892558446,
+          468.22100830078125
+        ]
+      ]
+    },
+    {
+      "title": "Supply chain actors",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          40.34040599986348,
+          301.9549015958927
+        ],
+        [
+          179.19484113025425,
+          301.9549015958927
+        ],
+        [
+          179.19484113025425,
+          321.27197265625
+        ],
+        [
+          40.34040599986348,
+          321.27197265625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          40.06550286819112,
+          321.0248696793431
+        ],
+        [
+          273.57690767917586,
+          321.0248696793431
+        ],
+        [
+          273.57690767917586,
+          350.625082177343
+        ],
+        [
+          40.06550286819112,
+          350.625082177343
+        ]
+      ]
+    },
+    {
+      "title": "Asset managers and investors\nESG integration remains uneven; biodiversity-\nrelated disclosures are weak.",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          305.8629654660933,
+          196.37030703238048
+        ],
+        [
+          526.7808890162547,
+          196.37030703238048
+        ],
+        [
+          526.7808890162547,
+          247.36407470703125
+        ],
+        [
+          305.8629654660933,
+          247.36407470703125
+        ]
+      ]
+    },
+    {
+      "title": "Smallholders",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          306.1205591927247,
+          466.70177787855494
+        ],
+        [
+          401.5973475381769,
+          466.70177787855494
+        ],
+        [
+          401.5973475381769,
+          486.2720031738281
+        ],
+        [
+          306.1205591927247,
+          486.2720031738281
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          306.2660211904223,
+          485.2659986025503
+        ],
+        [
+          536.9388095653927,
+          485.2659986025503
+        ],
+        [
+          536.9388095653927,
+          515.4140144545163
+        ],
+        [
+          306.2660211904223,
+          515.4140144545163
+        ]
+      ]
+    },
+    {
+      "title": "Traceability\u2013finance disconnect\nSystems like e-Surat Tanda Daftar Budidaya \n(e-STDB) (Indonesia) and Agrolink (Malaysia) are \nnot yet integrated into credit assessments or loan \nmonitoring:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          39.57580562562726,
+          421.78560963848923
+        ],
+        [
+          284.56622314453125,
+          421.78560963848923
+        ],
+        [
+          284.56622314453125,
+          505.9792785644531
+        ],
+        [
+          39.57580562562726,
+          505.9792785644531
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Systemic \nGaps",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          50.05062716313513,
+          342.01767535731926
+        ],
+        [
+          164.06390380859375,
+          342.01767535731926
+        ],
+        [
+          164.06390380859375,
+          391.67999267578125
+        ],
+        [
+          50.05062716313513,
+          391.67999267578125
+        ]
+      ]
+    },
+    {
+      "title": "Lack of bundled services",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          306.63292903563837,
+          334.0718610428957
+        ],
+        [
+          480.08612168165536,
+          334.0718610428957
+        ],
+        [
+          480.08612168165536,
+          354.7218017578125
+        ],
+        [
+          306.63292903563837,
+          354.7218017578125
+        ]
+      ]
+    },
+    {
+      "title": "Absence of group-based verifica-\ntion models",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          306.3342623386335,
+          506.23665509516917
+        ],
+        [
+          541.1475863901134,
+          506.23665509516917
+        ],
+        [
+          541.1475863901134,
+          546.7220153808594
+        ],
+        [
+          306.3342623386335,
+          546.7220153808594
+        ]
+      ]
+    },
+    {
+      "title": "Financial Products \nand Mechanisms: \nWhat Works",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          38.01092373634165,
+          90.17912682442397
+        ],
+        [
+          214.61074829101562,
+          90.17912682442397
+        ],
+        [
+          214.61074829101562,
+          174.53424072265625
+        ],
+        [
+          38.01092373634165,
+          174.53424072265625
+        ]
+      ]
+    },
+    {
+      "title": "Sustainable-linked loans (SLLs)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          306.11852043401683,
+          468.5636365691785
+        ],
+        [
+          525.4699900744844,
+          468.5636365691785
+        ],
+        [
+          525.4699900744844,
+          489.5892028808594
+        ],
+        [
+          306.11852043401683,
+          489.5892028808594
+        ]
+      ]
+    },
+    {
+      "title": "Green bonds40",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          39.92939854388873,
+          89.90808532116992
+        ],
+        [
+          145.17976706094043,
+          89.90808532116992
+        ],
+        [
+          145.17976706094043,
+          110.10699462890625
+        ],
+        [
+          39.92939854388873,
+          110.10699462890625
+        ]
+      ]
+    },
+    {
+      "title": "Other SLLs and green bonds",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          306.12495741375744,
+          89.78390229820462
+        ],
+        [
+          506.3582536135272,
+          89.78390229820462
+        ],
+        [
+          506.3582536135272,
+          110.10699462890625
+        ],
+        [
+          306.12495741375744,
+          110.10699462890625
+        ]
+      ]
+    },
+    {
+      "title": "Blended \nFinance \nStructures\n4.2",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          50.6102950627017,
+          446.0849134355173
+        ],
+        [
+          170.28342681807894,
+          446.0849134355173
+        ],
+        [
+          170.28342681807894,
+          511.9159851074219
+        ],
+        [
+          50.6102950627017,
+          511.9159851074219
+        ]
+      ]
+    },
+    {
+      "title": "Green Sukuk and Waqf \nInstruments",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          40.19914464686319,
+          256.51966902748984
+        ],
+        [
+          211.47952270507812,
+          256.51966902748984
+        ],
+        [
+          211.47952270507812,
+          297.76898193359375
+        ],
+        [
+          40.19914464686319,
+          297.76898193359375
+        ]
+      ]
+    },
+    {
+      "title": "Used to mobilize climate-aligned capital for \nagriculture and forest protection.",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          39.8565816422854,
+          296.0948632529879
+        ],
+        [
+          253.9214630126953,
+          296.0948632529879
+        ],
+        [
+          253.9214630126953,
+          328.8607177734375
+        ],
+        [
+          39.8565816422854,
+          328.8607177734375
+        ]
+      ]
+    },
+    {
+      "title": "Linking Finance to \nTraceability and \nCompliance",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          38.03765381013116,
+          90.09319004456273
+        ],
+        [
+          213.24668884277344,
+          90.09319004456273
+        ],
+        [
+          213.24668884277344,
+          168.8580322265625
+        ],
+        [
+          38.03765381013116,
+          168.8580322265625
+        ]
+      ]
+    },
+    {
+      "title": "e-STDB (Indonesia) and Digital \nAgtech (Malaysia)",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          306.1671986615928,
+          467.0601462061025
+        ],
+        [
+          526.3841552734375,
+          467.0601462061025
+        ],
+        [
+          526.3841552734375,
+          507.0190124511719
+        ],
+        [
+          306.1671986615928,
+          507.0190124511719
+        ]
+      ]
+    },
+    {
+      "title": "Conditional Disbursement Models",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          306.2536511937677,
+          89.37361037678095
+        ],
+        [
+          546.3561796481423,
+          89.37361037678095
+        ],
+        [
+          546.3561796481423,
+          110.10699462890625
+        ],
+        [
+          306.2536511937677,
+          110.10699462890625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          50.60043915333015,
+          98.96487119679777
+        ],
+        [
+          213.51292284910264,
+          98.96487119679777
+        ],
+        [
+          213.51292284910264,
+          134.74574751272226
+        ],
+        [
+          50.60043915333015,
+          134.74574751272226
+        ]
+      ]
+    },
+    {
+      "title": "Incentive Structures for \nVerified Sustainable \nProduction",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          39.28358449863847,
+          91.1519005113909
+        ],
+        [
+          259.4361572265625,
+          91.1519005113909
+        ],
+        [
+          259.4361572265625,
+          168.8580322265625
+        ],
+        [
+          39.28358449863847,
+          168.8580322265625
+        ]
+      ]
+    },
+    {
+      "title": "Preferential Market-Access \nMechanisms",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          305.67785075689744,
+          454.3028561192119
+        ],
+        [
+          501.9049987792969,
+          454.3028561192119
+        ],
+        [
+          501.9049987792969,
+          495.3269958496094
+        ],
+        [
+          305.67785075689744,
+          495.3269958496094
+        ]
+      ]
+    },
+    {
+      "title": "Offtake Agreements",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          39.81909940705191,
+          362.1870484594139
+        ],
+        [
+          187.56250245985515,
+          362.1870484594139
+        ],
+        [
+          187.56250245985515,
+          383.2720031738281
+        ],
+        [
+          39.81909940705191,
+          383.2720031738281
+        ]
+      ]
+    },
+    {
+      "title": "Interest Subsidies",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          306.26169169159317,
+          175.27360840387252
+        ],
+        [
+          431.57823354110906,
+          175.27360840387252
+        ],
+        [
+          431.57823354110906,
+          195.98199462890625
+        ],
+        [
+          306.26169169159317,
+          195.98199462890625
+        ]
+      ]
+    },
+    {
+      "title": "Tax Waivers",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          305.4080015706175,
+          587.3059684230298
+        ],
+        [
+          397.3707945701157,
+          587.3059684230298
+        ],
+        [
+          397.3707945701157,
+          606.9819946289062
+        ],
+        [
+          305.4080015706175,
+          606.9819946289062
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          50.03945407819387,
+          344.37702122566856
+        ],
+        [
+          156.51473860656583,
+          344.37702122566856
+        ],
+        [
+          156.51473860656583,
+          391.0445081620798
+        ],
+        [
+          50.03945407819387,
+          391.0445081620798
+        ]
+      ]
+    },
+    {
+      "title": "Collaborative Platforms \nand Multi-Stakeholder \nModels",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          39.678977697261935,
+          89.69785111139421
+        ],
+        [
+          268.8982849121094,
+          89.69785111139421
+        ],
+        [
+          268.8982849121094,
+          168.8580322265625
+        ],
+        [
+          39.678977697261935,
+          168.8580322265625
+        ]
+      ]
+    },
+    {
+      "title": "BPDP\u2013BPDLH\u2013Donor Coalitions",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          306.34468520618503,
+          480.95061424302924
+        ],
+        [
+          530.0515619465326,
+          480.95061424302924
+        ],
+        [
+          530.0515619465326,
+          501.5469970703125
+        ],
+        [
+          306.34468520618503,
+          501.5469970703125
+        ]
+      ]
+    },
+    {
+      "title": "Rimba Collective and Landscape \nFinance Lab111",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          40.41815944642804,
+          202.5086517198109
+        ],
+        [
+          271.189697265625,
+          202.5086517198109
+        ],
+        [
+          271.189697265625,
+          243.27197265625
+        ],
+        [
+          40.41815944642804,
+          243.27197265625
+        ]
+      ]
+    },
+    {
+      "title": "Inputs from panellists at RTD#5 stressed that \neffective PPPPs require five pillars:",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          40.10571394759401,
+          521.3137977715592
+        ],
+        [
+          254.02796936035156,
+          521.3137977715592
+        ],
+        [
+          254.02796936035156,
+          554.4301147460938
+        ],
+        [
+          40.10571394759401,
+          554.4301147460938
+        ]
+      ]
+    },
+    {
+      "title": "Co-investment in upstream \nsustainability",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          306.38933173114765,
+          402.617320222931
+        ],
+        [
+          499.6962585449219,
+          402.617320222931
+        ],
+        [
+          499.6962585449219,
+          442.84600830078125
+        ],
+        [
+          306.38933173114765,
+          442.84600830078125
+        ]
+      ]
+    },
+    {
+      "title": "Embedding sustainability \ninto sourcing contracts and \nprocurement policies",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          39.32409910110742,
+          89.90675248021222
+        ],
+        [
+          232.61546325683594,
+          89.90675248021222
+        ],
+        [
+          232.61546325683594,
+          150.10699462890625
+        ],
+        [
+          39.32409910110742,
+          150.10699462890625
+        ]
+      ]
+    },
+    {
+      "title": "Recommendations for \nPolicy, Investment, and \nImplementation",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          39.29934765409762,
+          90.82863223584549
+        ],
+        [
+          261.1482849121094,
+          90.82863223584549
+        ],
+        [
+          261.1482849121094,
+          168.8580322265625
+        ],
+        [
+          39.29934765409762,
+          168.8580322265625
+        ]
+      ]
+    },
+    {
+      "title": "Expand national credit guarantee \nschemes and de-risking facilities",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          305.80787316617796,
+          488.81101232921026
+        ],
+        [
+          548.0850830078125,
+          488.81101232921026
+        ],
+        [
+          548.0850830078125,
+          530.0440063476562
+        ],
+        [
+          305.80787316617796,
+          530.0440063476562
+        ]
+      ]
+    },
+    {
+      "title": "Develop traceability-linked loan \nproducts and ESG scoring systems",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          305.7167475241558,
+          155.82750459367
+        ],
+        [
+          544.369140625,
+          155.82750459367
+        ],
+        [
+          544.369140625,
+          196.13897705078125
+        ],
+        [
+          305.7167475241558,
+          196.13897705078125
+        ]
+      ]
+    },
+    {
+      "title": "Scale group-based lending and \ncooperative financing models",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          305.7789182110457,
+          349.3792362637745
+        ],
+        [
+          531.2648315429688,
+          349.3792362637745
+        ],
+        [
+          531.2648315429688,
+          390.1390075683594
+        ],
+        [
+          305.7789182110457,
+          390.1390075683594
+        ]
+      ]
+    },
+    {
+      "title": "Invest in ESG capacity building and \ndigital onboarding tools",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          305.8460139891963,
+          542.039806444095
+        ],
+        [
+          555.7929077148438,
+          542.039806444095
+        ],
+        [
+          555.7929077148438,
+          583.1390075683594
+        ],
+        [
+          305.8460139891963,
+          583.1390075683594
+        ]
+      ]
+    },
+    {
+      "title": "Mainstream sustainability-linked \nincentives into public credit \nprograms",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          39.81906790937524,
+          216.3978612802969
+        ],
+        [
+          277.2061767578125,
+          216.3978612802969
+        ],
+        [
+          277.2061767578125,
+          277.27197265625
+        ],
+        [
+          39.81906790937524,
+          277.27197265625
+        ]
+      ]
+    },
+    {
+      "title": "Align TKBI (Indonesia's \nSustainable Finance Taxonomy) \nwith EUDR and ASEAN \nframeworks",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          39.83370573874985,
+          458.1401567195848
+        ],
+        [
+          269.3034362792969,
+          458.1401567195848
+        ],
+        [
+          269.3034362792969,
+          539.2720031738281
+        ],
+        [
+          39.83370573874985,
+          539.2720031738281
+        ]
+      ]
+    },
+    {
+      "title": "Offer price premiums and \nlong-term contracts for verified \nproduction",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          39.90622770756258,
+          177.00748004047125
+        ],
+        [
+          262.5373840332031,
+          177.00748004047125
+        ],
+        [
+          262.5373840332031,
+          237.4000244140625
+        ],
+        [
+          39.90622770756258,
+          237.4000244140625
+        ]
+      ]
+    },
+    {
+      "title": "Support producer onboarding \ninto traceability and certification \nsystems",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          39.33262638120867,
+          376.7003708089555
+        ],
+        [
+          271.8639831542969,
+          376.7003708089555
+        ],
+        [
+          271.8639831542969,
+          437.3999938964844
+        ],
+        [
+          39.33262638120867,
+          437.3999938964844
+        ]
+      ]
+    },
+    {
+      "title": "Participate in blended finance \nplatforms and jurisdictional \ninitiatives",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          305.75649186525897,
+          160.17864112480348
+        ],
+        [
+          520.0641479492188,
+          160.17864112480348
+        ],
+        [
+          520.0641479492188,
+          221.27197265625
+        ],
+        [
+          305.75649186525897,
+          221.27197265625
+        ]
+      ]
+    },
+    {
+      "title": "Case Studies and \nReplication Models",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          39.578302532359395,
+          89.73458718276936
+        ],
+        [
+          221.8225368240318,
+          89.73458718276936
+        ],
+        [
+          221.8225368240318,
+          142.45806884765625
+        ],
+        [
+          39.578302532359395,
+          142.45806884765625
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          40.764811422122214,
+          367.81783815759263
+        ],
+        [
+          181.35948181152344,
+          367.81783815759263
+        ],
+        [
+          181.35948181152344,
+          401.8110046386719
+        ],
+        [
+          40.764811422122214,
+          401.8110046386719
+        ]
+      ]
+    },
+    {
+      "title": "Inclusive \u00c0nance is not a peripheral \nissue\u2014it is a precondition for \nsuccessful transformation.",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          39.83957576031048,
+          443.5153333573923
+        ],
+        [
+          290.519775390625,
+          443.5153333573923
+        ],
+        [
+          290.519775390625,
+          490.0799865722656
+        ],
+        [
+          39.83957576031048,
+          490.0799865722656
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          15
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          272
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Footnote",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Footnote",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Footnote",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Footnote",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Footnote",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Footnote",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Footnote",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          305
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Footnote",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Footnote",
+          12
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Footnote",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Footnote",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Footnote",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Unlocking-Scalable-Financial-and-Incentive-Mechanisms"
+}

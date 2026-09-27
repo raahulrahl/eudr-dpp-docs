@@ -1,0 +1,330 @@
+{
+  "table_of_contents": [
+    {
+      "title": "What 13th-Century Ragpickers Can Teach Us\nAbout Recycling PET",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.80661789996068,
+          184.08520874675636
+        ],
+        [
+          526.22021484375,
+          184.08520874675636
+        ],
+        [
+          526.22021484375,
+          240.8203125
+        ],
+        [
+          68.80661789996068,
+          240.8203125
+        ]
+      ]
+    },
+    {
+      "title": "A saint's patched habit",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.5806975742556,
+          355.43749608679315
+        ],
+        [
+          234.3153533935547,
+          355.43749608679315
+        ],
+        [
+          234.3153533935547,
+          375.508544921875
+        ],
+        [
+          68.5806975742556,
+          375.508544921875
+        ]
+      ]
+    },
+    {
+      "title": "Europe's Medieval Textile Recycling Network",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.67359607624557,
+          695.8740445253367
+        ],
+        [
+          389.0306091308594,
+          695.8740445253367
+        ],
+        [
+          389.0306091308594,
+          716.3127365112305
+        ],
+        [
+          68.67359607624557,
+          716.3127365112305
+        ]
+      ]
+    },
+    {
+      "title": "Why we can't just scale the old model",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.83676043816332,
+          638.560190120979
+        ],
+        [
+          339.6209411621094,
+          638.560190120979
+        ],
+        [
+          339.6209411621094,
+          658.308349609375
+        ],
+        [
+          68.83676043816332,
+          658.308349609375
+        ]
+      ]
+    },
+    {
+      "title": "WHITECYCLE: building a modern ragpicker network",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.19683507763364,
+          428.9241456382527
+        ],
+        [
+          432.648193359375,
+          428.9241456382527
+        ],
+        [
+          432.648193359375,
+          449.005615234375
+        ],
+        [
+          69.19683507763364,
+          449.005615234375
+        ]
+      ]
+    },
+    {
+      "title": "The real challenge: trust and logistics, not just chemistry",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.12278281157872,
+          124.19423484632402
+        ],
+        [
+          470.3219299316406,
+          124.19423484632402
+        ],
+        [
+          470.3219299316406,
+          143.474365234375
+        ],
+        [
+          69.12278281157872,
+          143.474365234375
+        ]
+      ]
+    },
+    {
+      "title": "A note on patience",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          68.61471803293287,
+          74.32677982157081
+        ],
+        [
+          208.16265869140625,
+          74.32677982157081
+        ],
+        [
+          208.16265869140625,
+          91.782958984375
+        ],
+        [
+          68.61471803293287,
+          91.782958984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          495
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          860
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          647
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          679
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          297
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Whitecycle-Ragpickers"
+}

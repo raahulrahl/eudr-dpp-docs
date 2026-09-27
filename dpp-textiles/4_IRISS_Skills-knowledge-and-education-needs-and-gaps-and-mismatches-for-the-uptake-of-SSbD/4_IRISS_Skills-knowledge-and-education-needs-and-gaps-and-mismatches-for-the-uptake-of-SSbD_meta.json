@@ -1,0 +1,2930 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The international ecosystem for accelerating\nthe transition to Safe-and-Sustainable-by-design materials, \nproducts and processes.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.2407169342041,
+          336.9001007080078
+        ],
+        [
+          565.6322021484375,
+          336.9001007080078
+        ],
+        [
+          565.6322021484375,
+          409.1000061035156
+        ],
+        [
+          70.2407169342041,
+          409.1000061035156
+        ]
+      ]
+    },
+    {
+      "title": "Our partners:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          247.86,
+          492.624
+        ],
+        [
+          317.62800000000004,
+          492.624
+        ],
+        [
+          317.62800000000004,
+          506.88
+        ],
+        [
+          247.86,
+          506.88
+        ]
+      ]
+    },
+    {
+      "title": "Revision History",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          67.43933486938477,
+          122.97684860229492
+        ],
+        [
+          179.15385818481445,
+          122.97684860229492
+        ],
+        [
+          179.15385818481445,
+          143.0899658203125
+        ],
+        [
+          67.43933486938477,
+          143.0899658203125
+        ]
+      ]
+    },
+    {
+      "title": "Disclaimer",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          67.35959815979004,
+          402.8041534423828
+        ],
+        [
+          141.2977409362793,
+          402.8041534423828
+        ],
+        [
+          141.2977409362793,
+          422.47998046875
+        ],
+        [
+          67.35959815979004,
+          422.47998046875
+        ]
+      ]
+    },
+    {
+      "title": "Table of Content",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          67.39212799072266,
+          101.30451965332031
+        ],
+        [
+          182.78221893310547,
+          101.30451965332031
+        ],
+        [
+          182.78221893310547,
+          120.64996337890625
+        ],
+        [
+          67.39212799072266,
+          120.64996337890625
+        ]
+      ]
+    },
+    {
+      "title": "List of figures",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          67.60558891296387,
+          396.4232940673828
+        ],
+        [
+          160.18527603149414,
+          396.4232940673828
+        ],
+        [
+          160.18527603149414,
+          416.1199951171875
+        ],
+        [
+          67.60558891296387,
+          416.1199951171875
+        ]
+      ]
+    },
+    {
+      "title": "1. Executive summary",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          67.85913276672363,
+          101.33373641967773
+        ],
+        [
+          218.13189697265625,
+          101.33373641967773
+        ],
+        [
+          218.13189697265625,
+          119.80999755859375
+        ],
+        [
+          67.85913276672363,
+          119.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "2. Introduction",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          67.61804008483887,
+          101.09000015258789
+        ],
+        [
+          172.33102798461914,
+          101.09000015258789
+        ],
+        [
+          172.33102798461914,
+          119.80999755859375
+        ],
+        [
+          67.61804008483887,
+          119.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "3. Methodology",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          67.68918800354004,
+          101.07194137573242
+        ],
+        [
+          178.88386917114258,
+          101.07194137573242
+        ],
+        [
+          178.88386917114258,
+          119.80999755859375
+        ],
+        [
+          67.68918800354004,
+          119.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "4. General findings and conclusions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          67.25727653503418,
+          350.49851989746094
+        ],
+        [
+          307.20501708984375,
+          350.49851989746094
+        ],
+        [
+          307.20501708984375,
+          369.91998291015625
+        ],
+        [
+          67.25727653503418,
+          369.91998291015625
+        ]
+      ]
+    },
+    {
+      "title": "5. Findings per value chain",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          67.1411018371582,
+          100.30468368530273
+        ],
+        [
+          249.48619079589844,
+          100.30468368530273
+        ],
+        [
+          249.48619079589844,
+          119.80999755859375
+        ],
+        [
+          67.1411018371582,
+          119.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "5.1. Automotive sector",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          84.07291603088379,
+          142.81867218017578
+        ],
+        [
+          260.57794189453125,
+          142.81867218017578
+        ],
+        [
+          260.57794189453125,
+          161.80999755859375
+        ],
+        [
+          84.07291603088379,
+          161.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "Supply chain in the automotive sector",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          67.65522193908691,
+          163.8533706665039
+        ],
+        [
+          254.70204162597656,
+          163.8533706665039
+        ],
+        [
+          254.70204162597656,
+          179.17999267578125
+        ],
+        [
+          67.65522193908691,
+          179.17999267578125
+        ]
+      ]
+    },
+    {
+      "title": "SSbD relevance in the automotive supply chain",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          67.75437927246094,
+          385.74884033203125
+        ],
+        [
+          297.80261993408203,
+          385.74884033203125
+        ],
+        [
+          297.80261993408203,
+          401.21002197265625
+        ],
+        [
+          67.75437927246094,
+          401.21002197265625
+        ]
+      ]
+    },
+    {
+      "title": "Chemical substances",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          67.47649955749512,
+          451.80848693847656
+        ],
+        [
+          169.48548889160156,
+          451.80848693847656
+        ],
+        [
+          169.48548889160156,
+          467.2300109863281
+        ],
+        [
+          67.47649955749512,
+          467.2300109863281
+        ]
+      ]
+    },
+    {
+      "title": "Materials",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          67.48575782775879,
+          546.6328582763672
+        ],
+        [
+          116.55326843261719,
+          546.6328582763672
+        ],
+        [
+          116.55326843261719,
+          561.1899871826172
+        ],
+        [
+          67.48575782775879,
+          561.1899871826172
+        ]
+      ]
+    },
+    {
+      "title": "The approach on safety and sustainability in the sector",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          67.76503944396973,
+          100.63553237915039
+        ],
+        [
+          335.19815826416016,
+          100.63553237915039
+        ],
+        [
+          335.19815826416016,
+          115.22003173828125
+        ],
+        [
+          67.76503944396973,
+          115.22003173828125
+        ]
+      ]
+    },
+    {
+      "title": "Functions within automotive companies in need of thorough SSbD knowledge",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          66.9730110168457,
+          456.2021026611328
+        ],
+        [
+          447.53668212890625,
+          456.2021026611328
+        ],
+        [
+          447.53668212890625,
+          471.30999755859375
+        ],
+        [
+          66.9730110168457,
+          471.30999755859375
+        ]
+      ]
+    },
+    {
+      "title": "Training gaps & needs",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          67.73605155944824,
+          100.80204391479492
+        ],
+        [
+          177.55125045776367,
+          100.80204391479492
+        ],
+        [
+          177.55125045776367,
+          115.22003173828125
+        ],
+        [
+          67.73605155944824,
+          115.22003173828125
+        ]
+      ]
+    },
+    {
+      "title": "5.2. Construction chemicals sector",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          85.11530113220215,
+          302.4427185058594
+        ],
+        [
+          334.7934265136719,
+          302.4427185058594
+        ],
+        [
+          334.7934265136719,
+          321.91998291015625
+        ],
+        [
+          85.11530113220215,
+          321.91998291015625
+        ]
+      ]
+    },
+    {
+      "title": "Supply chain in the construction chemicals sector",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          67.16574096679688,
+          324.24632263183594
+        ],
+        [
+          309.1271209716797,
+          324.24632263183594
+        ],
+        [
+          309.1271209716797,
+          339.2900085449219
+        ],
+        [
+          67.16574096679688,
+          339.2900085449219
+        ]
+      ]
+    },
+    {
+      "title": "SSbD relevance in the construction chemicals supply chain",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          68.38785552978516,
+          388.0871887207031
+        ],
+        [
+          352.82066345214844,
+          388.0871887207031
+        ],
+        [
+          352.82066345214844,
+          403.25
+        ],
+        [
+          68.38785552978516,
+          403.25
+        ]
+      ]
+    },
+    {
+      "title": "The approach on safety and sustainability in the sector",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          67.78956413269043,
+          510.26527404785156
+        ],
+        [
+          335.98226165771484,
+          510.26527404785156
+        ],
+        [
+          335.98226165771484,
+          525.1900024414062
+        ],
+        [
+          67.78956413269043,
+          525.1900024414062
+        ]
+      ]
+    },
+    {
+      "title": "Functions within construction chemical companies in need of thorough SSbD knowledge",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          68.37683486938477,
+          100.2359733581543
+        ],
+        [
+          497.23699951171875,
+          100.2359733581543
+        ],
+        [
+          497.23699951171875,
+          115.22003173828125
+        ],
+        [
+          68.37683486938477,
+          115.22003173828125
+        ]
+      ]
+    },
+    {
+      "title": "Training gaps & needs",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          67.75107192993164,
+          283.78871154785156
+        ],
+        [
+          177.7804069519043,
+          283.78871154785156
+        ],
+        [
+          177.7804069519043,
+          299.3300476074219
+        ],
+        [
+          67.75107192993164,
+          299.3300476074219
+        ]
+      ]
+    },
+    {
+      "title": "5.3. Electronics sector",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          85.21369171142578,
+          100.5230598449707
+        ],
+        [
+          252.42947387695312,
+          100.5230598449707
+        ],
+        [
+          252.42947387695312,
+          119.80999755859375
+        ],
+        [
+          85.21369171142578,
+          119.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "Supply chain in the electronics sector",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          66.72945785522461,
+          122.53956985473633
+        ],
+        [
+          250.5066375732422,
+          122.53956985473633
+        ],
+        [
+          250.5066375732422,
+          137.17999267578125
+        ],
+        [
+          66.72945785522461,
+          137.17999267578125
+        ]
+      ]
+    },
+    {
+      "title": "SSbD relevance in the electronics supply chain",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          67.6237964630127,
+          140.40259552001953
+        ],
+        [
+          294.37145233154297,
+          140.40259552001953
+        ],
+        [
+          294.37145233154297,
+          155.17999267578125
+        ],
+        [
+          67.6237964630127,
+          155.17999267578125
+        ]
+      ]
+    },
+    {
+      "title": "The approach on safety and sustainability in the sector",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          67.50185966491699,
+          219.8240203857422
+        ],
+        [
+          336.18994903564453,
+          219.8240203857422
+        ],
+        [
+          336.18994903564453,
+          235.22003173828125
+        ],
+        [
+          67.50185966491699,
+          235.22003173828125
+        ]
+      ]
+    },
+    {
+      "title": "Sustainability",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          67.62217712402344,
+          355.7606964111328
+        ],
+        [
+          137.04212951660156,
+          355.7606964111328
+        ],
+        [
+          137.04212951660156,
+          371.21002197265625
+        ],
+        [
+          67.62217712402344,
+          371.21002197265625
+        ]
+      ]
+    },
+    {
+      "title": "Functions within electronics companies in need of thorough SSbD knowledge",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          67.5102767944336,
+          559.7828979492188
+        ],
+        [
+          443.9431915283203,
+          559.7828979492188
+        ],
+        [
+          443.9431915283203,
+          575.3499908447266
+        ],
+        [
+          67.5102767944336,
+          575.3499908447266
+        ]
+      ]
+    },
+    {
+      "title": "Training gaps & needs",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          67.5783805847168,
+          244.8889389038086
+        ],
+        [
+          178.12401580810547,
+          244.8889389038086
+        ],
+        [
+          178.12401580810547,
+          259.34002685546875
+        ],
+        [
+          67.5783805847168,
+          259.34002685546875
+        ]
+      ]
+    },
+    {
+      "title": "5.4. Energy materials sector",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          85.034912109375,
+          101.00006103515625
+        ],
+        [
+          292.33653259277344,
+          101.00006103515625
+        ],
+        [
+          292.33653259277344,
+          119.80999755859375
+        ],
+        [
+          85.034912109375,
+          119.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "Supply chain in the energy materials sector",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          66.69592666625977,
+          122.68851470947266
+        ],
+        [
+          279.5592727661133,
+          122.68851470947266
+        ],
+        [
+          279.5592727661133,
+          137.17999267578125
+        ],
+        [
+          66.69592666625977,
+          137.17999267578125
+        ]
+      ]
+    },
+    {
+      "title": "SSbD relevance in the energy materials supply chain",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          67.19427680969238,
+          100.74731826782227
+        ],
+        [
+          322.8303909301758,
+          100.74731826782227
+        ],
+        [
+          322.8303909301758,
+          115.22003173828125
+        ],
+        [
+          67.19427680969238,
+          115.22003173828125
+        ]
+      ]
+    },
+    {
+      "title": "The approach on safety and sustainability in the sector",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          67.09232139587402,
+          212.21234893798828
+        ],
+        [
+          335.36558532714844,
+          212.21234893798828
+        ],
+        [
+          335.36558532714844,
+          227.29998779296875
+        ],
+        [
+          67.09232139587402,
+          227.29998779296875
+        ]
+      ]
+    },
+    {
+      "title": "Sustainability",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          67.1294174194336,
+          366.6017761230469
+        ],
+        [
+          137.22423934936523,
+          366.6017761230469
+        ],
+        [
+          137.22423934936523,
+          381.2900085449219
+        ],
+        [
+          67.1294174194336,
+          381.2900085449219
+        ]
+      ]
+    },
+    {
+      "title": "Functions within battery companies in need of thorough SSbD knowledge",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          67.46070671081543,
+          509.79510498046875
+        ],
+        [
+          426.72486877441406,
+          509.79510498046875
+        ],
+        [
+          426.72486877441406,
+          525.3099975585938
+        ],
+        [
+          67.46070671081543,
+          525.3099975585938
+        ]
+      ]
+    },
+    {
+      "title": "Training gaps & needs",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          67.47859954833984,
+          597.8347778320312
+        ],
+        [
+          177.99444580078125,
+          597.8347778320312
+        ],
+        [
+          177.99444580078125,
+          613.4199981689453
+        ],
+        [
+          67.47859954833984,
+          613.4199981689453
+        ]
+      ]
+    },
+    {
+      "title": "5.5. Fragrance sector",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          84.9195785522461,
+          101.11980056762695
+        ],
+        [
+          246.4599838256836,
+          101.11980056762695
+        ],
+        [
+          246.4599838256836,
+          119.80999755859375
+        ],
+        [
+          84.9195785522461,
+          119.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "Supply chain in the fragrance sector",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          67.08242797851562,
+          122.88351058959961
+        ],
+        [
+          244.14028930664062,
+          122.88351058959961
+        ],
+        [
+          244.14028930664062,
+          137.17999267578125
+        ],
+        [
+          67.08242797851562,
+          137.17999267578125
+        ]
+      ]
+    },
+    {
+      "title": "SSbD relevance in the fragrance supply chain",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          67.13639831542969,
+          100.47992706298828
+        ],
+        [
+          287.63291931152344,
+          100.47992706298828
+        ],
+        [
+          287.63291931152344,
+          115.22003173828125
+        ],
+        [
+          67.13639831542969,
+          115.22003173828125
+        ]
+      ]
+    },
+    {
+      "title": "The fragrance industry recommends a sector specific SSbD assessment, with focus on",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          67.38288116455078,
+          256.48116302490234
+        ],
+        [
+          483.6636962890625,
+          256.48116302490234
+        ],
+        [
+          483.6636962890625,
+          271.3699951171875
+        ],
+        [
+          67.38288116455078,
+          271.3699951171875
+        ]
+      ]
+    },
+    {
+      "title": "The approach on safety and sustainability in the sector",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          67.22876930236816,
+          330.4973373413086
+        ],
+        [
+          336.14417266845703,
+          330.4973373413086
+        ],
+        [
+          336.14417266845703,
+          345.4100036621094
+        ],
+        [
+          67.22876930236816,
+          345.4100036621094
+        ]
+      ]
+    },
+    {
+      "title": "Functions within companies in need of thorough SSbD knowledge",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          67.76909065246582,
+          100.24536895751953
+        ],
+        [
+          388.0648956298828,
+          100.24536895751953
+        ],
+        [
+          388.0648956298828,
+          115.22003173828125
+        ],
+        [
+          67.76909065246582,
+          115.22003173828125
+        ]
+      ]
+    },
+    {
+      "title": "Training gaps & needs",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          67.48400688171387,
+          229.7860565185547
+        ],
+        [
+          177.8719367980957,
+          229.7860565185547
+        ],
+        [
+          177.8719367980957,
+          245.29998779296875
+        ],
+        [
+          67.48400688171387,
+          245.29998779296875
+        ]
+      ]
+    },
+    {
+      "title": "5.6. Packaging sector",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          85.12330627441406,
+          100.79933166503906
+        ],
+        [
+          247.10101318359375,
+          100.79933166503906
+        ],
+        [
+          247.10101318359375,
+          119.80999755859375
+        ],
+        [
+          85.12330627441406,
+          119.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "Supply chain in the packaging sector",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          66.99629402160645,
+          122.51376342773438
+        ],
+        [
+          246.52391052246094,
+          122.51376342773438
+        ],
+        [
+          246.52391052246094,
+          137.17999267578125
+        ],
+        [
+          66.99629402160645,
+          137.17999267578125
+        ]
+      ]
+    },
+    {
+      "title": "The supply chain explained:",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          67.87843322753906,
+          558.7150268554688
+        ],
+        [
+          201.8429718017578,
+          558.7150268554688
+        ],
+        [
+          201.8429718017578,
+          573.6699981689453
+        ],
+        [
+          67.87843322753906,
+          573.6699981689453
+        ]
+      ]
+    },
+    {
+      "title": "SSbD relevance in the packaging supply chain",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          67.0982837677002,
+          469.4857177734375
+        ],
+        [
+          290.42230224609375,
+          469.4857177734375
+        ],
+        [
+          290.42230224609375,
+          485.3500061035156
+        ],
+        [
+          67.0982837677002,
+          485.3500061035156
+        ]
+      ]
+    },
+    {
+      "title": "The approach on safety and sustainability in the sector",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          67.84347724914551,
+          100.7903938293457
+        ],
+        [
+          335.26261138916016,
+          100.7903938293457
+        ],
+        [
+          335.26261138916016,
+          115.22003173828125
+        ],
+        [
+          67.84347724914551,
+          115.22003173828125
+        ]
+      ]
+    },
+    {
+      "title": "Functions within packaging companies in need of thorough SSbD knowledge",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          67.24130630493164,
+          342.53187561035156
+        ],
+        [
+          438.8449401855469,
+          342.53187561035156
+        ],
+        [
+          438.8449401855469,
+          357.2900085449219
+        ],
+        [
+          67.24130630493164,
+          357.2900085449219
+        ]
+      ]
+    },
+    {
+      "title": "Training gaps & needs",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          67.90569305419922,
+          430.2710723876953
+        ],
+        [
+          177.8840789794922,
+          430.2710723876953
+        ],
+        [
+          177.8840789794922,
+          445.3900146484375
+        ],
+        [
+          67.90569305419922,
+          445.3900146484375
+        ]
+      ]
+    },
+    {
+      "title": "5.7. Textiles sector",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          84.87130737304688,
+          100.93552780151367
+        ],
+        [
+          232.7274398803711,
+          100.93552780151367
+        ],
+        [
+          232.7274398803711,
+          119.80999755859375
+        ],
+        [
+          84.87130737304688,
+          119.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "Supply chain in the textiles sector",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          67.39736938476562,
+          122.49707794189453
+        ],
+        [
+          233.79652404785156,
+          122.49707794189453
+        ],
+        [
+          233.79652404785156,
+          137.17999267578125
+        ],
+        [
+          67.39736938476562,
+          137.17999267578125
+        ]
+      ]
+    },
+    {
+      "title": "SSbD relevance in the textiles supply chain",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          66.94912719726562,
+          457.00726318359375
+        ],
+        [
+          277.16143798828125,
+          457.00726318359375
+        ],
+        [
+          277.16143798828125,
+          472.27001953125
+        ],
+        [
+          66.94912719726562,
+          472.27001953125
+        ]
+      ]
+    },
+    {
+      "title": "The approach on safety and sustainability in the sector",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          67.60333442687988,
+          306.67179107666016
+        ],
+        [
+          335.74827575683594,
+          306.67179107666016
+        ],
+        [
+          335.74827575683594,
+          321.4100036621094
+        ],
+        [
+          67.60333442687988,
+          321.4100036621094
+        ]
+      ]
+    },
+    {
+      "title": "Functions within companies in need of thorough SSbD knowledge",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          67.33675003051758,
+          168.63956451416016
+        ],
+        [
+          388.12884521484375,
+          168.63956451416016
+        ],
+        [
+          388.12884521484375,
+          183.260009765625
+        ],
+        [
+          67.33675003051758,
+          183.260009765625
+        ]
+      ]
+    },
+    {
+      "title": "Functions within companies in need of basic SSbD knowledge",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          67.42160224914551,
+          241.7453155517578
+        ],
+        [
+          367.73675537109375,
+          241.7453155517578
+        ],
+        [
+          367.73675537109375,
+          257.29998779296875
+        ],
+        [
+          67.42160224914551,
+          257.29998779296875
+        ]
+      ]
+    },
+    {
+      "title": "Skills gaps & training needs",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          67.52079391479492,
+          330.51878356933594
+        ],
+        [
+          202.48448181152344,
+          330.51878356933594
+        ],
+        [
+          202.48448181152344,
+          345.4100036621094
+        ],
+        [
+          67.52079391479492,
+          345.4100036621094
+        ]
+      ]
+    },
+    {
+      "title": "6. Next steps",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          67.60339164733887,
+          101.10724639892578
+        ],
+        [
+          159.63953018188477,
+          101.10724639892578
+        ],
+        [
+          159.63953018188477,
+          119.80999755859375
+        ],
+        [
+          67.60339164733887,
+          119.80999755859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          11
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          36
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/4_IRISS_Skills-knowledge-and-education-needs-and-gaps-and-mismatches-for-the-uptake-of-SSbD"
+}

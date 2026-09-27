@@ -1,0 +1,834 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FINANCE BRIEFING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          202.24261889709933,
+          40.827363697843474
+        ],
+        [
+          394.8955993652344,
+          40.827363697843474
+        ],
+        [
+          394.8955993652344,
+          69.5650634765625
+        ],
+        [
+          202.24261889709933,
+          69.5650634765625
+        ]
+      ]
+    },
+    {
+      "title": "SUSTAINABLE FINANCE UPDATES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          7.9252199081689945,
+          69.91827392578125
+        ],
+        [
+          590.069365455762,
+          69.91827392578125
+        ],
+        [
+          590.069365455762,
+          157.38275146484375
+        ],
+        [
+          7.9252199081689945,
+          157.38275146484375
+        ]
+      ]
+    },
+    {
+      "title": "BLENDED FINANCE FOR SMALLHOLDER FARMERS: ENABLING\nSUSTAINABLE AND DEFORESTATION-FREE AGRICULTURAL PRACTICES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.577434703144675,
+          515.995361328125
+        ],
+        [
+          541.8082358410736,
+          515.995361328125
+        ],
+        [
+          541.8082358410736,
+          567.6688232421875
+        ],
+        [
+          49.577434703144675,
+          567.6688232421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          193.04357925530343,
+          16.877101988210704
+        ],
+        [
+          400.2473685699386,
+          16.877101988210704
+        ],
+        [
+          400.2473685699386,
+          37.88490171763691
+        ],
+        [
+          193.04357925530343,
+          37.88490171763691
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.062526135961114,
+          350.1116428663979
+        ],
+        [
+          326.2836537397178,
+          350.1116428663979
+        ],
+        [
+          326.2836537397178,
+          364.90051891839835
+        ],
+        [
+          36.062526135961114,
+          364.90051891839835
+        ]
+      ]
+    },
+    {
+      "title": "WHAT IS\nBLENDED FINANCE?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.3459577776623,
+          85.91308025112134
+        ],
+        [
+          183.4002734743978,
+          85.91308025112134
+        ],
+        [
+          183.4002734743978,
+          128.29571533203125
+        ],
+        [
+          32.3459577776623,
+          128.29571533203125
+        ]
+      ]
+    },
+    {
+      "title": "HOW BLENDED FINANCE CAN SUPPORT SMALLHOLDER FARMERS TO PROMOTE\nSUSTAINABLE AND DEFORESTATION-FREE AGRICULTURAL PRACTICES",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          38.80236299452313,
+          3.12738037109375
+        ],
+        [
+          553.7625089784714,
+          3.12738037109375
+        ],
+        [
+          553.7625089784714,
+          54.28094482421875
+        ],
+        [
+          38.80236299452313,
+          54.28094482421875
+        ]
+      ]
+    },
+    {
+      "title": "CASE STUDIES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          245.12002817149124,
+          350.2403564453125
+        ],
+        [
+          348.77255963918844,
+          350.2403564453125
+        ],
+        [
+          348.77255963918844,
+          376.413818359375
+        ],
+        [
+          245.12002817149124,
+          376.413818359375
+        ]
+      ]
+    },
+    {
+      "title": "LAFCO \u2013 LANDING FOR AFRICAN FARMING COMPANY",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          150.92435914623346,
+          16.063399786197596
+        ],
+        [
+          442.8501868259997,
+          16.063399786197596
+        ],
+        [
+          442.8501868259997,
+          38.139404296875
+        ],
+        [
+          150.92435914623346,
+          38.139404296875
+        ]
+      ]
+    },
+    {
+      "title": "ECO.BUSINESS FUND",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          235.97404207090284,
+          16.830524580455315
+        ],
+        [
+          357.3019701287488,
+          16.830524580455315
+        ],
+        [
+          357.3019701287488,
+          38.139404296875
+        ],
+        [
+          235.97404207090284,
+          38.139404296875
+        ]
+      ]
+    },
+    {
+      "title": "IDH - FARMFIT",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          255.2081727765369,
+          16.562193696454287
+        ],
+        [
+          338.6599041148457,
+          16.562193696454287
+        ],
+        [
+          338.6599041148457,
+          38.139404296875
+        ],
+        [
+          255.2081727765369,
+          38.139404296875
+        ]
+      ]
+    },
+    {
+      "title": "AMAZON FOOD & FOREST BIOECONOMY FINANCING INITIATIVE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          124.30672633557836,
+          15.976212651837859
+        ],
+        [
+          471.6435531500905,
+          15.976212651837859
+        ],
+        [
+          471.6435531500905,
+          38.139404296875
+        ],
+        [
+          124.30672633557836,
+          38.139404296875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          227.40981233149992,
+          10.107971137905375
+        ],
+        [
+          370.00426154533017,
+          10.107971137905375
+        ],
+        [
+          370.00426154533017,
+          32.78602502607174
+        ],
+        [
+          227.40981233149992,
+          32.78602502607174
+        ]
+      ]
+    },
+    {
+      "title": "READING",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          158.1966343646686,
+          83.07135009765625
+        ],
+        [
+          272.35983745277076,
+          83.07135009765625
+        ],
+        [
+          272.35983745277076,
+          109.24481201171875
+        ],
+        [
+          158.1966343646686,
+          109.24481201171875
+        ]
+      ]
+    },
+    {
+      "title": "FURTHER READING & TRAINING",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          256.8133631016806,
+          26.39300537109375
+        ],
+        [
+          475.4281307191632,
+          26.39300537109375
+        ],
+        [
+          475.4281307191632,
+          60.984375
+        ],
+        [
+          256.8133631016806,
+          60.984375
+        ]
+      ]
+    },
+    {
+      "title": "TRAINING",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          158.9164994477625,
+          151.95733642578125
+        ],
+        [
+          278.9555425764031,
+          151.95733642578125
+        ],
+        [
+          278.9555425764031,
+          178.13079833984375
+        ],
+        [
+          158.9164994477625,
+          178.13079833984375
+        ]
+      ]
+    },
+    {
+      "title": "Contact information:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          162.40554863379643,
+          218.86047958414787
+        ],
+        [
+          253.97000122070312,
+          218.86047958414787
+        ],
+        [
+          253.97000122070312,
+          234.51995849609375
+        ],
+        [
+          162.40554863379643,
+          234.51995849609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Diagram",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/4th-SAFE-Finance-Briefing"
+}

@@ -1,0 +1,50 @@
+# **FIT for FAIR – Cross-Country Insights on Operationalising EU Due Diligence Regulations**
+
+Session 1: Regional Technical Exchange in Latin America on the
+
+Operationalization of European Due Diligence Legislation on Zero Deforestation and Human Rights
+
+Colombia, 15.12.2025 – Report
+
+This project is funded by the Federal Ministry of Economic Cooperation and Development (BMZ) and implemented by International Trade Center (ITC) with the support of Deutsche Gesellschaft f¸r Internationale Zusammenarbeit (GIZ) GmbH. The content of this publication is the sole responsibility of the authors and does not necessarily reflect the views of the GIZ GmbH or BMZ. The information in this report, or upon which this study is based, has been obtained from sources the authors believe to be reliable and accurate. While reasonable efforts have been made to ensure that the contents of this publication are factually correct, GIZ GmbH does not accept responsibility for the accuracy or completeness of the contents of this publication. The mention of specific companies, initiatives or products of manufacturers, whether or not these have been patented, does not imply that these have been endorsed or recommended by GIZ GmbH in preference to others of a similar nature that are not mentioned.
+
+No claim is made to the completeness or exclusivity of the content. The information provided is no substitute for legal advice. It is non-binding and is not the subject of a legal advice contract. No guarantee is given that the judgments and opinions set out here will be followed in the event of a dispute.
+
+#### Background and context
+
+Increasing due diligence information demands are shaping how producing countries position themselves to retain and strengthen their access to European markets. In this context, the [FIT for FAIR](https://zerodeforestationhub.eu/supporting-the-operationalisation-of-corporate-sustainability-due-diligencein-agricultural-supply-chains/) project aims to establish favorable legal and political conditions that support the ability of supply chain actors to comply with the EU and German due diligence regulations, including the EU Deforestation Regulation (EUDR), the Corporate Sustainability Due Diligence Directive (CS3D), and the German Supply Chain Due Diligence Act (LkSG).
+
+Within the project, cross-country learning sessions are organized among the six FIT for FAIR partner countries to exchange experiences on the operationalization of due diligence requirements. These sessions are hosted by the International Trade Centre (ITC) and are designed to facilitate peer learning across regions and commodities.
+
+The exchange sessions aim to identify common challenges and share best practices, with a focus on deforestation-free supply chains, human rights and informality, traceability and data governance, and inclusion of smallholders and SMEs.
+
+The first learning session took the form of a Regional Technical Exchange on Zero Deforestation and Human Rights, held on 15 December 2025. The session focused on the FIT for FAIR partner country Colombia, where the project activities were implemented locally by Confec·maras. It brought together representatives from Colombia as well as participants from Costa Rica, Ecuador, and El Salvador. The following sections summarize the key discussions and conclusions from this exchange.
+
+### Key findings
+
+The first topic discussed, confirmed that **human rights**, **traceability, and financing are deeply interconnected** dimensions of due diligence and cannot be addressed in isolation. Human rights risks and informality are largely driven by structural factors, including low income levels, family-based production systems, seasonal labour, and mismatches between rural realities and urban-designed regulatory frameworks. In many cases, informality functions as a coping mechanism rather than as deliberate non-compliance with national regulations. Effective due diligence therefore requires progressive, differentiated, and inclusive approaches that are grounded in territorial realities, promote social dialogue, address gender inequalities, and avoid excluding vulnerable actors from international markets.
+
+The second topic discussed, **traceability and data governance**, also emerged as a major operational bottleneck across value chains. Fragmented information systems, high implementation costs, complex georeferencing requirements, and unclear rules regarding data ownership and use discourage SMEs and small producers from participating in and contributing to these systems. The exchange emphasized the need for interoperable and proportionate traceability systems, led by the public sector, with clearly defined rules on data access, validation, and protection. Crucially, traceability efforts must generate tangible benefits for producers—such as improved market access, reduced unnecessary compliance burdens, or economic incentives—in order to foster trust and sustained engagement.
+
+The third topic discussed, **financing and inclusion** were identified as critical enablers of effective due diligence implementation. The costs associated with aligning with requirements related to the regulations—ranging from mapping and digital tools to training and verification—often outweigh perceived benefits, particularly for smaller actors. Short-term, project-based financing was seen as insufficient to ensure sustainability. Long-term solutions require blended financing models, strengthened institutional capacity, and closer alignment between buyer requirements and investment strategies. Special attention should be given to improving access to finance for women and young producers, both to ensure continuity in agricultural value chains and to address informality as an interconnected structural challenge.
+
+## Best practices highlighted during the technical exchange
+
+- All countries analyzed have established **interinstitutional working groups** to respond in a coordinated manner to the challenges posed by due diligence regulations, strengthening coordination among ministries, technical agencies, and oversight bodies.
+- In response to the structural conditions that limit compliance, Colombia has developed a **due diligence model** aligned with international standards, structured around common requirements, components, tools, and results. This approach aims to simplify implementation across different regulatory frameworks and to support the generation of credible evidence of aligning with the regulations' expectations.
+- **Traceability platforms** have proven to be more effective when they are adapted to rural realities and when they support not only the collection of traceability data but also other elements of due diligence, such as risk
+
+management, human rights, and environmental aspects. Mobile-compatible tools, which are more commonly used by producers, such as CRCafÈ in Costa Rica and the Agrocalidad Guidance System in Ecuador, are examples of practical and scalable solutions.
+
+- In Colombia, the pilot dialogue that brought together European operators, exporters, and producers proved particularly valuable in aligning expectations, clarifying requirements, and facilitating the exchange of practical experiences.
+- In Ecuador, efforts to harmonize and guide national stakeholders through the publication of **national guidelines for agricultural and forestry traceability** have emerged as a concrete option to strengthen institutional coherence and facilitate the implementation of systems aligned with international requirements.
+
+## Conclusions
+
+The technical exchange that brought together four Latin American countries, Colombia, Costa Rica, Ecuador, and El Salvador, highlights common challenges related to the implementation of due diligence in agro-export supply chains. Highly fragmented production chains, high levels of informality, and significant gaps in technical and administrative capacities limit the effective application of regulatory frameworks. These challenges are further compounded by rural realities, where limited institutional presence, inadequate physical and digital infrastructure, lack of access to finance, and geographic dispersion create concrete obstacles to traceability, risk management, and the implementation of mitigation or remediation measures.
+
+The experience of the countries analyzed shows that economic vulnerability linked to limited access to finance, informality, and human rights risks are interrelated and mutually reinforcing. In this context, the strategic value of public–private coordination becomes evident as a means of enabling coordinated and realistic responses. Standardized solutions tend to fail when they do not take territorial and sectoral specificities into account; therefore, context-adapted approaches are essential.
+
+Continuous capacity-building programs are equally critical to promoting a shared understanding of what due diligence entails and what it requires in practice. These capacity-building efforts should target not only supply chain actors but also the institutions that support them.
+
+Finally, beyond their high costs, the technologies and technical knowledge required to support due diligence are often complex, creating additional barriers for producers in rural areas. These challenges are compounded by the lack of generational renewal in agricultural communities, where younger, more digitally skilled actors are frequently absent from value chains. In this context, actively involving young people in due diligence–related training programs represents a promising opportunity to strengthen local capacities, support digital adoption, and contribute to rural development. At the same time, sustaining due diligence implementation requires strengthening strategic partnerships and improving access to finance, particularly for small producers who face greater economic and technical constraints.

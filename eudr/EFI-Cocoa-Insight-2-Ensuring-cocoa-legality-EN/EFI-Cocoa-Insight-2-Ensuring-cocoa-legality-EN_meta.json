@@ -1,0 +1,728 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Demonstrating legal compliance of \ncocoa production and trade",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.24567180796895,
+          301.8096276518498
+        ],
+        [
+          511.3028259277344,
+          301.8096276518498
+        ],
+        [
+          511.3028259277344,
+          365.8384094238281
+        ],
+        [
+          70.24567180796895,
+          365.8384094238281
+        ]
+      ]
+    },
+    {
+      "title": "Cocoa Insight / February 2024",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.37205889723462,
+          251.4826971582292
+        ],
+        [
+          376.16710841565646,
+          251.4826971582292
+        ],
+        [
+          376.16710841565646,
+          277.95159912109375
+        ],
+        [
+          66.37205889723462,
+          277.95159912109375
+        ]
+      ]
+    },
+    {
+      "title": "Learning from the EU Timber Regulation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          75.43876820907785,
+          459.1720616382249
+        ],
+        [
+          311.4599914550781,
+          459.1720616382249
+        ],
+        [
+          311.4599914550781,
+          475.9499816894531
+        ],
+        [
+          75.43876820907785,
+          475.9499816894531
+        ]
+      ]
+    },
+    {
+      "title": "1.Land-use rights",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.24026566128286,
+          91.74722279169043
+        ],
+        [
+          240.81517770608664,
+          91.74722279169043
+        ],
+        [
+          240.81517770608664,
+          115.1883544921875
+        ],
+        [
+          70.24026566128286,
+          115.1883544921875
+        ]
+      ]
+    },
+    {
+      "title": "Lessons from EUTR experience",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.50231334004053,
+          594.1243022534853
+        ],
+        [
+          259.5596856182108,
+          594.1243022534853
+        ],
+        [
+          259.5596856182108,
+          611.7900085449219
+        ],
+        [
+          75.50231334004053,
+          611.7900085449219
+        ]
+      ]
+    },
+    {
+      "title": "2.Environmental requirements",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.61902266725785,
+          182.95732783846628
+        ],
+        [
+          361.37059947285303,
+          182.95732783846628
+        ],
+        [
+          361.37059947285303,
+          206.86834716796875
+        ],
+        [
+          69.61902266725785,
+          206.86834716796875
+        ]
+      ]
+    },
+    {
+      "title": "3.Third parties' rights",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.35664702062343,
+          611.4443245239801
+        ],
+        [
+          278.42260188720087,
+          611.4443245239801
+        ],
+        [
+          278.42260188720087,
+          635.3184051513672
+        ],
+        [
+          69.35664702062343,
+          635.3184051513672
+        ]
+      ]
+    },
+    {
+      "title": "4.Labour rights",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.00928491549168,
+          237.86881936159074
+        ],
+        [
+          218.9035612245651,
+          237.86881936159074
+        ],
+        [
+          218.9035612245651,
+          262.4283447265625
+        ],
+        [
+          69.00928491549168,
+          262.4283447265625
+        ]
+      ]
+    },
+    {
+      "title": "5.Human rights",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.72696234176982,
+          508.26280216478597
+        ],
+        [
+          219.01823567503345,
+          508.26280216478597
+        ],
+        [
+          219.01823567503345,
+          532.9584045410156
+        ],
+        [
+          69.72696234176982,
+          532.9584045410156
+        ]
+      ]
+    },
+    {
+      "title": "Child labour",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.44085462747952,
+          545.7158847717122
+        ],
+        [
+          142.53390495242638,
+          545.7158847717122
+        ],
+        [
+          142.53390495242638,
+          562.3499755859375
+        ],
+        [
+          69.44085462747952,
+          562.3499755859375
+        ]
+      ]
+    },
+    {
+      "title": "Other human rights",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.04874291407971,
+          619.0220459201776
+        ],
+        [
+          186.7919921875,
+          619.0220459201776
+        ],
+        [
+          186.7919921875,
+          636.1500091552734
+        ],
+        [
+          69.04874291407971,
+          636.1500091552734
+        ]
+      ]
+    },
+    {
+      "title": "6.Free, prior and informed consent",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.05940027501181,
+          512.2372080530317
+        ],
+        [
+          404.9451725957375,
+          512.2372080530317
+        ],
+        [
+          404.9451725957375,
+          536.4384155273438
+        ],
+        [
+          70.05940027501181,
+          536.4384155273438
+        ]
+      ]
+    },
+    {
+      "title": "7.Taxes, fees and anti-corruption",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          70.21767896368762,
+          267.07144482987115
+        ],
+        [
+          392.52093505859375,
+          267.07144482987115
+        ],
+        [
+          392.52093505859375,
+          291.61834716796875
+        ],
+        [
+          70.21767896368762,
+          291.61834716796875
+        ]
+      ]
+    },
+    {
+      "title": "Way forward",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          68.79614872776291,
+          91.72280262839232
+        ],
+        [
+          192.7007470887614,
+          91.72280262839232
+        ],
+        [
+          192.7007470887614,
+          115.1883544921875
+        ],
+        [
+          68.79614872776291,
+          115.1883544921875
+        ]
+      ]
+    },
+    {
+      "title": "African Regional Standards for Sustainable Cocoa (ARS 1000) and other \ncertification schemes",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          75.30057931126515,
+          506.1700702507583
+        ],
+        [
+          458.3797607421875,
+          506.1700702507583
+        ],
+        [
+          458.3797607421875,
+          535.7483825683594
+        ],
+        [
+          75.30057931126515,
+          535.7483825683594
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Reference",
+          8
+        ],
+        [
+          "Footnote",
+          6
+        ],
+        [
+          "PageFooter",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/EFI-Cocoa-Insight-2-Ensuring-cocoa-legality-EN"
+}

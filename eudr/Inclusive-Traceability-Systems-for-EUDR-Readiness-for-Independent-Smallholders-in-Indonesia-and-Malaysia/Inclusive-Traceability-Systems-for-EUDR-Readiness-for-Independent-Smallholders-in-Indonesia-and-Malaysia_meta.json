@@ -1,0 +1,1880 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Inclusive Traceability Systems for EUDR Readiness for Independent Smallholders in Indonesia and Malaysia",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.891999999999996,
+          53.888
+        ],
+        [
+          365.944,
+          53.888
+        ],
+        [
+          365.944,
+          210.5
+        ],
+        [
+          45.891999999999996,
+          210.5
+        ]
+      ]
+    },
+    {
+      "title": "Table of Contents",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.931999999999995,
+          88.41
+        ],
+        [
+          188.33599999999998,
+          88.41
+        ],
+        [
+          188.33599999999998,
+          109.46000000000001
+        ],
+        [
+          39.931999999999995,
+          109.46000000000001
+        ]
+      ]
+    },
+    {
+      "title": "Glossary of Terms",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          39.96003719301007,
+          89.03309525364972
+        ],
+        [
+          194.67811396139993,
+          89.03309525364972
+        ],
+        [
+          194.67811396139993,
+          112.58599853515625
+        ],
+        [
+          39.96003719301007,
+          112.58599853515625
+        ]
+      ]
+    },
+    {
+      "title": "Executive Summary",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.281050252073655,
+          291.9393511642225
+        ],
+        [
+          314.8518984239708,
+          291.9393511642225
+        ],
+        [
+          314.8518984239708,
+          324.77996826171875
+        ],
+        [
+          58.281050252073655,
+          324.77996826171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.911514090050375,
+          279.9591359574139
+        ],
+        [
+          341.5723511049669,
+          279.9591359574139
+        ],
+        [
+          341.5723511049669,
+          348.9346050965605
+        ],
+        [
+          56.911514090050375,
+          348.9346050965605
+        ]
+      ]
+    },
+    {
+      "title": "The EU Market Compliance, \nNational Traceability \nArchitectures & Value Chain \nactors and the Smallholder \nContext",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          39.46224504754285,
+          407.06596579683327
+        ],
+        [
+          281.59942626953125,
+          407.06596579683327
+        ],
+        [
+          281.59942626953125,
+          527.9179992675781
+        ],
+        [
+          39.46224504754285,
+          527.9179992675781
+        ]
+      ]
+    },
+    {
+      "title": "The Pathway of \nDecentralized Aggregation \nin Indonesia",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          305.6040889249941,
+          482.4628452970211
+        ],
+        [
+          542.713134765625,
+          482.4628452970211
+        ],
+        [
+          542.713134765625,
+          554.6619873046875
+        ],
+        [
+          305.6040889249941,
+          554.6619873046875
+        ]
+      ]
+    },
+    {
+      "title": "The Malaysian Model: \nCentralized State Architecture",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          39.51660431061944,
+          447.53202405404744
+        ],
+        [
+          286.3094482421875,
+          447.53202405404744
+        ],
+        [
+          286.3094482421875,
+          496.78497314453125
+        ],
+        [
+          39.51660431061944,
+          496.78497314453125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          57.546856589521504,
+          279.8376357774064
+        ],
+        [
+          230.83607233081116,
+          279.8376357774064
+        ],
+        [
+          230.83607233081116,
+          314.6882577490191
+        ],
+        [
+          57.546856589521504,
+          314.6882577490191
+        ]
+      ]
+    },
+    {
+      "title": "Barrier and Breakthrough",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          306.0111763519364,
+          481.7951205789459
+        ],
+        [
+          529.9643305627164,
+          481.7951205789459
+        ],
+        [
+          529.9643305627164,
+          506.4289855957031
+        ],
+        [
+          306.0111763519364,
+          506.4289855957031
+        ]
+      ]
+    },
+    {
+      "title": "Systemic Gaps in Cacao and Rubber and \nBreakthrough in Technology as a Public \nGood",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          305.6075479425771,
+          515.3506330046819
+        ],
+        [
+          556.3834838867188,
+          515.3506330046819
+        ],
+        [
+          556.3834838867188,
+          560.5216064453125
+        ],
+        [
+          305.6075479425771,
+          560.5216064453125
+        ]
+      ]
+    },
+    {
+      "title": "Financial Viability Gap & Breakthrough: \nAligning Business Models and Margins",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          39.62971533095506,
+          536.4277794855785
+        ],
+        [
+          289.90985107421875,
+          536.4277794855785
+        ],
+        [
+          289.90985107421875,
+          566.8179321289062
+        ],
+        [
+          39.62971533095506,
+          566.8179321289062
+        ]
+      ]
+    },
+    {
+      "title": "Scalability and Aggregation Gap & \nBreakthrough: Systemic Solutions/ \nInnovations at Scale for Independent \nSmallholders",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          39.75966329118166,
+          323.26461452304096
+        ],
+        [
+          289.9100646972656,
+          323.26461452304096
+        ],
+        [
+          289.9100646972656,
+          382.5809020996094
+        ],
+        [
+          39.75966329118166,
+          382.5809020996094
+        ]
+      ]
+    },
+    {
+      "title": "A. Veri\u00c0ed Sourcing Areas & Jurisdictional-Led \nModel",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          39.5625651477266,
+          590.1844930266655
+        ],
+        [
+          289.3162841796875,
+          590.1844930266655
+        ],
+        [
+          289.3162841796875,
+          620.125
+        ],
+        [
+          39.5625651477266,
+          620.125
+        ]
+      ]
+    },
+    {
+      "title": "B. SPOC Model",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          39.68053826396952,
+          86.86441428642239
+        ],
+        [
+          115.13131567813286,
+          86.86441428642239
+        ],
+        [
+          115.13131567813286,
+          102.39599609375
+        ],
+        [
+          39.68053826396952,
+          102.39599609375
+        ]
+      ]
+    },
+    {
+      "title": "Operationalizing the \nBreakthroughs and their \nintegration into the national \ntraceability infrastructures \nand pipelines",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          305.70075815810964,
+          89.60039927210005
+        ],
+        [
+          548.3360595703125,
+          89.60039927210005
+        ],
+        [
+          548.3360595703125,
+          209.4930419921875
+        ],
+        [
+          305.70075815810964,
+          209.4930419921875
+        ]
+      ]
+    },
+    {
+      "title": "Indonesia Perspective: Closing the \nConnectivity",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          305.5031131004506,
+          554.2723347365803
+        ],
+        [
+          556.3569946289062,
+          554.2723347365803
+        ],
+        [
+          556.3569946289062,
+          585.5809020996094
+        ],
+        [
+          305.5031131004506,
+          585.5809020996094
+        ]
+      ]
+    },
+    {
+      "title": "A. Shifting from Anonymous Collection to Veri\u00c0ed \nAggregation",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          39.685958727781355,
+          171.47926761290904
+        ],
+        [
+          289.3146057128906,
+          171.47926761290904
+        ],
+        [
+          289.3146057128906,
+          200.25396728515625
+        ],
+        [
+          39.685958727781355,
+          200.25396728515625
+        ]
+      ]
+    },
+    {
+      "title": "B. Scaling via the Jurisdictional Umbrella and DPGs",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          39.46247412155497,
+          645.8365178503102
+        ],
+        [
+          287.1020329473001,
+          645.8365178503102
+        ],
+        [
+          287.1020329473001,
+          662.7239990234375
+        ],
+        [
+          39.46247412155497,
+          662.7239990234375
+        ]
+      ]
+    },
+    {
+      "title": "Malaysia Perspective: Optimizing the Dealer \nNode",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          305.6993837140369,
+          422.6572990655262
+        ],
+        [
+          556.3822631835938,
+          422.6572990655262
+        ],
+        [
+          556.3822631835938,
+          453.6949157714844
+        ],
+        [
+          305.6993837140369,
+          453.6949157714844
+        ]
+      ]
+    },
+    {
+      "title": "The Strategic \nRecommendation",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          55.72399441120906,
+          237.06369189757484
+        ],
+        [
+          292.1477966308594,
+          237.06369189757484
+        ],
+        [
+          292.1477966308594,
+          306.573974609375
+        ],
+        [
+          55.72399441120906,
+          306.573974609375
+        ]
+      ]
+    },
+    {
+      "title": "Government (Indonesia \nand Malaysia): Enabling an \nInteroperable Ecosystem",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          40.04855711814438,
+          536.0824535502351
+        ],
+        [
+          280.8595275878906,
+          536.0824535502351
+        ],
+        [
+          280.8595275878906,
+          608.4090118408203
+        ],
+        [
+          40.04855711814438,
+          608.4090118408203
+        ]
+      ]
+    },
+    {
+      "title": "Operationalizing EUDR-Aligned Risk \nMitigation",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          39.50831183138062,
+          728.9240612869058
+        ],
+        [
+          289.91766357421875,
+          728.9240612869058
+        ],
+        [
+          289.91766357421875,
+          760.4963989257812
+        ],
+        [
+          39.50831183138062,
+          760.4963989257812
+        ]
+      ]
+    },
+    {
+      "title": "Strengthening Data Interoperability & \nAccess",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          305.6503389680415,
+          489.38803521799167
+        ],
+        [
+          556.3701782226562,
+          489.38803521799167
+        ],
+        [
+          556.3701782226562,
+          521.3468933105469
+        ],
+        [
+          305.6503389680415,
+          521.3468933105469
+        ]
+      ]
+    },
+    {
+      "title": "Dynamic Farmer Registries & Satellite \nMonitoring",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          305.5366037210229,
+          699.5149312753923
+        ],
+        [
+          556.3584594726562,
+          699.5149312753923
+        ],
+        [
+          556.3584594726562,
+          731.3469009399414
+        ],
+        [
+          305.5366037210229,
+          731.3469009399414
+        ]
+      ]
+    },
+    {
+      "title": "Formalize Veri\u00c0ed Aggregation",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          39.448380342959155,
+          141.96558109055854
+        ],
+        [
+          215.0869820159989,
+          141.96558109055854
+        ],
+        [
+          215.0869820159989,
+          159.404052734375
+        ],
+        [
+          39.448380342959155,
+          159.404052734375
+        ]
+      ]
+    },
+    {
+      "title": "Private Sector: Moving \nfrom Documentation to \nOperations",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          39.77823260328932,
+          342.7134068965487
+        ],
+        [
+          242.23963928222656,
+          342.7134068965487
+        ],
+        [
+          242.23963928222656,
+          414.7559814453125
+        ],
+        [
+          39.77823260328932,
+          414.7559814453125
+        ]
+      ]
+    },
+    {
+      "title": "The Three-Layer Compliance Pipeline",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          39.35480933585755,
+          494.11638290119936
+        ],
+        [
+          255.3548030516963,
+          494.11638290119936
+        ],
+        [
+          255.3548030516963,
+          510.8399963378906
+        ],
+        [
+          39.35480933585755,
+          510.8399963378906
+        ]
+      ]
+    },
+    {
+      "title": "Securing the First Mile",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          39.879282876886705,
+          633.4605690063585
+        ],
+        [
+          172.14339325950488,
+          633.4605690063585
+        ],
+        [
+          172.14339325950488,
+          650.8399963378906
+        ],
+        [
+          39.879282876886705,
+          650.8399963378906
+        ]
+      ]
+    },
+    {
+      "title": "Interoperability Over Proprietary Silos",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          305.6120148858135,
+          87.43207868676258
+        ],
+        [
+          525.1889162616105,
+          87.43207868676258
+        ],
+        [
+          525.1889162616105,
+          104.31500244140625
+        ],
+        [
+          305.6120148858135,
+          104.31500244140625
+        ]
+      ]
+    },
+    {
+      "title": "Incentives and Cooperative Partnerships",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          305.97337913993624,
+          213.68481488792574
+        ],
+        [
+          536.2059559858116,
+          213.68481488792574
+        ],
+        [
+          536.2059559858116,
+          230.31500244140625
+        ],
+        [
+          305.97337913993624,
+          230.31500244140625
+        ]
+      ]
+    },
+    {
+      "title": "Smallholders & \nCooperatives: Facilitated \nInclusion",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          305.72925496521765,
+          386.18120604164346
+        ],
+        [
+          522.0137939453125,
+          386.18120604164346
+        ],
+        [
+          522.0137939453125,
+          458.2309875488281
+        ],
+        [
+          305.72925496521765,
+          458.2309875488281
+        ]
+      ]
+    },
+    {
+      "title": "Accelerated Registration (e-STDB)",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          305.762218715562,
+          564.939638676223
+        ],
+        [
+          500.2152216452495,
+          564.939638676223
+        ],
+        [
+          500.2152216452495,
+          582.3150024414062
+        ],
+        [
+          305.762218715562,
+          582.3150024414062
+        ]
+      ]
+    },
+    {
+      "title": "Facilitated Group Mapping & Polygon \nCapture",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          305.6104571825311,
+          676.0039828836334
+        ],
+        [
+          556.3775634765625,
+          676.0039828836334
+        ],
+        [
+          556.3775634765625,
+          708.3189086914062
+        ],
+        [
+          305.6104571825311,
+          708.3189086914062
+        ]
+      ]
+    },
+    {
+      "title": "Integrity in Transaction Documentation",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          39.40799745804717,
+          156.93338504563667
+        ],
+        [
+          261.9756375944584,
+          156.93338504563667
+        ],
+        [
+          261.9756375944584,
+          172.84002685546875
+        ],
+        [
+          39.40799745804717,
+          172.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "Internal Control Systems (ICS) & Governance",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          39.369722054046704,
+          267.60085154641234
+        ],
+        [
+          286.82045517159946,
+          267.60085154641234
+        ],
+        [
+          286.82045517159946,
+          284.84002685546875
+        ],
+        [
+          39.369722054046704,
+          284.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "Linking Compliance to Tangible Bene\u00c0ts",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          39.46979303624227,
+          380.2671905001252
+        ],
+        [
+          265.99838341393456,
+          380.2671905001252
+        ],
+        [
+          265.99838341393456,
+          397.40399169921875
+        ],
+        [
+          39.46979303624227,
+          397.40399169921875
+        ]
+      ]
+    },
+    {
+      "title": "Cross Stakeholder \nPriority of Actions",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          305.92861807796754,
+          88.82492608930633
+        ],
+        [
+          467.13702392578125,
+          88.82492608930633
+        ],
+        [
+          467.13702392578125,
+          136.64300537109375
+        ],
+        [
+          305.92861807796754,
+          136.64300537109375
+        ]
+      ]
+    },
+    {
+      "title": "Interoperability via State Leadership",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          305.90928423134443,
+          145.759784593183
+        ],
+        [
+          516.5558039667624,
+          145.759784593183
+        ],
+        [
+          516.5558039667624,
+          162.72698974609375
+        ],
+        [
+          305.90928423134443,
+          162.72698974609375
+        ]
+      ]
+    },
+    {
+      "title": "Veri\u00c0ed Aggregation as the Scalable Pathway",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          305.7544989213535,
+          313.2076945385546
+        ],
+        [
+          554.9723862808958,
+          313.2076945385546
+        ],
+        [
+          554.9723862808958,
+          331.2909851074219
+        ],
+        [
+          305.7544989213535,
+          331.2909851074219
+        ]
+      ]
+    },
+    {
+      "title": "Integrated Finance & Capacity Building",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          305.28824167708007,
+          467.7625133483832
+        ],
+        [
+          528.6996587565924,
+          467.7625133483832
+        ],
+        [
+          528.6996587565924,
+          484.72698974609375
+        ],
+        [
+          305.28824167708007,
+          484.72698974609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          13
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          627
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          356
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          350
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          431
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          515
+        ],
+        [
+          "Line",
+          206
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          478
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Footnote",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          309
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          419
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          338
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          310
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Inclusive-Traceability-Systems-for-EUDR-Readiness-for-Independent-Smallholders-in-Indonesia-and-Malaysia"
+}

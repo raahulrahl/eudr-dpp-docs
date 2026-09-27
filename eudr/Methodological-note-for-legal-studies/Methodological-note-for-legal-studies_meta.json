@@ -1,0 +1,1464 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Methodological note: developing a legality \ndue diligence tool for EUDR compliance",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.79382935339017,
+          111.98121293867048
+        ],
+        [
+          503.2815246582031,
+          111.98121293867048
+        ],
+        [
+          503.2815246582031,
+          170.82196044921875
+        ],
+        [
+          68.79382935339017,
+          170.82196044921875
+        ]
+      ]
+    },
+    {
+      "title": "Table of content",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.62295732089794,
+          366.2062789903405
+        ],
+        [
+          183.97207641601562,
+          366.2062789903405
+        ],
+        [
+          183.97207641601562,
+          383.0908455309439
+        ],
+        [
+          68.62295732089794,
+          383.0908455309439
+        ]
+      ]
+    },
+    {
+      "title": "1.Introduction and objectives",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.2335827344611,
+          93.66327605413095
+        ],
+        [
+          323.40008544921875,
+          93.66327605413095
+        ],
+        [
+          323.40008544921875,
+          114.84002685546875
+        ],
+        [
+          69.2335827344611,
+          114.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "2.Methodological steps",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.13863728328676,
+          93.42913079198088
+        ],
+        [
+          273.65008544921875,
+          93.42913079198088
+        ],
+        [
+          273.65008544921875,
+          114.84002685546875
+        ],
+        [
+          69.13863728328676,
+          114.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Step 1: Mapping relevant legal requirements",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          67.91685385908228,
+          255.96497837518436
+        ],
+        [
+          407.53594970703125,
+          255.96497837518436
+        ],
+        [
+          407.53594970703125,
+          274.3972421240191
+        ],
+        [
+          67.91685385908228,
+          274.3972421240191
+        ]
+      ]
+    },
+    {
+      "title": "Preliminary listing of applicable laws and regulations in scope of the EUDR",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.70658078902314,
+          383.91544505770673
+        ],
+        [
+          444.1622619628906,
+          383.91544505770673
+        ],
+        [
+          444.1622619628906,
+          400.5059814453125
+        ],
+        [
+          68.70658078902314,
+          400.5059814453125
+        ]
+      ]
+    },
+    {
+      "title": "Legal requirements relevant in the context of the EUDR Article 2.40",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          83.6611679807418,
+          104.37386014264074
+        ],
+        [
+          396.1554260253906,
+          104.37386014264074
+        ],
+        [
+          396.1554260253906,
+          119.62526748399063
+        ],
+        [
+          83.6611679807418,
+          119.62526748399063
+        ]
+      ]
+    },
+    {
+      "title": "Sources of data",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          68.90478707801185,
+          495.3225067220197
+        ],
+        [
+          151.54208374023438,
+          495.3225067220197
+        ],
+        [
+          151.54208374023438,
+          511.5359802246094
+        ],
+        [
+          68.90478707801185,
+          511.5359802246094
+        ]
+      ]
+    },
+    {
+      "title": "How to carry out the legal mapping",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          68.63182821201737,
+          91.6091164430124
+        ],
+        [
+          250.81204223632812,
+          91.6091164430124
+        ],
+        [
+          250.81204223632812,
+          106.87409816888008
+        ],
+        [
+          68.63182821201737,
+          106.87409816888008
+        ]
+      ]
+    },
+    {
+      "title": "Unpacking the areas of law listed in the EUDR",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          76.77004328422642,
+          105.18367829157216
+        ],
+        [
+          309.8420715332031,
+          105.18367829157216
+        ],
+        [
+          309.8420715332031,
+          120.55418326699723
+        ],
+        [
+          76.77004328422642,
+          120.55418326699723
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Step 2: Assessing \"relevance\" to refine the list of applicable \nlaws and regulations",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          69.13265845157036,
+          90.906005859375
+        ],
+        [
+          493.9404602050781,
+          90.906005859375
+        ],
+        [
+          493.9404602050781,
+          132.64794921875
+        ],
+        [
+          69.13265845157036,
+          132.64794921875
+        ]
+      ]
+    },
+    {
+      "title": "Example",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          68.9018721112076,
+          90.59652341739046
+        ],
+        [
+          115.02202446694938,
+          90.59652341739046
+        ],
+        [
+          115.02202446694938,
+          105.916015625
+        ],
+        [
+          68.9018721112076,
+          105.916015625
+        ]
+      ]
+    },
+    {
+      "title": "3.Developing legality due diligence recommendations",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          69.42582164543401,
+          92.68892927161308
+        ],
+        [
+          524.309814453125,
+          92.68892927161308
+        ],
+        [
+          524.309814453125,
+          114.84002685546875
+        ],
+        [
+          69.42582164543401,
+          114.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Assessing implementation and verification of compliance",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          68.66459152260114,
+          277.99508897980087
+        ],
+        [
+          478.8158874511719,
+          277.99508897980087
+        ],
+        [
+          478.8158874511719,
+          296.777575281403
+        ],
+        [
+          68.66459152260114,
+          296.777575281403
+        ]
+      ]
+    },
+    {
+      "title": "Assessing the level of implementation of legal requirements",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          69.1735997043869,
+          389.6767959662664
+        ],
+        [
+          373.86248779296875,
+          389.6767959662664
+        ],
+        [
+          373.86248779296875,
+          405.7559814453125
+        ],
+        [
+          69.1735997043869,
+          405.7559814453125
+        ]
+      ]
+    },
+    {
+      "title": "Identifying existing means of verification",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.15312048770318,
+          90.5324784072509
+        ],
+        [
+          277.8420715332031,
+          90.5324784072509
+        ],
+        [
+          277.8420715332031,
+          105.916015625
+        ],
+        [
+          69.15312048770318,
+          105.916015625
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Developing proportionated due diligence recommendations",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.64543490085553,
+          424.66303593541295
+        ],
+        [
+          497.5663757324219,
+          424.66303593541295
+        ],
+        [
+          497.5663757324219,
+          443.9679870605469
+        ],
+        [
+          69.64543490085553,
+          443.9679870605469
+        ]
+      ]
+    },
+    {
+      "title": "Example",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          68.83349924543943,
+          91.39964875979605
+        ],
+        [
+          117.26200866699219,
+          91.39964875979605
+        ],
+        [
+          117.26200866699219,
+          105.916015625
+        ],
+        [
+          68.83349924543943,
+          105.916015625
+        ]
+      ]
+    },
+    {
+      "title": "Example",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          68.84570316343523,
+          91.33761731196171
+        ],
+        [
+          117.26200866699219,
+          91.33761731196171
+        ],
+        [
+          117.26200866699219,
+          105.916015625
+        ],
+        [
+          68.84570316343523,
+          105.916015625
+        ]
+      ]
+    },
+    {
+      "title": "3.3 The role of certification in supporting due diligence",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          69.0183218852699,
+          91.91409104738719
+        ],
+        [
+          438.1389465332031,
+          91.91409104738719
+        ],
+        [
+          438.1389465332031,
+          110.3780517578125
+        ],
+        [
+          69.0183218852699,
+          110.3780517578125
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Stakeholder engagement",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          68.75296254962757,
+          92.14398037102852
+        ],
+        [
+          266.7460632324219,
+          92.14398037102852
+        ],
+        [
+          266.7460632324219,
+          110.3780517578125
+        ],
+        [
+          68.75296254962757,
+          110.3780517578125
+        ]
+      ]
+    },
+    {
+      "title": "Main principles",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          68.94141028569987,
+          271.34870879393225
+        ],
+        [
+          151.54209899902344,
+          271.34870879393225
+        ],
+        [
+          151.54209899902344,
+          287.20599365234375
+        ],
+        [
+          68.94141028569987,
+          287.20599365234375
+        ]
+      ]
+    },
+    {
+      "title": "Implementation modalities",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          69.01416991880018,
+          90.98638797804169
+        ],
+        [
+          210.56204223632812,
+          90.98638797804169
+        ],
+        [
+          210.56204223632812,
+          105.916015625
+        ],
+        [
+          69.01416991880018,
+          105.916015625
+        ]
+      ]
+    },
+    {
+      "title": "3.5 Use of the results and next steps",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          68.67845050033453,
+          387.3743789958189
+        ],
+        [
+          316.49609375,
+          387.3743789958189
+        ],
+        [
+          316.49609375,
+          406.9679870605469
+        ],
+        [
+          68.67845050033453,
+          406.9679870605469
+        ]
+      ]
+    },
+    {
+      "title": "The nature of the outputs",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          68.60806751011,
+          421.3847276886339
+        ],
+        [
+          203.0421142578125,
+          421.3847276886339
+        ],
+        [
+          203.0421142578125,
+          437.0111152465494
+        ],
+        [
+          68.60806751011,
+          437.0111152465494
+        ]
+      ]
+    },
+    {
+      "title": "Benefits of the tool for different actors",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          68.48211116454463,
+          169.3125372841649
+        ],
+        [
+          268.0920715332031,
+          169.3125372841649
+        ],
+        [
+          268.0920715332031,
+          185.18597412109375
+        ],
+        [
+          68.48211116454463,
+          185.18597412109375
+        ]
+      ]
+    },
+    {
+      "title": "3.6 Testing and updating due diligence recommendations",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          68.9802784187067,
+          92.43318969780913
+        ],
+        [
+          454.091993970895,
+          92.43318969780913
+        ],
+        [
+          454.091993970895,
+          111.14002440427947
+        ],
+        [
+          68.9802784187067,
+          111.14002440427947
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "PageHeader",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          20
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          12
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Methodological-note-for-legal-studies"
+}

@@ -1,0 +1,1831 @@
+{
+  "table_of_contents": [
+    {
+      "title": "D8.7: Public Summary of \nthe main project results \nand achievements",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.37045472575075,
+          416.5286865234375
+        ],
+        [
+          475.15966796875,
+          416.5286865234375
+        ],
+        [
+          475.15966796875,
+          532.65869140625
+        ],
+        [
+          124.37045472575075,
+          532.65869140625
+        ]
+      ]
+    },
+    {
+      "title": "Content index",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          673.6126098632812,
+          108.740966796875
+        ],
+        [
+          839.3340454101562,
+          108.740966796875
+        ],
+        [
+          839.3340454101562,
+          142.46099853515625
+        ],
+        [
+          673.6126098632812,
+          142.46099853515625
+        ]
+      ]
+    },
+    {
+      "title": "DISCLAIMER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          124.34080123901367,
+          688.365379163652
+        ],
+        [
+          201.3416519165039,
+          688.365379163652
+        ],
+        [
+          201.3416519165039,
+          710.210693359375
+        ],
+        [
+          124.34080123901367,
+          710.210693359375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          107.52436065673828,
+          108.885009765625
+        ],
+        [
+          280.18050384521484,
+          108.885009765625
+        ],
+        [
+          280.18050384521484,
+          142.4129638671875
+        ],
+        [
+          107.52436065673828,
+          142.4129638671875
+        ]
+      ]
+    },
+    {
+      "title": "1.1. Project goal and scope",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          134.8271484375,
+          149.62371826171875
+        ],
+        [
+          388.47596740722656,
+          149.62371826171875
+        ],
+        [
+          388.47596740722656,
+          180.4757080078125
+        ],
+        [
+          134.8271484375,
+          180.4757080078125
+        ]
+      ]
+    },
+    {
+      "title": "1.2. Consortium presentation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          673.4138488769531,
+          325.76019287109375
+        ],
+        [
+          951.3067932128906,
+          325.76019287109375
+        ],
+        [
+          951.3067932128906,
+          356.6121826171875
+        ],
+        [
+          673.4138488769531,
+          356.6121826171875
+        ]
+      ]
+    },
+    {
+      "title": "Country: Italy",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          791.5935974121094,
+          436.0503714502866
+        ],
+        [
+          853.1716918945312,
+          436.0503714502866
+        ],
+        [
+          853.1716918945312,
+          452.09552001953125
+        ],
+        [
+          791.5935974121094,
+          452.09552001953125
+        ]
+      ]
+    },
+    {
+      "title": "Country: Italy\nType: Research centre",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          789.844482421875,
+          227.54869474986782
+        ],
+        [
+          888.2938842773438,
+          227.54869474986782
+        ],
+        [
+          888.2938842773438,
+          255.84051513671875
+        ],
+        [
+          789.844482421875,
+          255.84051513671875
+        ]
+      ]
+    },
+    {
+      "title": "Country: Spain\nType: Research Centre",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          255.0490951538086,
+          226.80157160907584
+        ],
+        [
+          352.7315139770508,
+          226.80157160907584
+        ],
+        [
+          352.7315139770508,
+          255.91253662109375
+        ],
+        [
+          255.0490951538086,
+          255.91253662109375
+        ]
+      ]
+    },
+    {
+      "title": "Country: Italy\nType: Manufacturing Company",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          254.7337417602539,
+          661.3636917019145
+        ],
+        [
+          385.4660949707031,
+          661.3636917019145
+        ],
+        [
+          385.4660949707031,
+          689.6085205078125
+        ],
+        [
+          254.7337417602539,
+          689.6085205078125
+        ]
+      ]
+    },
+    {
+      "title": "Country: Belgium\nType: Testing Lab",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          790.9931945800781,
+          129.02912972128402
+        ],
+        [
+          869.5099182128906,
+          129.02912972128402
+        ],
+        [
+          869.5099182128906,
+          156.70318603515625
+        ],
+        [
+          790.9931945800781,
+          156.70318603515625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          176.75470733642578,
+          138.397788940321
+        ],
+        [
+          219.2329330444336,
+          138.397788940321
+        ],
+        [
+          219.2329330444336,
+          182.48932333153905
+        ],
+        [
+          176.75470733642578,
+          182.48932333153905
+        ]
+      ]
+    },
+    {
+      "title": "Country: Germany\nType: Research Centre",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          254.2947006225586,
+          463.2019777782029
+        ],
+        [
+          351.53968048095703,
+          463.2019777782029
+        ],
+        [
+          351.53968048095703,
+          491.1610107421875
+        ],
+        [
+          254.2947006225586,
+          491.1610107421875
+        ]
+      ]
+    },
+    {
+      "title": "Country: Spain\nType: Non-profi t association",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          253.61858367919922,
+          351.8376356687062
+        ],
+        [
+          374.2354202270508,
+          351.8376356687062
+        ],
+        [
+          374.2354202270508,
+          379.69671630859375
+        ],
+        [
+          253.61858367919922,
+          379.69671630859375
+        ]
+      ]
+    },
+    {
+      "title": "Country: France\nType: University",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          255.49445343017578,
+          119.6075458475658
+        ],
+        [
+          324.96727752685547,
+          119.6075458475658
+        ],
+        [
+          324.96727752685547,
+          146.77630615234375
+        ],
+        [
+          255.49445343017578,
+          146.77630615234375
+        ]
+      ]
+    },
+    {
+      "title": "Country: Germany\nType: Manufacturing Company",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          791.04638671875,
+          340.37344156538705
+        ],
+        [
+          924.3730773925781,
+          340.37344156538705
+        ],
+        [
+          924.3730773925781,
+          369.1466064453125
+        ],
+        [
+          791.04638671875,
+          369.1466064453125
+        ]
+      ]
+    },
+    {
+      "title": "Country: Netherlands\nType: University",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          789.7978820800781,
+          571.881257435093
+        ],
+        [
+          886.4606323242188,
+          571.881257435093
+        ],
+        [
+          886.4606323242188,
+          599.7752075195312
+        ],
+        [
+          789.7978820800781,
+          599.7752075195312
+        ]
+      ]
+    },
+    {
+      "title": "Country: France\nType: Manufacturing Company",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          789.6476440429688,
+          691.6603450622287
+        ],
+        [
+          924.6246643066406,
+          691.6603450622287
+        ],
+        [
+          924.6246643066406,
+          719.9585952758789
+        ],
+        [
+          789.6476440429688,
+          719.9585952758789
+        ]
+      ]
+    },
+    {
+      "title": "Country: Italy\nType: Consulting Company",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          790.3559875488281,
+          448.2002063999193
+        ],
+        [
+          909.5984802246094,
+          448.2002063999193
+        ],
+        [
+          909.5984802246094,
+          476.92132568359375
+        ],
+        [
+          790.3559875488281,
+          476.92132568359375
+        ]
+      ]
+    },
+    {
+      "title": "2 Biofabrication",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          113.14500000000001,
+          108.618
+        ],
+        [
+          301.323,
+          108.618
+        ],
+        [
+          301.323,
+          138.93
+        ],
+        [
+          113.14500000000001,
+          138.93
+        ]
+      ]
+    },
+    {
+      "title": "3 Post processing",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          640.758,
+          108.618
+        ],
+        [
+          847.992,
+          108.618
+        ],
+        [
+          847.992,
+          143.982
+        ],
+        [
+          640.758,
+          143.982
+        ]
+      ]
+    },
+    {
+      "title": "4 Scale up",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          639.5670000000001,
+          110.30199999999999
+        ],
+        [
+          768.195,
+          110.30199999999999
+        ],
+        [
+          768.195,
+          145.666
+        ],
+        [
+          639.5670000000001,
+          145.666
+        ]
+      ]
+    },
+    {
+      "title": "5 Prototyping for fashion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          640.758,
+          108.618
+        ],
+        [
+          927.7890000000001,
+          108.618
+        ],
+        [
+          927.7890000000001,
+          144.82399999999998
+        ],
+        [
+          640.758,
+          144.82399999999998
+        ]
+      ]
+    },
+    {
+      "title": "Traditional technologies",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          670.533,
+          375.532
+        ],
+        [
+          799.1610000000001,
+          375.532
+        ],
+        [
+          799.1610000000001,
+          390.688
+        ],
+        [
+          670.533,
+          390.688
+        ]
+      ]
+    },
+    {
+      "title": "Stitching",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          670.533,
+          404.15999999999997
+        ],
+        [
+          715.791,
+          404.15999999999997
+        ],
+        [
+          715.791,
+          417.632
+        ],
+        [
+          670.533,
+          417.632
+        ]
+      ]
+    },
+    {
+      "title": "Issues",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          794.397,
+          423.526
+        ],
+        [
+          832.509,
+          423.526
+        ],
+        [
+          832.509,
+          435.31399999999996
+        ],
+        [
+          794.397,
+          435.31399999999996
+        ]
+      ]
+    },
+    {
+      "title": "Solutions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          794.397,
+          459.73199999999997
+        ],
+        [
+          842.037,
+          459.73199999999997
+        ],
+        [
+          842.037,
+          471.52000000000004
+        ],
+        [
+          794.397,
+          471.52000000000004
+        ]
+      ]
+    },
+    {
+      "title": "Thermowelding (bonding)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          670.533,
+          529.6179999999999
+        ],
+        [
+          787.2510000000001,
+          529.6179999999999
+        ],
+        [
+          787.2510000000001,
+          543.09
+        ],
+        [
+          670.533,
+          543.09
+        ]
+      ]
+    },
+    {
+      "title": "Issues",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          794.397,
+          545.616
+        ],
+        [
+          832.509,
+          545.616
+        ],
+        [
+          832.509,
+          557.404
+        ],
+        [
+          794.397,
+          557.404
+        ]
+      ]
+    },
+    {
+      "title": "Solutions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          794.397,
+          578.4540000000001
+        ],
+        [
+          842.037,
+          578.4540000000001
+        ],
+        [
+          842.037,
+          589.3999999999999
+        ],
+        [
+          794.397,
+          589.3999999999999
+        ]
+      ]
+    },
+    {
+      "title": "Taping",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          670.533,
+          652.55
+        ],
+        [
+          708.645,
+          652.55
+        ],
+        [
+          708.645,
+          666.0219999999999
+        ],
+        [
+          670.533,
+          666.0219999999999
+        ]
+      ]
+    },
+    {
+      "title": "Issues",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          794.397,
+          667.706
+        ],
+        [
+          832.509,
+          667.706
+        ],
+        [
+          832.509,
+          679.494
+        ],
+        [
+          794.397,
+          679.494
+        ]
+      ]
+    },
+    {
+      "title": "Solutions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          794.397,
+          718.226
+        ],
+        [
+          842.037,
+          718.226
+        ],
+        [
+          842.037,
+          730.0139999999999
+        ],
+        [
+          794.397,
+          730.0139999999999
+        ]
+      ]
+    },
+    {
+      "title": "Advanced technologies",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          141.729,
+          96.83
+        ],
+        [
+          260.829,
+          96.83
+        ],
+        [
+          260.829,
+          112.82799999999999
+        ],
+        [
+          141.729,
+          112.82799999999999
+        ]
+      ]
+    },
+    {
+      "title": "Laser technologies",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          141.729,
+          131.35199999999998
+        ],
+        [
+          226.29000000000002,
+          131.35199999999998
+        ],
+        [
+          226.29000000000002,
+          144.82399999999998
+        ],
+        [
+          141.729,
+          144.82399999999998
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          265.593,
+          147.34999999999997
+        ],
+        [
+          333.4800000000001,
+          147.34999999999997
+        ],
+        [
+          333.4800000000001,
+          161.66400000000002
+        ],
+        [
+          265.593,
+          161.66400000000002
+        ]
+      ]
+    },
+    {
+      "title": "Printing",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          141.729,
+          321.644
+        ],
+        [
+          182.223,
+          321.644
+        ],
+        [
+          182.223,
+          335.116
+        ],
+        [
+          141.729,
+          335.116
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          265.593,
+          333.432
+        ],
+        [
+          333.4800000000001,
+          333.432
+        ],
+        [
+          333.4800000000001,
+          348.58799999999997
+        ],
+        [
+          265.593,
+          348.58799999999997
+        ]
+      ]
+    },
+    {
+      "title": "Thermoshaping",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          141.729,
+          517.8299999999999
+        ],
+        [
+          214.38000000000002,
+          517.8299999999999
+        ],
+        [
+          214.38000000000002,
+          531.302
+        ],
+        [
+          141.729,
+          531.302
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          265.593,
+          532.986
+        ],
+        [
+          333.4800000000001,
+          532.986
+        ],
+        [
+          333.4800000000001,
+          548.1419999999999
+        ],
+        [
+          265.593,
+          548.1419999999999
+        ]
+      ]
+    },
+    {
+      "title": "Advanced technologies",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          668.1510000000001,
+          96.83
+        ],
+        [
+          790.8240000000002,
+          96.83
+        ],
+        [
+          790.8240000000002,
+          112.82799999999999
+        ],
+        [
+          668.1510000000001,
+          112.82799999999999
+        ]
+      ]
+    },
+    {
+      "title": "Digital Embroidery",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          668.1510000000001,
+          131.35199999999998
+        ],
+        [
+          755.094,
+          131.35199999999998
+        ],
+        [
+          755.094,
+          144.82399999999998
+        ],
+        [
+          668.1510000000001,
+          144.82399999999998
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          790.8240000000002,
+          144.82399999999998
+        ],
+        [
+          865.857,
+          144.82399999999998
+        ],
+        [
+          865.857,
+          158.296
+        ],
+        [
+          790.8240000000002,
+          158.296
+        ]
+      ]
+    },
+    {
+      "title": "Embossing",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          668.1510000000001,
+          321.644
+        ],
+        [
+          724.128,
+          321.644
+        ],
+        [
+          724.128,
+          335.116
+        ],
+        [
+          668.1510000000001,
+          335.116
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          790.8240000000002,
+          333.432
+        ],
+        [
+          865.857,
+          333.432
+        ],
+        [
+          865.857,
+          351.114
+        ],
+        [
+          790.8240000000002,
+          351.114
+        ]
+      ]
+    },
+    {
+      "title": "6 Prototyping and validation in the automotive sector",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          113.14500000000001,
+          99.35599999999998
+        ],
+        [
+          499.02900000000005,
+          99.35599999999998
+        ],
+        [
+          499.02900000000005,
+          168.4
+        ],
+        [
+          113.14500000000001,
+          168.4
+        ]
+      ]
+    },
+    {
+      "title": "7 Sustainability",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          113.14500000000001,
+          110.30199999999999
+        ],
+        [
+          294.177,
+          110.30199999999999
+        ],
+        [
+          294.177,
+          147.34999999999997
+        ],
+        [
+          113.14500000000001,
+          147.34999999999997
+        ]
+      ]
+    },
+    {
+      "title": "7.1. LCA and LCC",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          141.729,
+          153.244
+        ],
+        [
+          298.941,
+          153.244
+        ],
+        [
+          298.941,
+          172.60999999999999
+        ],
+        [
+          141.729,
+          172.60999999999999
+        ]
+      ]
+    },
+    {
+      "title": "7.2. Biodegradability and Compostability",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          140.538,
+          111.144
+        ],
+        [
+          377.547,
+          111.144
+        ],
+        [
+          377.547,
+          155.76999999999998
+        ],
+        [
+          140.538,
+          155.76999999999998
+        ]
+      ]
+    },
+    {
+      "title": "7.3. Ecolabelling",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          668.1510000000001,
+          111.144
+        ],
+        [
+          826.554,
+          111.144
+        ],
+        [
+          826.554,
+          133.87800000000001
+        ],
+        [
+          668.1510000000001,
+          133.87800000000001
+        ]
+      ]
+    },
+    {
+      "title": "8 Gear-up-to market",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          113.14500000000001,
+          101.882
+        ],
+        [
+          354.918,
+          101.882
+        ],
+        [
+          354.918,
+          143.14000000000001
+        ],
+        [
+          113.14500000000001,
+          143.14000000000001
+        ]
+      ]
+    },
+    {
+      "title": "Communication \n9",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          642.6540985107422,
+          83.01422119140625
+        ],
+        [
+          860.5068969726562,
+          83.01422119140625
+        ],
+        [
+          860.5068969726562,
+          150.0701904296875
+        ],
+        [
+          642.6540985107422,
+          150.0701904296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageFooter",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          12
+        ],
+        [
+          "ListGroup",
+          10
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageFooter",
+          10
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageFooter",
+          10
+        ],
+        [
+          "Caption",
+          6
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          10
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          25
+        ],
+        [
+          "SectionHeader",
+          16
+        ],
+        [
+          "Picture",
+          10
+        ],
+        [
+          "PageFooter",
+          7
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          24
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "Picture",
+          12
+        ],
+        [
+          "PageFooter",
+          9
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          10
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Caption",
+          6
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageFooter",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Diagram",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageFooter",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageFooter",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Diagram",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageFooter",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          6
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/240327_Public-Summary_v1"
+}

@@ -1,0 +1,811 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Technical Summary Report\nTEI EUROTRIP \u2013 EUDR IN PRACTICE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.44768145582838,
+          498.4362520131275
+        ],
+        [
+          387.9423373051795,
+          498.4362520131275
+        ],
+        [
+          387.9423373051795,
+          545.1900024414062
+        ],
+        [
+          49.44768145582838,
+          545.1900024414062
+        ]
+      ]
+    },
+    {
+      "title": "1. Key challenges",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.83439151946483,
+          69.39308882566402
+        ],
+        [
+          216.45010375976562,
+          69.39308882566402
+        ],
+        [
+          216.45010375976562,
+          93.5479736328125
+        ],
+        [
+          53.83439151946483,
+          93.5479736328125
+        ]
+      ]
+    },
+    {
+      "title": "2. Key take-aways from the discussions with the \nvarious stakeholders",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.522186548343534,
+          622.8658905980424
+        ],
+        [
+          504.43133544921875,
+          622.8658905980424
+        ],
+        [
+          504.43133544921875,
+          670.7360076904297
+        ],
+        [
+          53.522186548343534,
+          670.7360076904297
+        ]
+      ]
+    },
+    {
+      "title": "3. Important conclusions and \u01a9ndings",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.04538586518026,
+          479.5490375902646
+        ],
+        [
+          407.5315556370041,
+          479.5490375902646
+        ],
+        [
+          407.5315556370041,
+          504.6260070800781
+        ],
+        [
+          54.04538586518026,
+          504.6260070800781
+        ]
+      ]
+    },
+    {
+      "title": "4. Conclusion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.980924745650974,
+          193.34110847670163
+        ],
+        [
+          181.31399536132812,
+          193.34110847670163
+        ],
+        [
+          181.31399536132812,
+          217.25897216796875
+        ],
+        [
+          52.980924745650974,
+          217.25897216796875
+        ]
+      ]
+    },
+    {
+      "title": "Further references",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.99360368474004,
+          469.929426728246
+        ],
+        [
+          230.34500637102485,
+          469.929426728246
+        ],
+        [
+          230.34500637102485,
+          494.6499938964844
+        ],
+        [
+          53.99360368474004,
+          494.6499938964844
+        ]
+      ]
+    },
+    {
+      "title": "Annexes",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.66906307806596,
+          539.6460012026589
+        ],
+        [
+          136.5665956588476,
+          539.6460012026589
+        ],
+        [
+          136.5665956588476,
+          563.0858764648438
+        ],
+        [
+          53.66906307806596,
+          563.0858764648438
+        ]
+      ]
+    },
+    {
+      "title": "Imprit",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          54.09893191551381,
+          627.453883836021
+        ],
+        [
+          87.59167142238664,
+          627.453883836021
+        ],
+        [
+          87.59167142238664,
+          640.6873779296875
+        ],
+        [
+          54.09893191551381,
+          640.6873779296875
+        ]
+      ]
+    },
+    {
+      "title": "Annex 1: Multi-stakeholder exchange agenda",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.242521540644184,
+          49.14530692096279
+        ],
+        [
+          457.0768283488468,
+          49.14530692096279
+        ],
+        [
+          457.0768283488468,
+          73.70599365234375
+        ],
+        [
+          53.242521540644184,
+          73.70599365234375
+        ]
+      ]
+    },
+    {
+      "title": "ft Programme",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          39.59606170654297,
+          105.30707762693572
+        ],
+        [
+          153.37793652897216,
+          105.30707762693572
+        ],
+        [
+          153.37793652897216,
+          126.8380126953125
+        ],
+        [
+          39.59606170654297,
+          126.8380126953125
+        ]
+      ]
+    },
+    {
+      "title": "Annex 2: African delegates' joint-statement",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.878717648292366,
+          49.3980833547835
+        ],
+        [
+          444.0749081244096,
+          49.3980833547835
+        ],
+        [
+          444.0749081244096,
+          73.70599365234375
+        ],
+        [
+          52.878717648292366,
+          73.70599365234375
+        ]
+      ]
+    },
+    {
+      "title": "Way Forward: African Position on EUDR Implementation",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.256627080422504,
+          112.07678850399843
+        ],
+        [
+          456.4051375305022,
+          112.07678850399843
+        ],
+        [
+          456.4051375305022,
+          131.84100341796875
+        ],
+        [
+          52.256627080422504,
+          131.84100341796875
+        ]
+      ]
+    },
+    {
+      "title": "1. Call for Inclusive Implementation Frameworks",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.983564823640684,
+          143.7544252662285
+        ],
+        [
+          353.17138671875,
+          143.7544252662285
+        ],
+        [
+          353.17138671875,
+          160.84295654296875
+        ],
+        [
+          52.983564823640684,
+          160.84295654296875
+        ]
+      ]
+    },
+    {
+      "title": "2. Establish a Continental EUDR Task Force",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.714345590894105,
+          312.92893056623234
+        ],
+        [
+          315.86257296545375,
+          312.92893056623234
+        ],
+        [
+          315.86257296545375,
+          330.8908996582031
+        ],
+        [
+          52.714345590894105,
+          330.8908996582031
+        ]
+      ]
+    },
+    {
+      "title": "3. Seek Technical & Financial Asistance",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.409058347457,
+          412.8822320409895
+        ],
+        [
+          293.652099609375,
+          412.8822320409895
+        ],
+        [
+          293.652099609375,
+          430.44287109375
+        ],
+        [
+          53.409058347457,
+          430.44287109375
+        ]
+      ]
+    },
+    {
+      "title": "4. Push for Transparent Risk Classification",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.28401257108981,
+          597.3492053363966
+        ],
+        [
+          314.9115263893262,
+          597.3492053363966
+        ],
+        [
+          314.9115263893262,
+          614.4928588867188
+        ],
+        [
+          53.28401257108981,
+          614.4928588867188
+        ]
+      ]
+    },
+    {
+      "title": "5. Develop National Readiness Roadmaps",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.487344698581644,
+          696.1080753805376
+        ],
+        [
+          305.12775242418724,
+          696.1080753805376
+        ],
+        [
+          305.12775242418724,
+          714.4189605712891
+        ],
+        [
+          52.487344698581644,
+          714.4189605712891
+        ]
+      ]
+    },
+    {
+      "title": "6. Promote South-South Collaboration",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.38502848358539,
+          95.1889384839541
+        ],
+        [
+          291.09071546117366,
+          95.1889384839541
+        ],
+        [
+          291.09071546117366,
+          112.33502197265625
+        ],
+        [
+          53.38502848358539,
+          112.33502197265625
+        ]
+      ]
+    },
+    {
+      "title": "7. Engage EU Buyers and Importers",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.09250669695568,
+          209.12574372669468
+        ],
+        [
+          268.9804001815373,
+          209.12574372669468
+        ],
+        [
+          268.9804001815373,
+          225.94219236976846
+        ],
+        [
+          53.09250669695568,
+          225.94219236976846
+        ]
+      ]
+    },
+    {
+      "title": "8. Monitor and Evaluate Progress",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.1293017101528,
+          308.4543146148709
+        ],
+        [
+          257.46888129476935,
+          308.4543146148709
+        ],
+        [
+          257.46888129476935,
+          325.38702392578125
+        ],
+        [
+          53.1293017101528,
+          325.38702392578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListGroup",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/251023_TEI_Eurotrip_African-Delegation_Report_FinalVersion"
+}

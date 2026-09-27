@@ -1,0 +1,293 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Thailand's natural rubber producers are preparing for new market requirements",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          67.348,
+          231.55
+        ],
+        [
+          495.87199999999996,
+          231.55
+        ],
+        [
+          495.87199999999996,
+          332.59000000000003
+        ],
+        [
+          67.348,
+          332.59000000000003
+        ]
+      ]
+    },
+    {
+      "title": "Mapping natural rubber production",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          157.344,
+          65.67599999999999
+        ],
+        [
+          361.77199999999993,
+          65.67599999999999
+        ],
+        [
+          361.77199999999993,
+          83.358
+        ],
+        [
+          157.344,
+          83.358
+        ]
+      ]
+    },
+    {
+      "title": "Registering smallholder rubber farmers",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          157.344,
+          647.4979999999999
+        ],
+        [
+          385.61199999999997,
+          647.4979999999999
+        ],
+        [
+          385.61199999999997,
+          665.1800000000001
+        ],
+        [
+          157.344,
+          665.1800000000001
+        ]
+      ]
+    },
+    {
+      "title": "Traceability of natural rubber supply chains",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          67.944,
+          569.192
+        ],
+        [
+          318.264,
+          569.192
+        ],
+        [
+          318.264,
+          586.874
+        ],
+        [
+          67.944,
+          586.874
+        ]
+      ]
+    },
+    {
+      "title": "Footnotes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          156.96584260493742,
+          533.4401106524446
+        ],
+        [
+          203.8231150437362,
+          533.4401106524446
+        ],
+        [
+          203.8231150437362,
+          547.7682800292969
+        ],
+        [
+          156.96584260493742,
+          547.7682800292969
+        ]
+      ]
+    },
+    {
+      "title": "Capacity building and information sharing",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          156.56388643586664,
+          312.18569726171177
+        ],
+        [
+          400.47199854622556,
+          312.18569726171177
+        ],
+        [
+          400.47199854622556,
+          330.43487548828125
+        ],
+        [
+          156.56388643586664,
+          330.43487548828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Briefing-Thailands-natural-rubber-producers-are-preparing-for-new-market-requirements-1"
+}

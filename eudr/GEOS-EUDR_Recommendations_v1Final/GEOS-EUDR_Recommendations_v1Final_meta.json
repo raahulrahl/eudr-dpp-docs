@@ -1,0 +1,735 @@
+{
+  "table_of_contents": [
+    {
+      "title": "GEOS-EUDR \u2013 Technical and Policy Brief No.1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.72333800117924,
+          275.46600341796875
+        ],
+        [
+          542.256103515625,
+          275.46600341796875
+        ],
+        [
+          542.256103515625,
+          311.553955078125
+        ],
+        [
+          56.72333800117924,
+          311.553955078125
+        ]
+      ]
+    },
+    {
+      "title": "Ensuring EUDR Compliance: Evaluating Global \nForest Maps for Deforestation Monitoring",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.46506163399174,
+          352.6049859581095
+        ],
+        [
+          520.3539428710938,
+          352.6049859581095
+        ],
+        [
+          520.3539428710938,
+          409.77191162109375
+        ],
+        [
+          56.46506163399174,
+          409.77191162109375
+        ]
+      ]
+    },
+    {
+      "title": "Executive Summary",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.660656239251665,
+          72.54295811096898
+        ],
+        [
+          210.27594800265328,
+          72.54295811096898
+        ],
+        [
+          210.27594800265328,
+          90.468017578125
+        ],
+        [
+          55.660656239251665,
+          90.468017578125
+        ]
+      ]
+    },
+    {
+      "title": "Background of study",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.12428508254717,
+          426.43968433030244
+        ],
+        [
+          219.28591918945312,
+          426.43968433030244
+        ],
+        [
+          219.28591918945312,
+          444.74798583984375
+        ],
+        [
+          56.12428508254717,
+          444.74798583984375
+        ]
+      ]
+    },
+    {
+      "title": "Key Findings",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.22914908547071,
+          377.5076491236156
+        ],
+        [
+          162.97330283878733,
+          377.5076491236156
+        ],
+        [
+          162.97330283878733,
+          396.5480041503906
+        ],
+        [
+          56.22914908547071,
+          396.5480041503906
+        ]
+      ]
+    },
+    {
+      "title": "3. Accuracy Bias and Misclassification Risks",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.296274859350426,
+          488.6878189263552
+        ],
+        [
+          247.8035796543337,
+          488.6878189263552
+        ],
+        [
+          247.8035796543337,
+          504.0168151855469
+        ],
+        [
+          56.296274859350426,
+          504.0168151855469
+        ]
+      ]
+    },
+    {
+      "title": "4. Regional Variability in Map Estimates",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.1219916577609,
+          574.8314923144618
+        ],
+        [
+          234.03323275967963,
+          574.8314923144618
+        ],
+        [
+          234.03323275967963,
+          589.216796875
+        ],
+        [
+          57.1219916577609,
+          589.216796875
+        ]
+      ]
+    },
+    {
+      "title": "5. Definition and Structural Challenges",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.10373439189023,
+          62.129111326494495
+        ],
+        [
+          227.8618941013168,
+          62.129111326494495
+        ],
+        [
+          227.8618941013168,
+          76.11676025390625
+        ],
+        [
+          56.10373439189023,
+          76.11676025390625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.493619830053554,
+          632.9577733461919
+        ],
+        [
+          374.01973301149764,
+          632.9577733461919
+        ],
+        [
+          374.01973301149764,
+          645.9997079225915
+        ],
+        [
+          56.493619830053554,
+          645.9997079225915
+        ]
+      ]
+    },
+    {
+      "title": "Recommendations for operators and competent authorities when \napplying map products for deforestation verification",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.94771402227053,
+          64.40022655565188
+        ],
+        [
+          540.7819357434158,
+          64.40022655565188
+        ],
+        [
+          540.7819357434158,
+          101.87823486328125
+        ],
+        [
+          56.94771402227053,
+          101.87823486328125
+        ]
+      ]
+    },
+    {
+      "title": "1. Use of Better-Fitting Map References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.76167679312844,
+          115.22910037766793
+        ],
+        [
+          234.27565002441406,
+          115.22910037766793
+        ],
+        [
+          234.27565002441406,
+          129.11676025390625
+        ],
+        [
+          56.76167679312844,
+          129.11676025390625
+        ]
+      ]
+    },
+    {
+      "title": "2. Use Multiple Map Datasets",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.50606578131141,
+          220.77713048022872
+        ],
+        [
+          191.0654754638672,
+          220.77713048022872
+        ],
+        [
+          191.0654754638672,
+          234.73675537109375
+        ],
+        [
+          56.50606578131141,
+          234.73675537109375
+        ]
+      ]
+    },
+    {
+      "title": "3. Promote Region-Specific Mapping",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.634014278387866,
+          300.8007871741603
+        ],
+        [
+          220.66552734375,
+          300.8007871741603
+        ],
+        [
+          220.66552734375,
+          314.5667724609375
+        ],
+        [
+          56.634014278387866,
+          314.5667724609375
+        ]
+      ]
+    },
+    {
+      "title": "Recommendations for policy and decision-makers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          54.67264446522454,
+          429.84081987769923
+        ],
+        [
+          412.3359375,
+          429.84081987769923
+        ],
+        [
+          412.3359375,
+          448.1479797363281
+        ],
+        [
+          54.67264446522454,
+          448.1479797363281
+        ]
+      ]
+    },
+    {
+      "title": "1. Building Monitoring Capacity",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.314034362409096,
+          459.21933458961763
+        ],
+        [
+          199.2756805419922,
+          459.21933458961763
+        ],
+        [
+          199.2756805419922,
+          473.3868103027344
+        ],
+        [
+          56.314034362409096,
+          473.3868103027344
+        ]
+      ]
+    },
+    {
+      "title": "2. Harmonize Forest Definitions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.102007058581464,
+          551.7852191874096
+        ],
+        [
+          199.67568969726562,
+          551.7852191874096
+        ],
+        [
+          199.67568969726562,
+          566.0168151855469
+        ],
+        [
+          56.102007058581464,
+          566.0168151855469
+        ]
+      ]
+    },
+    {
+      "title": "3. Encourage Use of Time-Series and Alert Systems",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          55.962516314428555,
+          631.5899238620394
+        ],
+        [
+          282.49560546875,
+          631.5899238620394
+        ],
+        [
+          282.49560546875,
+          645.8367919921875
+        ],
+        [
+          55.962516314428555,
+          645.8367919921875
+        ]
+      ]
+    },
+    {
+      "title": "Suggested citation:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          55.96114359921629,
+          684.0578660022331
+        ],
+        [
+          145.4456024169922,
+          684.0578660022331
+        ],
+        [
+          145.4456024169922,
+          697.6367950439453
+        ],
+        [
+          55.96114359921629,
+          697.6367950439453
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "ListGroup",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          16
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/GEOS-EUDR_Recommendations_v1Final"
+}

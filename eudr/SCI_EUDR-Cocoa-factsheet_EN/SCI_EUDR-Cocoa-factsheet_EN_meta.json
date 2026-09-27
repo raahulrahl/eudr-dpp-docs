@@ -1,0 +1,210 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          178.80963027146962,
+          28.571219236215946
+        ],
+        [
+          419.2882753463476,
+          28.571219236215946
+        ],
+        [
+          419.2882753463476,
+          83.05544084666143
+        ],
+        [
+          178.80963027146962,
+          83.05544084666143
+        ]
+      ]
+    },
+    {
+      "title": "Unpacking the \nEU Deforestation \nRegulation for \nthe cocoa sector",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          21.01189107438479,
+          121.2477067521079
+        ],
+        [
+          230.68649291992188,
+          121.2477067521079
+        ],
+        [
+          230.68649291992188,
+          230.26666259765625
+        ],
+        [
+          21.01189107438479,
+          230.26666259765625
+        ]
+      ]
+    },
+    {
+      "title": "The EUDR does not create a country or \nproduct ban",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          301.8606530484985,
+          634.8421015616303
+        ],
+        [
+          521.8106079101562,
+          634.8421015616303
+        ],
+        [
+          521.8106079101562,
+          664.7610015869141
+        ],
+        [
+          301.8606530484985,
+          664.7610015869141
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          24.16118054906427,
+          315.17103219308285
+        ],
+        [
+          206.6863798434548,
+          315.17103219308285
+        ],
+        [
+          206.6863798434548,
+          347.6394955506838
+        ],
+        [
+          24.16118054906427,
+          347.6394955506838
+        ]
+      ]
+    },
+    {
+      "title": "EU",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          385.4573882364806,
+          591.9475041132151
+        ],
+        [
+          404.01389510685607,
+          591.9475041132151
+        ],
+        [
+          404.01389510685607,
+          605.47882585534
+        ],
+        [
+          385.4573882364806,
+          605.47882585534
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          261
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          25
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/SCI_EUDR-Cocoa-factsheet_EN"
+}

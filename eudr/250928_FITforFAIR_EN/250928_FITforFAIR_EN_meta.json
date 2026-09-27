@@ -1,0 +1,294 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FIT FOR FAIR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          246.35306485654124,
+          51.49258857652319
+        ],
+        [
+          320.1650085449219,
+          51.49258857652319
+        ],
+        [
+          320.1650085449219,
+          66.49395751953125
+        ],
+        [
+          246.35306485654124,
+          66.49395751953125
+        ]
+      ]
+    },
+    {
+      "title": "SUPPORTING THE OPERATIONALISATION OF \nCORPORATE SUSTAINABILITY DUE DILIGENCE \nIN AGRICULTURAL SUPPLY CHAINS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          246.7144749254664,
+          76.77306925093394
+        ],
+        [
+          581.533935546875,
+          76.77306925093394
+        ],
+        [
+          581.533935546875,
+          137.6114501953125
+        ],
+        [
+          246.7144749254664,
+          137.6114501953125
+        ]
+      ]
+    },
+    {
+      "title": "PROJECT BACKGROUND",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          31.933031826836036,
+          500.3226853164306
+        ],
+        [
+          202.51419067382812,
+          500.3226853164306
+        ],
+        [
+          202.51419067382812,
+          519.9599914550781
+        ],
+        [
+          31.933031826836036,
+          519.9599914550781
+        ]
+      ]
+    },
+    {
+      "title": "PROJECT OBJECTIVE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          300.6749430543529,
+          514.9779409270996
+        ],
+        [
+          447.2003939458044,
+          514.9779409270996
+        ],
+        [
+          447.2003939458044,
+          534.9599914550781
+        ],
+        [
+          300.6749430543529,
+          534.9599914550781
+        ]
+      ]
+    },
+    {
+      "title": "APPROACH AND IMPLEMENTATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          300.8626921146883,
+          649.4999656507401
+        ],
+        [
+          540.0949454896096,
+          649.4999656507401
+        ],
+        [
+          540.0949454896096,
+          669.9600067138672
+        ],
+        [
+          300.8626921146883,
+          669.9600067138672
+        ]
+      ]
+    },
+    {
+      "title": "FIT for FAIR Working Groups",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          31.639768413092085,
+          128.04217529296875
+        ],
+        [
+          189.90524238182854,
+          128.04217529296875
+        ],
+        [
+          189.90524238182854,
+          144.135009765625
+        ],
+        [
+          31.639768413092085,
+          144.135009765625
+        ]
+      ]
+    },
+    {
+      "title": "Political mandate and host organisation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          31.36047851408759,
+          307.0993473531939
+        ],
+        [
+          263.3738595496497,
+          307.0993473531939
+        ],
+        [
+          263.3738595496497,
+          324.135009765625
+        ],
+        [
+          31.36047851408759,
+          324.135009765625
+        ]
+      ]
+    },
+    {
+      "title": "EXPECTED RESULTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          31.72347492054668,
+          440.75945300325577
+        ],
+        [
+          167.02420043945312,
+          440.75945300325577
+        ],
+        [
+          167.02420043945312,
+          459.9599914550781
+        ],
+        [
+          31.72347492054668,
+          459.9599914550781
+        ]
+      ]
+    },
+    {
+      "title": "Project Results in Colombia and C\u00f4te d'Ivoire",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          310.4641460735792,
+          53.488801067892396
+        ],
+        [
+          535.6677695017318,
+          53.488801067892396
+        ],
+        [
+          535.6677695017318,
+          68.72247314453125
+        ],
+        [
+          310.4641460735792,
+          68.72247314453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/250928_FITforFAIR_EN"
+}

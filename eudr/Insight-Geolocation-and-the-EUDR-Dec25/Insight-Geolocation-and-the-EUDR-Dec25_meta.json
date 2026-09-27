@@ -1,0 +1,2049 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Geolocation and the EU \nDeforestation Regulation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.65687142091073,
+          362.79537308948545
+        ],
+        [
+          499.74468994140625,
+          362.79537308948545
+        ],
+        [
+          499.74468994140625,
+          459.739990234375
+        ],
+        [
+          69.65687142091073,
+          459.739990234375
+        ]
+      ]
+    },
+    {
+      "title": "Insight",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.63969209992915,
+          293.14540634087336
+        ],
+        [
+          170.17807006835938,
+          293.14540634087336
+        ],
+        [
+          170.17807006835938,
+          325.06195068359375
+        ],
+        [
+          65.63969209992915,
+          325.06195068359375
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction: EUDR geolocation requirement",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.74037462517957,
+          93.65201841033364
+        ],
+        [
+          471.219970703125,
+          93.65201841033364
+        ],
+        [
+          471.219970703125,
+          114.84002685546875
+        ],
+        [
+          69.74037462517957,
+          114.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Assess deforestation and forest degradation risk at origin",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          83.7457478328676,
+          529.7064169852307
+        ],
+        [
+          391.8930358886719,
+          529.7064169852307
+        ],
+        [
+          391.8930358886719,
+          545.7779846191406
+        ],
+        [
+          83.7457478328676,
+          545.7779846191406
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Assess legal compliance risk",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          82.47424389433199,
+          654.7657056555404
+        ],
+        [
+          245.88722229003906,
+          654.7657056555404
+        ],
+        [
+          245.88722229003906,
+          671.5780029296875
+        ],
+        [
+          82.47424389433199,
+          671.5780029296875
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Consider supply chain complexity and risk of mixing",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          84.62371407227792,
+          91.3738728741504
+        ],
+        [
+          364.3620300292969,
+          91.3738728741504
+        ],
+        [
+          364.3620300292969,
+          106.90802001953125
+        ],
+        [
+          84.62371407227792,
+          106.90802001953125
+        ]
+      ]
+    },
+    {
+      "title": "Products without geolocation information cannot be placed on the EU market. Collecting \naccurate and complete geolocation information is therefore essential for all EUDR \ncommodities destined for sale in the EU.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.61712135295724,
+          247.31871895522593
+        ],
+        [
+          515.4935302734375,
+          247.31871895522593
+        ],
+        [
+          515.4935302734375,
+          296.96600341796875
+        ],
+        [
+          69.61712135295724,
+          296.96600341796875
+        ]
+      ]
+    },
+    {
+      "title": "Geolocation information from plot to export",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.3871654058884,
+          310.5495406003903
+        ],
+        [
+          296.3420104980469,
+          310.5495406003903
+        ],
+        [
+          296.3420104980469,
+          325.8114276182832
+        ],
+        [
+          69.3871654058884,
+          325.8114276182832
+        ]
+      ]
+    },
+    {
+      "title": "2. Main concepts: Understanding geolocation \nfundamentals",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.02175226860142,
+          92.74939334424393
+        ],
+        [
+          455.6302490234375,
+          92.74939334424393
+        ],
+        [
+          455.6302490234375,
+          142.85992431640625
+        ],
+        [
+          69.02175226860142,
+          142.85992431640625
+        ]
+      ]
+    },
+    {
+      "title": "What is geolocation?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.70186186437343,
+          166.00145144645168
+        ],
+        [
+          215.21603393554688,
+          166.00145144645168
+        ],
+        [
+          215.21603393554688,
+          184.39801025390625
+        ],
+        [
+          68.70186186437343,
+          184.39801025390625
+        ]
+      ]
+    },
+    {
+      "title": "Key technical concepts",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.62307758475431,
+          354.79441462556696
+        ],
+        [
+          226.46600341796875,
+          354.79441462556696
+        ],
+        [
+          226.46600341796875,
+          372.947998046875
+        ],
+        [
+          68.62307758475431,
+          372.947998046875
+        ]
+      ]
+    },
+    {
+      "title": "Coordinates",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.95848202645328,
+          386.6899051003868
+        ],
+        [
+          135.01202392578125,
+          386.6899051003868
+        ],
+        [
+          135.01202392578125,
+          403.0059814453125
+        ],
+        [
+          68.95848202645328,
+          403.0059814453125
+        ]
+      ]
+    },
+    {
+      "title": "Polygons",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.87578058122688,
+          505.60792026536757
+        ],
+        [
+          119.51200866699219,
+          505.60792026536757
+        ],
+        [
+          119.51200866699219,
+          522.0359802246094
+        ],
+        [
+          68.87578058122688,
+          522.0359802246094
+        ]
+      ]
+    },
+    {
+      "title": "Points",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.72302830309351,
+          591.9140515212808
+        ],
+        [
+          106.01199340820312,
+          591.9140515212808
+        ],
+        [
+          106.01199340820312,
+          607.3159942626953
+        ],
+        [
+          68.72302830309351,
+          607.3159942626953
+        ]
+      ]
+    },
+    {
+      "title": "Format to submit geolocation information: GeoJSON",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.4479505024869,
+          659.4196888217942
+        ],
+        [
+          336.4337463378906,
+          659.4196888217942
+        ],
+        [
+          336.4337463378906,
+          676.0859985351562
+        ],
+        [
+          68.4479505024869,
+          676.0859985351562
+        ]
+      ]
+    },
+    {
+      "title": "3. Geolocation data collection tools",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.21963785397315,
+          93.21291881911158
+        ],
+        [
+          372.870361328125,
+          93.21291881911158
+        ],
+        [
+          372.870361328125,
+          114.84002685546875
+        ],
+        [
+          69.21963785397315,
+          114.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "Unique anonymous GeoID for polygons",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          74.29940561443492,
+          102.88908675644723
+        ],
+        [
+          276.09210205078125,
+          102.88908675644723
+        ],
+        [
+          276.09210205078125,
+          118.63764949537024
+        ],
+        [
+          74.29940561443492,
+          118.63764949537024
+        ]
+      ]
+    },
+    {
+      "title": "4.Validation and common errors in geolocation data \ncollection",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.97569693846425,
+          92.9955742174456
+        ],
+        [
+          512.5902709960938,
+          92.9955742174456
+        ],
+        [
+          512.5902709960938,
+          142.85992431640625
+        ],
+        [
+          68.97569693846425,
+          142.85992431640625
+        ]
+      ]
+    },
+    {
+      "title": "Quality errors",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.92795218748769,
+          440.2781658495311
+        ],
+        [
+          167.9461212158203,
+          440.2781658495311
+        ],
+        [
+          167.9461212158203,
+          458.9679870605469
+        ],
+        [
+          68.92795218748769,
+          458.9679870605469
+        ]
+      ]
+    },
+    {
+      "title": "Technical errors",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          68.97180268025818,
+          287.73825934691183
+        ],
+        [
+          181.69607543945312,
+          287.73825934691183
+        ],
+        [
+          181.69607543945312,
+          306.197998046875
+        ],
+        [
+          68.97180268025818,
+          306.197998046875
+        ]
+      ]
+    },
+    {
+      "title": "Institutional errors",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          69.11446997500786,
+          386.4655759544746
+        ],
+        [
+          200.69766235351562,
+          386.4655759544746
+        ],
+        [
+          200.69766235351562,
+          404.4679870605469
+        ],
+        [
+          69.11446997500786,
+          404.4679870605469
+        ]
+      ]
+    },
+    {
+      "title": "Common institutional shortcomings include:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          69.25933065342362,
+          498.2525602155568
+        ],
+        [
+          290.84210205078125,
+          498.2525602155568
+        ],
+        [
+          290.84210205078125,
+          514.0359802246094
+        ],
+        [
+          69.25933065342362,
+          514.0359802246094
+        ]
+      ]
+    },
+    {
+      "title": "Aggregated table: Errors in geolocation data collection (EUDR context)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.45150656904322,
+          400.3394321023834
+        ],
+        [
+          423.94576234601305,
+          400.3394321023834
+        ],
+        [
+          423.94576234601305,
+          416.0059814453125
+        ],
+        [
+          69.45150656904322,
+          416.0059814453125
+        ]
+      ]
+    },
+    {
+      "title": "5.Data management",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          68.92771738662528,
+          93.62966901281531
+        ],
+        [
+          248.62001037597656,
+          93.62966901281531
+        ],
+        [
+          248.62001037597656,
+          114.84002685546875
+        ],
+        [
+          68.92771738662528,
+          114.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "6.Implementation challenges and possible solutions",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          69.26010377821453,
+          92.7443193960487
+        ],
+        [
+          509.5001220703125,
+          92.7443193960487
+        ],
+        [
+          509.5001220703125,
+          114.84002685546875
+        ],
+        [
+          69.26010377821453,
+          114.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "Institutional fragmentation and duplication in geolocation mapping",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          68.86903435156988,
+          244.80757794673167
+        ],
+        [
+          520.9153573062617,
+          244.80757794673167
+        ],
+        [
+          520.9153573062617,
+          263.42803955078125
+        ],
+        [
+          68.86903435156988,
+          263.42803955078125
+        ]
+      ]
+    },
+    {
+      "title": "Solution: Collaborative mapping initiatives",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          68.62469828339007,
+          411.9683950938822
+        ],
+        [
+          286.8920593261719,
+          411.9683950938822
+        ],
+        [
+          286.8920593261719,
+          428.2559814453125
+        ],
+        [
+          68.62469828339007,
+          428.2559814453125
+        ]
+      ]
+    },
+    {
+      "title": "Uganda public-private partnership",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          75.32327481901615,
+          592.9922683729408
+        ],
+        [
+          251.56204223632812,
+          592.9922683729408
+        ],
+        [
+          251.56204223632812,
+          609.8159942626953
+        ],
+        [
+          75.32327481901615,
+          609.8159942626953
+        ]
+      ]
+    },
+    {
+      "title": "Awareness and training gaps",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          69.22418497311378,
+          268.2841813723529
+        ],
+        [
+          266.6761474609375,
+          268.2841813723529
+        ],
+        [
+          266.6761474609375,
+          286.67803955078125
+        ],
+        [
+          69.22418497311378,
+          286.67803955078125
+        ]
+      ]
+    },
+    {
+      "title": "Solution: Targeted knowledge and training programs",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          68.98614844026733,
+          431.0100588981105
+        ],
+        [
+          337.61199951171875,
+          431.0100588981105
+        ],
+        [
+          337.61199951171875,
+          446.7570771432199
+        ],
+        [
+          68.98614844026733,
+          446.7570771432199
+        ]
+      ]
+    },
+    {
+      "title": "Complex supply chains with many members",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          69.30994455640202,
+          590.4554086822754
+        ],
+        [
+          367.0816345214844,
+          590.4554086822754
+        ],
+        [
+          367.0816345214844,
+          609.7680053710938
+        ],
+        [
+          69.30994455640202,
+          609.7680053710938
+        ]
+      ]
+    },
+    {
+      "title": "Solution: Building on partnerships and existing data",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          69.12330077817518,
+          89.98039623338626
+        ],
+        [
+          334.8619689941406,
+          89.98039623338626
+        ],
+        [
+          334.8619689941406,
+          105.916015625
+        ],
+        [
+          69.12330077817518,
+          105.916015625
+        ]
+      ]
+    },
+    {
+      "title": "Malaysia GeoPalm Portal",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          74.97335281179893,
+          368.18947769124276
+        ],
+        [
+          205.57644653320312,
+          368.18947769124276
+        ],
+        [
+          205.57644653320312,
+          383.7359924316406
+        ],
+        [
+          74.97335281179893,
+          383.7359924316406
+        ]
+      ]
+    },
+    {
+      "title": "Managing informal supply chain actors",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          69.26921519704669,
+          684.2970222887564
+        ],
+        [
+          333.2159729003906,
+          684.2970222887564
+        ],
+        [
+          333.2159729003906,
+          703.5480041503906
+        ],
+        [
+          69.26921519704669,
+          703.5480041503906
+        ]
+      ]
+    },
+    {
+      "title": "Solution: Inclusive geolocation models",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          68.91911565747009,
+          153.08938019804305
+        ],
+        [
+          265.9697570800781,
+          153.08938019804305
+        ],
+        [
+          265.9697570800781,
+          168.43597412109375
+        ],
+        [
+          68.91911565747009,
+          168.43597412109375
+        ]
+      ]
+    },
+    {
+      "title": "The Colombian Coffee Growers Federation",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          76.52760853034722,
+          383.45852658415305
+        ],
+        [
+          292.2533264160156,
+          383.45852658415305
+        ],
+        [
+          292.2533264160156,
+          400.5059814453125
+        ],
+        [
+          76.52760853034722,
+          400.5059814453125
+        ]
+      ]
+    },
+    {
+      "title": "Dynamic nature of geolocation data",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          69.23927522366233,
+          92.06817432651536
+        ],
+        [
+          313.9679260253906,
+          92.06817432651536
+        ],
+        [
+          313.9679260253906,
+          110.3780517578125
+        ],
+        [
+          69.23927522366233,
+          110.3780517578125
+        ]
+      ]
+    },
+    {
+      "title": "Solution: Integrated data management systems",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          68.94378692857565,
+          221.64724109136728
+        ],
+        [
+          311.59210205078125,
+          221.64724109136728
+        ],
+        [
+          311.59210205078125,
+          237.023100312013
+        ],
+        [
+          68.94378692857565,
+          237.023100312013
+        ]
+      ]
+    },
+    {
+      "title": "Tanzania Coffee Registry",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          77.46463005008265,
+          385.5689915753005
+        ],
+        [
+          202.82879638671875,
+          385.5689915753005
+        ],
+        [
+          202.82879638671875,
+          401.2559814453125
+        ],
+        [
+          77.46463005008265,
+          401.2559814453125
+        ]
+      ]
+    },
+    {
+      "title": "7. From compliance to opportunity: Leveraging \ngeolocation for sustainable supply chains",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          69.55715550343396,
+          93.25512926300402
+        ],
+        [
+          463.590087890625,
+          93.25512926300402
+        ],
+        [
+          463.590087890625,
+          142.85992431640625
+        ],
+        [
+          69.55715550343396,
+          142.85992431640625
+        ]
+      ]
+    },
+    {
+      "title": "Market access and premium value opportunities",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          68.68425179969154,
+          278.9988269075579
+        ],
+        [
+          397.53594970703125,
+          278.9988269075579
+        ],
+        [
+          397.53594970703125,
+          297.67803955078125
+        ],
+        [
+          68.68425179969154,
+          297.67803955078125
+        ]
+      ]
+    },
+    {
+      "title": "Enhanced market position for compliant producers",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          68.68665134996851,
+          312.06625640678914
+        ],
+        [
+          328.3619689941406,
+          312.06625640678914
+        ],
+        [
+          328.3619689941406,
+          327.4859619140625
+        ],
+        [
+          68.68665134996851,
+          327.4859619140625
+        ]
+      ]
+    },
+    {
+      "title": "Smallholder integration into formal markets",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          69.07096309325557,
+          481.20665699524847
+        ],
+        [
+          294.842041015625,
+          481.20665699524847
+        ],
+        [
+          294.842041015625,
+          497.2859802246094
+        ],
+        [
+          69.07096309325557,
+          497.2859802246094
+        ]
+      ]
+    },
+    {
+      "title": "Digital transformation and technological advancement",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          68.87717793270082,
+          633.7870406764804
+        ],
+        [
+          346.8619689941406,
+          633.7870406764804
+        ],
+        [
+          346.8619689941406,
+          650.0859985351562
+        ],
+        [
+          68.87717793270082,
+          650.0859985351562
+        ]
+      ]
+    },
+    {
+      "title": "Catalyst for agricultural digitalisation",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          68.35313104201924,
+          662.5486731185301
+        ],
+        [
+          259.03387451171875,
+          662.5486731185301
+        ],
+        [
+          259.03387451171875,
+          678.8359985351562
+        ],
+        [
+          68.35313104201924,
+          678.8359985351562
+        ]
+      ]
+    },
+    {
+      "title": "Government capacity enhancement",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          68.68146282359395,
+          153.64372762950106
+        ],
+        [
+          253.06201171875,
+          153.64372762950106
+        ],
+        [
+          253.06201171875,
+          168.43597412109375
+        ],
+        [
+          68.68146282359395,
+          168.43597412109375
+        ]
+      ]
+    },
+    {
+      "title": "Long-term sectoral transformation opportunities",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          68.5615712124995,
+          272.36198826124917
+        ],
+        [
+          317.84197998046875,
+          272.36198826124917
+        ],
+        [
+          317.84197998046875,
+          287.48235388303164
+        ],
+        [
+          68.5615712124995,
+          287.48235388303164
+        ]
+      ]
+    },
+    {
+      "title": "Agricultural data standardisation and sector monitoring",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          68.92921209455437,
+          301.07961979065215
+        ],
+        [
+          352.36199951171875,
+          301.07961979065215
+        ],
+        [
+          352.36199951171875,
+          316.2359619140625
+        ],
+        [
+          68.92921209455437,
+          316.2359619140625
+        ]
+      ]
+    },
+    {
+      "title": "Regional development integration",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          68.72179130342805,
+          435.8793559426828
+        ],
+        [
+          245.31204223632812,
+          435.8793559426828
+        ],
+        [
+          245.31204223632812,
+          452.2559814453125
+        ],
+        [
+          68.72179130342805,
+          452.2559814453125
+        ]
+      ]
+    },
+    {
+      "title": "Annex - Open source, freely available \ngeolocation tools",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          69.078700068015,
+          93.99932930624495
+        ],
+        [
+          448.7666015625,
+          93.99932930624495
+        ],
+        [
+          448.7666015625,
+          152.8218994140625
+        ],
+        [
+          69.078700068015,
+          152.8218994140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "PageFooter",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ChemicalBlock",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          8
+        ],
+        [
+          "PageFooter",
+          5
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Insight-Geolocation-and-the-EUDR-Dec25"
+}

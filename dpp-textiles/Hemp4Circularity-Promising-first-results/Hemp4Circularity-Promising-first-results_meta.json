@@ -1,0 +1,198 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Hemp4Circularity: a promising journey in textile \nhemp cultivation and processing",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.83783416363694,
+          92.83562758217299
+        ],
+        [
+          509.31689453125,
+          92.83562758217299
+        ],
+        [
+          509.31689453125,
+          141.3699951171875
+        ],
+        [
+          69.83783416363694,
+          141.3699951171875
+        ]
+      ]
+    },
+    {
+      "title": "Harvesting long fibre hemp: what have we learned?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.78758135970953,
+          255.670563532217
+        ],
+        [
+          345.7085572826472,
+          255.670563532217
+        ],
+        [
+          345.7085572826472,
+          272.33001708984375
+        ],
+        [
+          68.78758135970953,
+          272.33001708984375
+        ]
+      ]
+    },
+    {
+      "title": "Scutching textile hemp: the impact of high straw moisture content",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.84855513488615,
+          544.0871416806962
+        ],
+        [
+          424.7279968261719,
+          544.0871416806962
+        ],
+        [
+          424.7279968261719,
+          561.9200134277344
+        ],
+        [
+          68.84855513488615,
+          561.9200134277344
+        ]
+      ]
+    },
+    {
+      "title": "Promising preliminary long fibre results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.15534823247107,
+          79.69159624434324
+        ],
+        [
+          280.35539095708043,
+          79.69159624434324
+        ],
+        [
+          280.35539095708043,
+          95.280029296875
+        ],
+        [
+          69.15534823247107,
+          95.280029296875
+        ]
+      ]
+    },
+    {
+      "title": "About Hemp4Circularity",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.11072461490967,
+          297.7997556093645
+        ],
+        [
+          200.41957918642748,
+          297.7997556093645
+        ],
+        [
+          200.41957918642748,
+          314.0999755859375
+        ],
+        [
+          69.11072461490967,
+          314.0999755859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Hemp4Circularity-Promising-first-results"
+}

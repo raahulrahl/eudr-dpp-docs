@@ -1,0 +1,214 @@
+{
+  "table_of_contents": [
+    {
+      "title": "THE EU SUSTAINABLE COCOA PROGRAMME",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          178.41790225704008,
+          28.54732820505769
+        ],
+        [
+          419.52706209658373,
+          28.54732820505769
+        ],
+        [
+          419.52706209658373,
+          86.29204204012429
+        ],
+        [
+          178.41790225704008,
+          86.29204204012429
+        ]
+      ]
+    },
+    {
+      "title": "Unpacking the \nEU Deforestation \nRegulation for \nthe cocoa sector",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          20.986074433218622,
+          121.41865361554221
+        ],
+        [
+          230.68649291992188,
+          121.41865361554221
+        ],
+        [
+          230.68649291992188,
+          230.26666259765625
+        ],
+        [
+          20.986074433218622,
+          230.26666259765625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          213.38654271661483,
+          312.0871928784853
+        ],
+        [
+          532.4996759140821,
+          312.0871928784853
+        ],
+        [
+          532.4996759140821,
+          353.92739300205574
+        ],
+        [
+          213.38654271661483,
+          353.92739300205574
+        ]
+      ]
+    },
+    {
+      "title": "Due diligence for companies \nconsists of 3 steps :",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          22.97040229240052,
+          304.99746288323337
+        ],
+        [
+          193.3602752685547,
+          304.99746288323337
+        ],
+        [
+          193.3602752685547,
+          340.645263671875
+        ],
+        [
+          22.97040229240052,
+          340.645263671875
+        ]
+      ]
+    },
+    {
+      "title": "EU",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          383.3620024327967,
+          598.2666575430974
+        ],
+        [
+          401.29322887968357,
+          598.2666575430974
+        ],
+        [
+          401.29322887968357,
+          615.1730041503906
+        ],
+        [
+          383.3620024327967,
+          615.1730041503906
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          260
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          27
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/20230530-EUDR-Cocoa-factsheet_CDI_EN-1"
+}

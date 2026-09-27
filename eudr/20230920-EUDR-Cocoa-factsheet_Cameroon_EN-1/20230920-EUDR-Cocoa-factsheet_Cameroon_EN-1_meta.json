@@ -1,0 +1,191 @@
+{
+  "table_of_contents": [
+    {
+      "title": "THE EU SUSTAINABLE COCOA PROGRAMME",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          177.29408806096995,
+          28.34404421744342
+        ],
+        [
+          419.3816459136886,
+          28.34404421744342
+        ],
+        [
+          419.3816459136886,
+          85.10684325030523
+        ],
+        [
+          177.29408806096995,
+          85.10684325030523
+        ]
+      ]
+    },
+    {
+      "title": "Unpacking the \nEU Deforestation \nRegulation for \nthe cocoa sector",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          20.910770646871185,
+          121.44962357667971
+        ],
+        [
+          230.68649291992188,
+          121.44962357667971
+        ],
+        [
+          230.68649291992188,
+          230.26666259765625
+        ],
+        [
+          20.910770646871185,
+          230.26666259765625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          213.42127033685256,
+          312.0895954244177
+        ],
+        [
+          532.775664283887,
+          312.0895954244177
+        ],
+        [
+          532.775664283887,
+          354.0214355142649
+        ],
+        [
+          213.42127033685256,
+          354.0214355142649
+        ]
+      ]
+    },
+    {
+      "title": "Due diligence for companies \nconsists of 3 steps :",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          23.131434164359526,
+          305.03858074076135
+        ],
+        [
+          193.3602752685547,
+          305.03858074076135
+        ],
+        [
+          193.3602752685547,
+          340.645263671875
+        ],
+        [
+          23.131434164359526,
+          340.645263671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          257
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          25
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/20230920-EUDR-Cocoa-factsheet_Cameroon_EN-1"
+}

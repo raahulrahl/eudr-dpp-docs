@@ -1,0 +1,431 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Technical Summary Report\nTEI EUROTRIP \u2013 EUDR IN PRACTICE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.200201346832195,
+          498.8243203846769
+        ],
+        [
+          391.67477762909317,
+          498.8243203846769
+        ],
+        [
+          391.67477762909317,
+          545.1899719238281
+        ],
+        [
+          49.200201346832195,
+          545.1899719238281
+        ]
+      ]
+    },
+    {
+      "title": "1. Key challenges",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.58689422991774,
+          69.34938537108505
+        ],
+        [
+          216.45010375976562,
+          69.34938537108505
+        ],
+        [
+          216.45010375976562,
+          93.5479736328125
+        ],
+        [
+          53.58689422991774,
+          93.5479736328125
+        ]
+      ]
+    },
+    {
+      "title": "2. Key take-aways from the discussions with the \nvarious stakeholders",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.130744876429176,
+          626.9696221016181
+        ],
+        [
+          504.43133544921875,
+          626.9696221016181
+        ],
+        [
+          504.43133544921875,
+          672.8650054931641
+        ],
+        [
+          53.130744876429176,
+          672.8650054931641
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.217419833320214,
+          117.17361808905936
+        ],
+        [
+          541.6781676169907,
+          117.17361808905936
+        ],
+        [
+          541.6781676169907,
+          146.8201425200791
+        ],
+        [
+          56.217419833320214,
+          146.8201425200791
+        ]
+      ]
+    },
+    {
+      "title": "3. Important conclusions and findings",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.97620551351936,
+          454.2700899689726
+        ],
+        [
+          407.38132889985434,
+          454.2700899689726
+        ],
+        [
+          407.38132889985434,
+          479.114013671875
+        ],
+        [
+          53.97620551351936,
+          479.114013671875
+        ]
+      ]
+    },
+    {
+      "title": "4. Conclusion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.683712361141176,
+          69.69585537592003
+        ],
+        [
+          181.31399536132812,
+          69.69585537592003
+        ],
+        [
+          181.31399536132812,
+          93.5479736328125
+        ],
+        [
+          53.683712361141176,
+          93.5479736328125
+        ]
+      ]
+    },
+    {
+      "title": "Imprit",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.28877158369165,
+          519.1365420034923
+        ],
+        [
+          87.30705841602546,
+          519.1365420034923
+        ],
+        [
+          87.30705841602546,
+          532.2619934082031
+        ],
+        [
+          53.28877158369165,
+          532.2619934082031
+        ]
+      ]
+    },
+    {
+      "title": "Registered at",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          203.9143781301657,
+          539.1834767885964
+        ],
+        [
+          254.83842441357052,
+          539.1834767885964
+        ],
+        [
+          254.83842441357052,
+          552.0589904785156
+        ],
+        [
+          203.9143781301657,
+          552.0589904785156
+        ]
+      ]
+    },
+    {
+      "title": "Programme",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          361.4271349390448,
+          539.0393697954349
+        ],
+        [
+          406.66171579817376,
+          539.0393697954349
+        ],
+        [
+          406.66171579817376,
+          551.822998046875
+        ],
+        [
+          361.4271349390448,
+          551.822998046875
+        ]
+      ]
+    },
+    {
+      "title": "Disclaimer:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          54.97339332253867,
+          735.2994114102154
+        ],
+        [
+          103.84300231933594,
+          735.2994114102154
+        ],
+        [
+          103.84300231933594,
+          748.5960998535156
+        ],
+        [
+          54.97339332253867,
+          748.5960998535156
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Diagram",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/TEI-Eurotrip-SEAN_Technical-Summary-Report"
+}

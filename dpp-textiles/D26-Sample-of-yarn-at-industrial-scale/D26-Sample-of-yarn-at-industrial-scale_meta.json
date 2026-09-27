@@ -1,0 +1,1762 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Horizon 2020 Programme",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          151.776,
+          50.688
+        ],
+        [
+          272.952,
+          50.688
+        ],
+        [
+          272.952,
+          93.45599999999999
+        ],
+        [
+          151.776,
+          93.45599999999999
+        ]
+      ]
+    },
+    {
+      "title": "SCIRT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          288.864,
+          227.304
+        ],
+        [
+          321.91200000000003,
+          227.304
+        ],
+        [
+          321.91200000000003,
+          239.18399999999997
+        ],
+        [
+          288.864,
+          239.18399999999997
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.108,
+          271.656
+        ],
+        [
+          83.844,
+          271.656
+        ],
+        [
+          83.844,
+          285.12
+        ],
+        [
+          36.108,
+          285.12
+        ]
+      ]
+    },
+    {
+      "title": "Approval",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.108,
+          332.64
+        ],
+        [
+          77.724,
+          332.64
+        ],
+        [
+          77.724,
+          346.104
+        ],
+        [
+          36.108,
+          346.104
+        ]
+      ]
+    },
+    {
+      "title": "Disclaimer",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.964,
+          68.112
+        ],
+        [
+          180.54,
+          68.112
+        ],
+        [
+          180.54,
+          86.328
+        ],
+        [
+          89.964,
+          86.328
+        ]
+      ]
+    },
+    {
+      "title": "Document information",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.964,
+          132.264
+        ],
+        [
+          279.684,
+          132.264
+        ],
+        [
+          279.684,
+          150.48000000000002
+        ],
+        [
+          89.964,
+          150.48000000000002
+        ]
+      ]
+    },
+    {
+      "title": "History",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.964,
+          529.056
+        ],
+        [
+          153.0,
+          529.056
+        ],
+        [
+          153.0,
+          548.856
+        ],
+        [
+          89.964,
+          548.856
+        ]
+      ]
+    },
+    {
+      "title": "Table of contents",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.964,
+          67.32000000000001
+        ],
+        [
+          235.00799999999998,
+          67.32000000000001
+        ],
+        [
+          235.00799999999998,
+          84.744
+        ],
+        [
+          89.964,
+          84.744
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          88.74,
+          66.528
+        ],
+        [
+          171.36,
+          66.528
+        ],
+        [
+          171.36,
+          87.12
+        ],
+        [
+          88.74,
+          87.12
+        ]
+      ]
+    },
+    {
+      "title": "Keywords",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          88.74,
+          227.304
+        ],
+        [
+          176.868,
+          227.304
+        ],
+        [
+          176.868,
+          247.89600000000002
+        ],
+        [
+          88.74,
+          247.89600000000002
+        ]
+      ]
+    },
+    {
+      "title": "Abbreviations and acronyms",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          88.74,
+          308.08799999999997
+        ],
+        [
+          329.25600000000003,
+          308.08799999999997
+        ],
+        [
+          329.25600000000003,
+          328.67999999999995
+        ],
+        [
+          88.74,
+          328.67999999999995
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          88.74,
+          65.736
+        ],
+        [
+          195.228,
+          65.736
+        ],
+        [
+          195.228,
+          83.952
+        ],
+        [
+          88.74,
+          83.952
+        ]
+      ]
+    },
+    {
+      "title": "1 Description of our process",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          88.74,
+          65.736
+        ],
+        [
+          329.868,
+          65.736
+        ],
+        [
+          329.868,
+          86.328
+        ],
+        [
+          88.74,
+          86.328
+        ]
+      ]
+    },
+    {
+      "title": "1.1 Opening of the fibre",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          88.74,
+          261.36
+        ],
+        [
+          269.892,
+          261.36
+        ],
+        [
+          269.892,
+          280.36799999999994
+        ],
+        [
+          88.74,
+          280.36799999999994
+        ]
+      ]
+    },
+    {
+      "title": "1.2 Carding of the fibre",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          88.74,
+          66.528
+        ],
+        [
+          263.772,
+          66.528
+        ],
+        [
+          263.772,
+          85.536
+        ],
+        [
+          88.74,
+          85.536
+        ]
+      ]
+    },
+    {
+      "title": "1.3 Drawing of the sliver",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          88.74,
+          507.67199999999997
+        ],
+        [
+          273.564,
+          507.67199999999997
+        ],
+        [
+          273.564,
+          526.6800000000001
+        ],
+        [
+          88.74,
+          526.6800000000001
+        ]
+      ]
+    },
+    {
+      "title": "1.4 Open-End Spinning",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          88.74,
+          290.664
+        ],
+        [
+          263.772,
+          290.664
+        ],
+        [
+          263.772,
+          310.464
+        ],
+        [
+          88.74,
+          310.464
+        ]
+      ]
+    },
+    {
+      "title": "1.5 Packing",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          89.964,
+          319.968
+        ],
+        [
+          178.09199999999998,
+          319.968
+        ],
+        [
+          178.09199999999998,
+          338.976
+        ],
+        [
+          89.964,
+          338.976
+        ]
+      ]
+    },
+    {
+      "title": "2 The goal",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          89.964,
+          389.664
+        ],
+        [
+          184.82399999999998,
+          389.664
+        ],
+        [
+          184.82399999999998,
+          410.25600000000003
+        ],
+        [
+          89.964,
+          410.25600000000003
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Trials in preparation: May - June 2023",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          89.964,
+          619.344
+        ],
+        [
+          399.6360000000001,
+          619.344
+        ],
+        [
+          399.6360000000001,
+          638.3520000000001
+        ],
+        [
+          89.964,
+          638.3520000000001
+        ]
+      ]
+    },
+    {
+      "title": "2.1.1 HNST: recycled denim / Tencel (75/25)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          89.964,
+          645.48
+        ],
+        [
+          378.216,
+          645.48
+        ],
+        [
+          378.216,
+          662.904
+        ],
+        [
+          89.964,
+          662.904
+        ]
+      ]
+    },
+    {
+      "title": "2.1.2 HNST: recycled cotton / Tencel (75/25)",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          89.964,
+          275.616
+        ],
+        [
+          378.216,
+          275.616
+        ],
+        [
+          378.216,
+          293.03999999999996
+        ],
+        [
+          89.964,
+          293.03999999999996
+        ]
+      ]
+    },
+    {
+      "title": "2.1.3 Petit Bateau: recycled cotton / GOTS cotton (50/50)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          89.964,
+          312.84000000000003
+        ],
+        [
+          460.22399999999993,
+          312.84000000000003
+        ],
+        [
+          460.22399999999993,
+          330.264
+        ],
+        [
+          89.964,
+          330.264
+        ]
+      ]
+    },
+    {
+      "title": "2.1.4 Bel&Bo: recycled viscose / Tencel (50/50)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          88.74,
+          64.944
+        ],
+        [
+          396.576,
+          64.944
+        ],
+        [
+          396.576,
+          81.576
+        ],
+        [
+          88.74,
+          81.576
+        ]
+      ]
+    },
+    {
+      "title": "2.1.5 Xandres: recycled wool / recycled polyester (30/70)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          88.74,
+          352.44
+        ],
+        [
+          462.67199999999997,
+          352.44
+        ],
+        [
+          462.67199999999997,
+          369.86400000000003
+        ],
+        [
+          88.74,
+          369.86400000000003
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Conclusion of preparation trials",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          88.74,
+          550.4399999999999
+        ],
+        [
+          350.676,
+          550.4399999999999
+        ],
+        [
+          350.676,
+          570.24
+        ],
+        [
+          88.74,
+          570.24
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Spinning trials: September - October 2023",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          88.12799999999999,
+          68.112
+        ],
+        [
+          432.072,
+          68.112
+        ],
+        [
+          432.072,
+          87.12
+        ],
+        [
+          88.12799999999999,
+          87.12
+        ]
+      ]
+    },
+    {
+      "title": "2.3.1 HNST: recycled denim / Tencel (75/25)",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          88.12799999999999,
+          129.096
+        ],
+        [
+          376.992,
+          129.096
+        ],
+        [
+          376.992,
+          145.728
+        ],
+        [
+          88.12799999999999,
+          145.728
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION HNST DENIM",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          88.12799999999999,
+          540.144
+        ],
+        [
+          232.56,
+          540.144
+        ],
+        [
+          232.56,
+          553.608
+        ],
+        [
+          88.12799999999999,
+          553.608
+        ]
+      ]
+    },
+    {
+      "title": "2.3.2 HNST: recycled cotton / Tencel (75/25)",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          89.964,
+          65.736
+        ],
+        [
+          378.216,
+          65.736
+        ],
+        [
+          378.216,
+          82.368
+        ],
+        [
+          89.964,
+          82.368
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION HNST WHITE COTTON",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          89.964,
+          452.23199999999997
+        ],
+        [
+          279.072,
+          452.23199999999997
+        ],
+        [
+          279.072,
+          465.696
+        ],
+        [
+          89.964,
+          465.696
+        ]
+      ]
+    },
+    {
+      "title": "2.3.3 Petit Bateau: recycled cotton / GOTS cotton",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          89.964,
+          563.904
+        ],
+        [
+          407.592,
+          563.904
+        ],
+        [
+          407.592,
+          580.5360000000001
+        ],
+        [
+          89.964,
+          580.5360000000001
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION PETIT BATEAU",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          89.964,
+          312.048
+        ],
+        [
+          239.29200000000003,
+          312.048
+        ],
+        [
+          239.29200000000003,
+          323.928
+        ],
+        [
+          89.964,
+          323.928
+        ]
+      ]
+    },
+    {
+      "title": "2.3.4 Bel&Bo: recycled viscose / Tencel",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          89.964,
+          449.856
+        ],
+        [
+          343.33200000000005,
+          449.856
+        ],
+        [
+          343.33200000000005,
+          466.48799999999994
+        ],
+        [
+          89.964,
+          466.48799999999994
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION BEL&BO",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          89.352,
+          223.344
+        ],
+        [
+          208.692,
+          223.344
+        ],
+        [
+          208.692,
+          236.016
+        ],
+        [
+          89.352,
+          236.016
+        ]
+      ]
+    },
+    {
+      "title": "2.3.5 Xandres: recycled wool / recycled polyester",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          89.352,
+          361.944
+        ],
+        [
+          410.65200000000004,
+          361.944
+        ],
+        [
+          410.65200000000004,
+          378.57599999999996
+        ],
+        [
+          89.352,
+          378.57599999999996
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION XANDRES",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          89.352,
+          639.936
+        ],
+        [
+          216.64799999999997,
+          639.936
+        ],
+        [
+          216.64799999999997,
+          653.4
+        ],
+        [
+          89.352,
+          653.4
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          88.12799999999999,
+          143.352
+        ],
+        [
+          184.212,
+          143.352
+        ],
+        [
+          184.212,
+          160.776
+        ],
+        [
+          88.12799999999999,
+          160.776
+        ]
+      ]
+    },
+    {
+      "title": "Bibliography",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          88.12799999999999,
+          65.736
+        ],
+        [
+          201.96000000000004,
+          65.736
+        ],
+        [
+          201.96000000000004,
+          89.49600000000001
+        ],
+        [
+          88.12799999999999,
+          89.49600000000001
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Table",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Table",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Table",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/D26-Sample-of-yarn-at-industrial-scale"
+}

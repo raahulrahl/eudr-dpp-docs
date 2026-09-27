@@ -1,0 +1,3084 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ASSESSMENT OF CHALLENGES AND \nSUCCESS FACTORS FOR \nLANDSCAPE INITIATIVES IN \nINDONESIA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.599364042882655,
+          159.29718017578125
+        ],
+        [
+          523.1837158203125,
+          159.29718017578125
+        ],
+        [
+          523.1837158203125,
+          292.8963623046875
+        ],
+        [
+          45.599364042882655,
+          292.8963623046875
+        ]
+      ]
+    },
+    {
+      "title": "Table of Contents",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          240.40779248292858,
+          70.25932569495292
+        ],
+        [
+          354.68994140625,
+          70.25932569495292
+        ],
+        [
+          354.68994140625,
+          89.2764892578125
+        ],
+        [
+          240.40779248292858,
+          89.2764892578125
+        ]
+      ]
+    },
+    {
+      "title": "LIST OF TABLES",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.10355459833025,
+          70.20414468930008
+        ],
+        [
+          176.91976928710938,
+          70.20414468930008
+        ],
+        [
+          176.91976928710938,
+          89.2764892578125
+        ],
+        [
+          69.10355459833025,
+          89.2764892578125
+        ]
+      ]
+    },
+    {
+      "title": "TABLE OF FIGURES",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.95226839387446,
+          340.93536520980877
+        ],
+        [
+          198.1901092529297,
+          340.93536520980877
+        ],
+        [
+          198.1901092529297,
+          359.7864685058594
+        ],
+        [
+          68.95226839387446,
+          359.7864685058594
+        ]
+      ]
+    },
+    {
+      "title": "Acronym List",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.93535066311546,
+          74.06312680605365
+        ],
+        [
+          157.9600372314453,
+          74.06312680605365
+        ],
+        [
+          157.9600372314453,
+          93.35650634765625
+        ],
+        [
+          70.93535066311546,
+          93.35650634765625
+        ]
+      ]
+    },
+    {
+      "title": "Executive Summary",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          68.78499855022287,
+          74.72397017712478
+        ],
+        [
+          198.66976928710938,
+          74.72397017712478
+        ],
+        [
+          198.66976928710938,
+          93.35650634765625
+        ],
+        [
+          68.78499855022287,
+          93.35650634765625
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          67.64402098379448,
+          74.06666045218627
+        ],
+        [
+          177.0400390625,
+          74.06666045218627
+        ],
+        [
+          177.0400390625,
+          93.35650634765625
+        ],
+        [
+          67.64402098379448,
+          93.35650634765625
+        ]
+      ]
+    },
+    {
+      "title": "1.1. Background",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.29326224146922,
+          99.27191777624196
+        ],
+        [
+          178.47987365722656,
+          99.27191777624196
+        ],
+        [
+          178.47987365722656,
+          116.636474609375
+        ],
+        [
+          69.29326224146922,
+          116.636474609375
+        ]
+      ]
+    },
+    {
+      "title": "1.2. Assessment Objectives",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          69.48574168015487,
+          71.08469837898669
+        ],
+        [
+          241.595947265625,
+          71.08469837898669
+        ],
+        [
+          241.595947265625,
+          89.2764892578125
+        ],
+        [
+          69.48574168015487,
+          89.2764892578125
+        ]
+      ]
+    },
+    {
+      "title": "2. Methodology and Analytical Framework",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          67.30409233035608,
+          358.13907890285856
+        ],
+        [
+          346.2900695800781,
+          358.13907890285856
+        ],
+        [
+          346.2900695800781,
+          377.5464782714844
+        ],
+        [
+          67.30409233035608,
+          377.5464782714844
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Indicators of Landscape Maturity",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.32217741613124,
+          383.09200411191074
+        ],
+        [
+          307.1498107910156,
+          383.09200411191074
+        ],
+        [
+          307.1498107910156,
+          400.82647705078125
+        ],
+        [
+          68.32217741613124,
+          400.82647705078125
+        ]
+      ]
+    },
+    {
+      "title": "A. Scale",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.81232707986904,
+          608.3680501990518
+        ],
+        [
+          115.62562303519069,
+          608.3680501990518
+        ],
+        [
+          115.62562303519069,
+          624.0404815673828
+        ],
+        [
+          68.81232707986904,
+          624.0404815673828
+        ]
+      ]
+    },
+    {
+      "title": "B. Multistakeholder Forum",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          68.69473766259642,
+          130.72546898968392
+        ],
+        [
+          210.16718236505233,
+          130.72546898968392
+        ],
+        [
+          210.16718236505233,
+          146.720458984375
+        ],
+        [
+          68.69473766259642,
+          146.720458984375
+        ]
+      ]
+    },
+    {
+      "title": "C. Collective Goal and Actions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          68.8936426273221,
+          328.1089971853173
+        ],
+        [
+          223.64827960804666,
+          328.1089971853173
+        ],
+        [
+          223.64827960804666,
+          344.3904724121094
+        ],
+        [
+          68.8936426273221,
+          344.3904724121094
+        ]
+      ]
+    },
+    {
+      "title": "D. Collective Monitoring",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          69.22781579620592,
+          594.6532422114141
+        ],
+        [
+          198.22255324356502,
+          594.6532422114141
+        ],
+        [
+          198.22255324356502,
+          610.4804840087891
+        ],
+        [
+          69.22781579620592,
+          610.4804840087891
+        ]
+      ]
+    },
+    {
+      "title": "E. Funding & Strategy",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          68.91864032889494,
+          69.6814170558858
+        ],
+        [
+          183.49917617913155,
+          69.6814170558858
+        ],
+        [
+          183.49917617913155,
+          85.76043701171875
+        ],
+        [
+          68.91864032889494,
+          85.76043701171875
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Assessment Criteria and Scoring Approach",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          68.67364567293028,
+          276.0748036385432
+        ],
+        [
+          363.8099670410156,
+          276.0748036385432
+        ],
+        [
+          363.8099670410156,
+          294.86651611328125
+        ],
+        [
+          68.67364567293028,
+          294.86651611328125
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Data Collection Methods",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.03460332068147,
+          139.93951141547646
+        ],
+        [
+          255.42991638183594,
+          139.93951141547646
+        ],
+        [
+          255.42991638183594,
+          158.2764892578125
+        ],
+        [
+          69.03460332068147,
+          158.2764892578125
+        ]
+      ]
+    },
+    {
+      "title": "2.4. Detailed Assessment of the Five Landscape Initiatives",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.07832209589499,
+          442.00852617109234
+        ],
+        [
+          429.6899719238281,
+          442.00852617109234
+        ],
+        [
+          429.6899719238281,
+          460.8464660644531
+        ],
+        [
+          69.07832209589499,
+          460.8464660644531
+        ]
+      ]
+    },
+    {
+      "title": "Aceh Tamiang Landscape",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.22852019879319,
+          541.092238632569
+        ],
+        [
+          205.7462371903042,
+          541.092238632569
+        ],
+        [
+          205.7462371903042,
+          557.7340087890625
+        ],
+        [
+          69.22852019879319,
+          557.7340087890625
+        ]
+      ]
+    },
+    {
+      "title": "1. Profile and Background of Sustainability Efforts of the Landscape",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.35456244711311,
+          554.4256648320974
+        ],
+        [
+          405.6317990396725,
+          554.4256648320974
+        ],
+        [
+          405.6317990396725,
+          570.9704895019531
+        ],
+        [
+          69.35456244711311,
+          570.9704895019531
+        ]
+      ]
+    },
+    {
+      "title": "2. Landscape Maturity Assessment Results of Aceh Tamiang Landscape Initiative",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          69.3834085920896,
+          443.1138186093854
+        ],
+        [
+          467.6457214355469,
+          443.1138186093854
+        ],
+        [
+          467.6457214355469,
+          459.25048828125
+        ],
+        [
+          69.3834085920896,
+          459.25048828125
+        ]
+      ]
+    },
+    {
+      "title": "Aceh Singkil Landscape",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          69.29996265632379,
+          271.1041948653074
+        ],
+        [
+          196.67378384760704,
+          271.1041948653074
+        ],
+        [
+          196.67378384760704,
+          288.19403076171875
+        ],
+        [
+          69.29996265632379,
+          288.19403076171875
+        ]
+      ]
+    },
+    {
+      "title": "1. Profile and Background of Sustainability Efforts of the Landscape",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          69.70133468666364,
+          285.087628684719
+        ],
+        [
+          405.9470965099575,
+          285.087628684719
+        ],
+        [
+          405.9470965099575,
+          301.43048095703125
+        ],
+        [
+          69.70133468666364,
+          301.43048095703125
+        ]
+      ]
+    },
+    {
+      "title": "2. Landscape Maturity Assessment Results of Aceh Singkil Landscape Initiative",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          69.19354632399244,
+          252.40537659397958
+        ],
+        [
+          458.21376848581156,
+          252.40537659397958
+        ],
+        [
+          458.21376848581156,
+          269.03045654296875
+        ],
+        [
+          69.19354632399244,
+          269.03045654296875
+        ]
+      ]
+    },
+    {
+      "title": "Siak Landscape",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          68.92306718417919,
+          70.59560051881513
+        ],
+        [
+          154.55606079101562,
+          70.59560051881513
+        ],
+        [
+          154.55606079101562,
+          86.92401123046875
+        ],
+        [
+          68.92306718417919,
+          86.92401123046875
+        ]
+      ]
+    },
+    {
+      "title": "1. Profile and Background of Sustainability Efforts of the Landscape",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          69.82877428645752,
+          84.14420686825406
+        ],
+        [
+          405.74212108391055,
+          84.14420686825406
+        ],
+        [
+          405.74212108391055,
+          100.16046142578125
+        ],
+        [
+          69.82877428645752,
+          100.16046142578125
+        ]
+      ]
+    },
+    {
+      "title": "2. Landscape Maturity Assessment Results of Siak Landscape Initiative",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          69.23873689973384,
+          517.441665336901
+        ],
+        [
+          419.0160217285156,
+          517.441665336901
+        ],
+        [
+          419.0160217285156,
+          533.1704711914062
+        ],
+        [
+          69.23873689973384,
+          533.1704711914062
+        ]
+      ]
+    },
+    {
+      "title": "Kapuas Hulu Landscape",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          69.30514545584806,
+          70.37382842936053
+        ],
+        [
+          199.82598876953125,
+          70.37382842936053
+        ],
+        [
+          199.82598876953125,
+          86.92401123046875
+        ],
+        [
+          69.30514545584806,
+          86.92401123046875
+        ]
+      ]
+    },
+    {
+      "title": "1. Profile and Background of Sustainability Efforts of the Landscape",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          70.22313092517612,
+          84.28949298671814
+        ],
+        [
+          405.8542757202456,
+          84.28949298671814
+        ],
+        [
+          405.8542757202456,
+          100.16046142578125
+        ],
+        [
+          70.22313092517612,
+          100.16046142578125
+        ]
+      ]
+    },
+    {
+      "title": "2. Landscape Maturity Assessment Results of Kapuas Hulu Landscape Initiative",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          69.44358633507409,
+          494.921812986542
+        ],
+        [
+          460.5660705566406,
+          494.921812986542
+        ],
+        [
+          460.5660705566406,
+          510.7304992675781
+        ],
+        [
+          69.44358633507409,
+          510.7304992675781
+        ]
+      ]
+    },
+    {
+      "title": "1. Profile and Background of Sustainability Efforts of the Landscape",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          70.62011618818384,
+          269.87826592436033
+        ],
+        [
+          405.60376038058877,
+          269.87826592436033
+        ],
+        [
+          405.60376038058877,
+          286.55047607421875
+        ],
+        [
+          70.62011618818384,
+          286.55047607421875
+        ]
+      ]
+    },
+    {
+      "title": "2. Landscape Maturity Assessment Results of East Kutai Landscape Initiative",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          69.27010285884367,
+          136.19256363526478
+        ],
+        [
+          447.36614990234375,
+          136.19256363526478
+        ],
+        [
+          447.36614990234375,
+          152.48046875
+        ],
+        [
+          69.27010285884367,
+          152.48046875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          69.4548625033208,
+          404.5291060518178
+        ],
+        [
+          423.7118777796363,
+          404.5291060518178
+        ],
+        [
+          423.7118777796363,
+          420.4763536869365
+        ],
+        [
+          69.4548625033208,
+          420.4763536869365
+        ]
+      ]
+    },
+    {
+      "title": "2.5. Cross-Landscape Comparative Analysis",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          68.9294411685665,
+          457.2654012950106
+        ],
+        [
+          331.3100891113281,
+          457.2654012950106
+        ],
+        [
+          331.3100891113281,
+          475.2464599609375
+        ],
+        [
+          68.9294411685665,
+          475.2464599609375
+        ]
+      ]
+    },
+    {
+      "title": "1) Common Strength \u2013 Scale",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          69.17991642027117,
+          605.8432514465821
+        ],
+        [
+          217.2757568359375,
+          605.8432514465821
+        ],
+        [
+          217.2757568359375,
+          622.5716705322266
+        ],
+        [
+          69.17991642027117,
+          622.5716705322266
+        ]
+      ]
+    },
+    {
+      "title": "2) Multistakeholder Forum (MSF)",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          68.53621271935758,
+          697.54600757249
+        ],
+        [
+          241.3960418701172,
+          697.54600757249
+        ],
+        [
+          241.3960418701172,
+          714.1604919433594
+        ],
+        [
+          68.53621271935758,
+          714.1604919433594
+        ]
+      ]
+    },
+    {
+      "title": "3) Collective Goals and Actions",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          68.84426572400916,
+          183.1215720444201
+        ],
+        [
+          229.15585327148438,
+          183.1215720444201
+        ],
+        [
+          229.15585327148438,
+          200.00042724609375
+        ],
+        [
+          68.84426572400916,
+          200.00042724609375
+        ]
+      ]
+    },
+    {
+      "title": "4) Collective Monitoring",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          68.78615537398407,
+          290.764027433319
+        ],
+        [
+          199.15585327148438,
+          290.764027433319
+        ],
+        [
+          199.15585327148438,
+          307.0704345703125
+        ],
+        [
+          68.78615537398407,
+          307.0704345703125
+        ]
+      ]
+    },
+    {
+      "title": "5) Funding and Strategy",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          68.8467397233401,
+          504.13366764438865
+        ],
+        [
+          196.15585327148438,
+          504.13366764438865
+        ],
+        [
+          196.15585327148438,
+          520.4504699707031
+        ],
+        [
+          68.8467397233401,
+          520.4504699707031
+        ]
+      ]
+    },
+    {
+      "title": "3. Landscape Maturity Status of Lore Lindu Biosphere Reserve in Central \nSulawesi",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          68.76922680448826,
+          252.41728904771676
+        ],
+        [
+          525.837928752755,
+          252.41728904771676
+        ],
+        [
+          525.837928752755,
+          289.70648193359375
+        ],
+        [
+          68.76922680448826,
+          289.70648193359375
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Profile and Background of Sustainability Efforts of the Landscape",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          70.19419887744509,
+          294.1650329752894
+        ],
+        [
+          502.7146940063169,
+          294.1650329752894
+        ],
+        [
+          502.7146940063169,
+          312.50653076171875
+        ],
+        [
+          70.19419887744509,
+          312.50653076171875
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Multistakeholder Workshop of Lore Lindu Biosphere Reserve",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          69.20416963130461,
+          319.94992853506056
+        ],
+        [
+          479.51959228515625,
+          319.94992853506056
+        ],
+        [
+          479.51959228515625,
+          339.146484375
+        ],
+        [
+          69.20416963130461,
+          339.146484375
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1. Stakeholder Understanding",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          68.95781771181812,
+          146.6824642191587
+        ],
+        [
+          248.3060302734375,
+          146.6824642191587
+        ],
+        [
+          248.3060302734375,
+          163.1240234375
+        ],
+        [
+          68.95781771181812,
+          163.1240234375
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2. LLBR's Challenges and Opportunities",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          68.7670792356246,
+          292.85699973781516
+        ],
+        [
+          296.94816085853864,
+          292.85699973781516
+        ],
+        [
+          296.94816085853864,
+          309.55401611328125
+        ],
+        [
+          68.7670792356246,
+          309.55401611328125
+        ]
+      ]
+    },
+    {
+      "title": "3.2.3. Lessons from Five Landscape Initiatives in Indonesia and Context for LLBR",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          69.02805753078509,
+          248.9554154488622
+        ],
+        [
+          495.31585693359375,
+          248.9554154488622
+        ],
+        [
+          495.31585693359375,
+          265.9940185546875
+        ],
+        [
+          69.02805753078509,
+          265.9940185546875
+        ]
+      ]
+    },
+    {
+      "title": "3.2.4. Renewing Collective Commitment",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          68.60512963590453,
+          495.5600914212071
+        ],
+        [
+          285.1459045410156,
+          495.5600914212071
+        ],
+        [
+          285.1459045410156,
+          512.2539978027344
+        ],
+        [
+          68.60512963590453,
+          512.2539978027344
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Landscape Maturity Assessment Results of Lore Lindu Landscape \nInitiative",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          69.56411935340248,
+          69.71476047206752
+        ],
+        [
+          526.1747436523438,
+          69.71476047206752
+        ],
+        [
+          526.1747436523438,
+          108.59637451171875
+        ],
+        [
+          69.56411935340248,
+          108.59637451171875
+        ]
+      ]
+    },
+    {
+      "title": "3.4. Recommendation for Institutional Arrangements to Sustain the LLBR \nSustainability Agenda",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          69.50591164692223,
+          529.5415111348126
+        ],
+        [
+          526.1555786132812,
+          529.5415111348126
+        ],
+        [
+          526.1555786132812,
+          567.4063415527344
+        ],
+        [
+          69.50591164692223,
+          567.4063415527344
+        ]
+      ]
+    },
+    {
+      "title": "4. Conclusion",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          68.89041268375118,
+          300.58843420747127
+        ],
+        [
+          166.84002685546875,
+          300.58843420747127
+        ],
+        [
+          166.84002685546875,
+          318.62652587890625
+        ],
+        [
+          68.89041268375118,
+          318.62652587890625
+        ]
+      ]
+    },
+    {
+      "title": "Annexes",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          70.48604489573904,
+          74.50349242158586
+        ],
+        [
+          125.68043737147256,
+          74.50349242158586
+        ],
+        [
+          125.68043737147256,
+          93.35650634765625
+        ],
+        [
+          70.48604489573904,
+          93.35650634765625
+        ]
+      ]
+    },
+    {
+      "title": "Annex 1: Data collection tools",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          69.40786796973394,
+          98.83213060197295
+        ],
+        [
+          257.2299499511719,
+          98.83213060197295
+        ],
+        [
+          257.2299499511719,
+          116.636474609375
+        ],
+        [
+          69.40786796973394,
+          116.636474609375
+        ]
+      ]
+    },
+    {
+      "title": "Annex 2: The First LLBR Stakeholder Workshop Documentations",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": [
+        [
+          68.90215845372275,
+          70.49149254572147
+        ],
+        [
+          473.27984619140625,
+          70.49149254572147
+        ],
+        [
+          473.27984619140625,
+          89.2764892578125
+        ],
+        [
+          68.90215845372275,
+          89.2764892578125
+        ]
+      ]
+    },
+    {
+      "title": "A. LLBR challenges according to landscape maturity variables",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": [
+        [
+          69.35577081252706,
+          90.40636616653347
+        ],
+        [
+          374.8559265136719,
+          90.40636616653347
+        ],
+        [
+          374.8559265136719,
+          106.88043212890625
+        ],
+        [
+          69.35577081252706,
+          106.88043212890625
+        ]
+      ]
+    },
+    {
+      "title": "B. LLBR opportunities towards a mature landscape",
+      "heading_level": null,
+      "page_id": 40,
+      "polygon": [
+        [
+          69.43989824347892,
+          70.72101345724647
+        ],
+        [
+          311.30523681640625,
+          70.72101345724647
+        ],
+        [
+          311.30523681640625,
+          85.3851318359375
+        ],
+        [
+          69.43989824347892,
+          85.3851318359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          16
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Reference",
+          7
+        ],
+        [
+          "Footnote",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Reference",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Footnote",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Reference",
+          6
+        ],
+        [
+          "Footnote",
+          5
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ChemicalBlock",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          12
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 40,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 41,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Laporan-Deliverable-1.2_Okt_final-clean"
+}

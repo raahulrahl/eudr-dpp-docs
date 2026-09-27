@@ -1,0 +1,371 @@
+{
+  "table_of_contents": [
+    {
+      "title": "WHAT ARE SF\nTAXONOMIES?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.619940020275354,
+          468.0520324707031
+        ],
+        [
+          177.40659776202375,
+          468.0520324707031
+        ],
+        [
+          177.40659776202375,
+          524.5935974121094
+        ],
+        [
+          19.619940020275354,
+          524.5935974121094
+        ]
+      ]
+    },
+    {
+      "title": "FINANCE BRIEFING\nSUSTAINABLE FINANCE UPDATES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          8.968712881169932,
+          41.8406982421875
+        ],
+        [
+          590.2543656279518,
+          41.8406982421875
+        ],
+        [
+          590.2543656279518,
+          135.25775146484375
+        ],
+        [
+          8.968712881169932,
+          135.25775146484375
+        ]
+      ]
+    },
+    {
+      "title": "SUSTAINABLE FINANCE TAXONOMIES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          140.90739929045478,
+          343.11767578125
+        ],
+        [
+          429.0472405959737,
+          343.11767578125
+        ],
+        [
+          429.0472405959737,
+          371.91241455078125
+        ],
+        [
+          140.90739929045478,
+          371.91241455078125
+        ]
+      ]
+    },
+    {
+      "title": "WHO DEVELOPS AND USE SF TAXONOMIES?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          148.13681476122184,
+          601.2689971923828
+        ],
+        [
+          428.19288616036283,
+          601.2689971923828
+        ],
+        [
+          428.19288616036283,
+          632.4089965820312
+        ],
+        [
+          148.13681476122184,
+          632.4089965820312
+        ]
+      ]
+    },
+    {
+      "title": "WHY SHOULD SMALLHOLDER FARMERS AND LOCAL COMMUNITIES BE SUPPORTED\nBY SF TAXONOMIES IN TRANSITIONING TO DEFORESTATION-FREE SUPPLY CHAINS?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.900087505503926,
+          653.7689971923828
+        ],
+        [
+          558.7855064718789,
+          653.7689971923828
+        ],
+        [
+          558.7855064718789,
+          705.9089965820312
+        ],
+        [
+          33.900087505503926,
+          705.9089965820312
+        ]
+      ]
+    },
+    {
+      "title": "RECOMMENDED TRAININGS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          2.4262076913559767,
+          680.4620056152344
+        ],
+        [
+          232.16021175048212,
+          680.4620056152344
+        ],
+        [
+          232.16021175048212,
+          704.0240020751953
+        ],
+        [
+          2.4262076913559767,
+          704.0240020751953
+        ]
+      ]
+    },
+    {
+      "title": "READING",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          2.4533527828283814,
+          599.9365070781215
+        ],
+        [
+          104.77846459837944,
+          599.9365070781215
+        ],
+        [
+          104.77846459837944,
+          624.0950012207031
+        ],
+        [
+          2.4533527828283814,
+          624.0950012207031
+        ]
+      ]
+    },
+    {
+      "title": "FURTHER READING & TRAININGS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          179.91399608391058,
+          578.8619995117188
+        ],
+        [
+          384.61851920408924,
+          578.8619995117188
+        ],
+        [
+          384.61851920408924,
+          610.0019989013672
+        ],
+        [
+          179.91399608391058,
+          610.0019989013672
+        ]
+      ]
+    },
+    {
+      "title": "PRACTICAL EXAMPLES",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          204.63231899155778,
+          481.989990234375
+        ],
+        [
+          351.18418211660696,
+          481.989990234375
+        ],
+        [
+          351.18418211660696,
+          513.1300048828125
+        ],
+        [
+          204.63231899155778,
+          513.1300048828125
+        ]
+      ]
+    },
+    {
+      "title": "Figure 2: Simplified example of how SF taxonomies apply to the AFOLU sectors",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          141.84825207304294,
+          7.189893893227445
+        ],
+        [
+          440.35987742541715,
+          7.189893893227445
+        ],
+        [
+          440.35987742541715,
+          22.24700927734375
+        ],
+        [
+          141.84825207304294,
+          22.24700927734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Second-Finance-Briefing-August-2024"
+}

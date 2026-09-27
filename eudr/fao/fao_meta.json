@@ -1,0 +1,329 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPPORTING DEVELOPMENT FINANCE \nINSTITUTIONS FINANCING PRIVATE \nAGRIFOOD INVESTMENTS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          25.184342487633078,
+          295.3108553117869
+        ],
+        [
+          551.5237426757812,
+          295.3108553117869
+        ],
+        [
+          551.5237426757812,
+          382.96293856178346
+        ],
+        [
+          25.184342487633078,
+          382.96293856178346
+        ]
+      ]
+    },
+    {
+      "title": "EVIDENCE-BASED STRATEGY AND \nADVISORY SERVICES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.507979885456844,
+          30.644959596683165
+        ],
+        [
+          210.72830200195312,
+          30.644959596683165
+        ],
+        [
+          210.72830200195312,
+          58.30902099609375
+        ],
+        [
+          29.507979885456844,
+          58.30902099609375
+        ]
+      ]
+    },
+    {
+      "title": "SECTOR STUDIES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.824904088709754,
+          201.1485132640319
+        ],
+        [
+          122.86033630371094,
+          201.1485132640319
+        ],
+        [
+          122.86033630371094,
+          216.3070068359375
+        ],
+        [
+          28.824904088709754,
+          216.3070068359375
+        ]
+      ]
+    },
+    {
+      "title": "PROJECT PREPARATION, FROM DESIGN TO DUE \nDILIGENCE AND APPRAISAL",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.01647295819722,
+          401.1906655669106
+        ],
+        [
+          277.81787109375,
+          401.1906655669106
+        ],
+        [
+          277.81787109375,
+          428.30902099609375
+        ],
+        [
+          29.01647295819722,
+          428.30902099609375
+        ]
+      ]
+    },
+    {
+      "title": "SUPPORT TO PROJECT IMPLEMENTATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.433064400699337,
+          551.2948252405317
+        ],
+        [
+          246.91807590744057,
+          551.2948252405317
+        ],
+        [
+          246.91807590744057,
+          566.1809997558594
+        ],
+        [
+          28.433064400699337,
+          566.1809997558594
+        ]
+      ]
+    },
+    {
+      "title": "INNOVATIVE FINANCE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          322.24672823889125,
+          91.28245028107695
+        ],
+        [
+          438.9669241725047,
+          91.28245028107695
+        ],
+        [
+          438.9669241725047,
+          106.49700927734375
+        ],
+        [
+          322.24672823889125,
+          106.49700927734375
+        ]
+      ]
+    },
+    {
+      "title": "TARGETED AGRIFOOD PIPELINE \nDEVELOPMENT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.90602738310764,
+          244.04050223400628
+        ],
+        [
+          491.6163330078125,
+          244.04050223400628
+        ],
+        [
+          491.6163330078125,
+          271.70098876953125
+        ],
+        [
+          318.90602738310764,
+          271.70098876953125
+        ]
+      ]
+    },
+    {
+      "title": "POLICY DIALOGUE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          321.571944921383,
+          378.1255839374165
+        ],
+        [
+          420.72026281092565,
+          378.1255839374165
+        ],
+        [
+          420.72026281092565,
+          392.72100830078125
+        ],
+        [
+          321.571944921383,
+          392.72100830078125
+        ]
+      ]
+    },
+    {
+      "title": "CAPACITY DEVELOPMENT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          321.6553507691967,
+          501.7073297407196
+        ],
+        [
+          460.9172541620749,
+          501.7073297407196
+        ],
+        [
+          460.9172541620749,
+          516.4779968261719
+        ],
+        [
+          321.6553507691967,
+          516.4779968261719
+        ]
+      ]
+    },
+    {
+      "title": "KNOWLEDGE AND LEARNING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          321.17463895475834,
+          622.7509344955267
+        ],
+        [
+          477.7530028681911,
+          622.7509344955267
+        ],
+        [
+          477.7530028681911,
+          637.1590118408203
+        ],
+        [
+          321.17463895475834,
+          637.1590118408203
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Picture",
+          8
+        ],
+        [
+          "Caption",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          29
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/fao"
+}

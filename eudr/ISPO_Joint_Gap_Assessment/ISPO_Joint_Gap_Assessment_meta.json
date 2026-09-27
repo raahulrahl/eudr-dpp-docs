@@ -1,0 +1,2331 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Joint gap assessment of the \nEUDR information needs and \ninformation availability from the \nIndonesian Sustainable Palm Oil \n(ISPO) certification",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          67.46210758391796,
+          295.6795654296875
+        ],
+        [
+          468.0302429199219,
+          295.6795654296875
+        ],
+        [
+          468.0302429199219,
+          462.5491638183594
+        ],
+        [
+          67.46210758391796,
+          462.5491638183594
+        ]
+      ]
+    },
+    {
+      "title": "Contents",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          67.944,
+          69.886
+        ],
+        [
+          150.78799999999998,
+          69.886
+        ],
+        [
+          150.78799999999998,
+          88.41
+        ],
+        [
+          67.944,
+          88.41
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.96155734506601,
+          98.28365789941667
+        ],
+        [
+          168.791015625,
+          98.28365789941667
+        ],
+        [
+          168.791015625,
+          121.36871337890625
+        ],
+        [
+          68.96155734506601,
+          121.36871337890625
+        ]
+      ]
+    },
+    {
+      "title": "1. Geolocation information",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          88.38501772171904,
+          262.9043776392406
+        ],
+        [
+          238.19915771484375,
+          262.9043776392406
+        ],
+        [
+          238.19915771484375,
+          278.39776611328125
+        ],
+        [
+          88.38501772171904,
+          278.39776611328125
+        ]
+      ]
+    },
+    {
+      "title": "2. Deforestation-free information",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          87.14191323383629,
+          418.5589218071711
+        ],
+        [
+          269.399169921875,
+          418.5589218071711
+        ],
+        [
+          269.399169921875,
+          434.4277648925781
+        ],
+        [
+          87.14191323383629,
+          434.4277648925781
+        ]
+      ]
+    },
+    {
+      "title": "3. Legality information",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          86.82396995871133,
+          547.5128518407724
+        ],
+        [
+          216.239013671875,
+          547.5128518407724
+        ],
+        [
+          216.239013671875,
+          562.9677429199219
+        ],
+        [
+          86.82396995871133,
+          562.9677429199219
+        ]
+      ]
+    },
+    {
+      "title": "4. Traceability",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          87.46303491087944,
+          648.9418427899599
+        ],
+        [
+          172.28900146484375,
+          648.9418427899599
+        ],
+        [
+          172.28900146484375,
+          664.3977508544922
+        ],
+        [
+          87.46303491087944,
+          664.3977508544922
+        ]
+      ]
+    },
+    {
+      "title": "5. Risk assessment (Article 10)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          86.94728622628699,
+          185.2907262107462
+        ],
+        [
+          260.2792663574219,
+          185.2907262107462
+        ],
+        [
+          260.2792663574219,
+          200.51776123046875
+        ],
+        [
+          86.94728622628699,
+          200.51776123046875
+        ]
+      ]
+    },
+    {
+      "title": "1. Geolocation information",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          87.99755621076531,
+          481.7586018807741
+        ],
+        [
+          238.19915771484375,
+          481.7586018807741
+        ],
+        [
+          238.19915771484375,
+          497.9277648925781
+        ],
+        [
+          87.99755621076531,
+          497.9277648925781
+        ]
+      ]
+    },
+    {
+      "title": "2. Deforestation-free information",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          86.89678113346436,
+          542.2097694077665
+        ],
+        [
+          269.399169921875,
+          542.2097694077665
+        ],
+        [
+          269.399169921875,
+          558.4077453613281
+        ],
+        [
+          86.89678113346436,
+          558.4077453613281
+        ]
+      ]
+    },
+    {
+      "title": "3. Legality information",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          87.29055936030237,
+          684.3623257753367
+        ],
+        [
+          216.239013671875,
+          684.3623257753367
+        ],
+        [
+          216.239013671875,
+          700.6377563476562
+        ],
+        [
+          87.29055936030237,
+          700.6377563476562
+        ]
+      ]
+    },
+    {
+      "title": "4. Traceability",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          86.94820252233548,
+          89.81443179258785
+        ],
+        [
+          172.28900146484375,
+          89.81443179258785
+        ],
+        [
+          172.28900146484375,
+          105.1177978515625
+        ],
+        [
+          86.94820252233548,
+          105.1177978515625
+        ]
+      ]
+    },
+    {
+      "title": "5. Risk assessment (Article 10)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          87.39315015663128,
+          225.18857091426423
+        ],
+        [
+          260.2792663574219,
+          225.18857091426423
+        ],
+        [
+          260.2792663574219,
+          240.477783203125
+        ],
+        [
+          87.39315015663128,
+          240.477783203125
+        ]
+      ]
+    },
+    {
+      "title": "6. Other areas",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          87.33140325666375,
+          387.5534945154232
+        ],
+        [
+          172.28900146484375,
+          387.5534945154232
+        ],
+        [
+          172.28900146484375,
+          403.1077575683594
+        ],
+        [
+          87.33140325666375,
+          403.1077575683594
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.20127726441967,
+          92.16266874617375
+        ],
+        [
+          216.5812225341797,
+          92.16266874617375
+        ],
+        [
+          216.5812225341797,
+          115.36871337890625
+        ],
+        [
+          70.20127726441967,
+          115.36871337890625
+        ]
+      ]
+    },
+    {
+      "title": "1.1 The EU Deforestation Regulation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.41484900025335,
+          129.37755608494962
+        ],
+        [
+          353.1067199707031,
+          129.37755608494962
+        ],
+        [
+          353.1067199707031,
+          149.15521240234375
+        ],
+        [
+          69.41484900025335,
+          149.15521240234375
+        ]
+      ]
+    },
+    {
+      "title": "1.2 The Indonesian Sustainable Palm Oil (ISPO) \ncertification",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.68786482726897,
+          471.6888225552023
+        ],
+        [
+          436.3460388183594,
+          471.6888225552023
+        ],
+        [
+          436.3460388183594,
+          514.2450561523438
+        ],
+        [
+          70.68786482726897,
+          514.2450561523438
+        ]
+      ]
+    },
+    {
+      "title": "2. Objectives and scope",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          68.56565445676559,
+          576.8140732178387
+        ],
+        [
+          305.501220703125,
+          576.8140732178387
+        ],
+        [
+          305.501220703125,
+          601.8987579345703
+        ],
+        [
+          68.56565445676559,
+          601.8987579345703
+        ]
+      ]
+    },
+    {
+      "title": "3. EUDR information needs and information \navailable from ISPO certification",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.48954461623799,
+          343.8861467696043
+        ],
+        [
+          492.2406311035156,
+          343.8861467696043
+        ],
+        [
+          492.2406311035156,
+          394.9986572265625
+        ],
+        [
+          68.48954461623799,
+          394.9986572265625
+        ]
+      ]
+    },
+    {
+      "title": "3.1 EUDR Article 9 \u2013 Information requirements",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.60268999767543,
+          407.78553974426757
+        ],
+        [
+          427.62652587890625,
+          407.78553974426757
+        ],
+        [
+          427.62652587890625,
+          431.29095458984375
+        ],
+        [
+          68.60268999767543,
+          431.29095458984375
+        ]
+      ]
+    },
+    {
+      "title": "3.1.1 Article 9 (1)(a)(b)(c)(e)\u2013 Product and buyer/seller information",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          69.78199164633186,
+          270.7308426243008
+        ],
+        [
+          513.1631469726562,
+          270.7308426243008
+        ],
+        [
+          513.1631469726562,
+          292.44903564453125
+        ],
+        [
+          69.78199164633186,
+          292.44903564453125
+        ]
+      ]
+    },
+    {
+      "title": "Box 1. ISPO gaps: Article 9 (1)(a)(b)(c)(e) - Product and buyer/seller information",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          77.35207453422642,
+          623.7659071856912
+        ],
+        [
+          496.8357385592136,
+          623.7659071856912
+        ],
+        [
+          496.8357385592136,
+          640.8477478027344
+        ],
+        [
+          77.35207453422642,
+          640.8477478027344
+        ]
+      ]
+    },
+    {
+      "title": "3.1.2 Article 9 (1)(d) \u2013 Geolocation",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          69.01488004823776,
+          89.91316498971261
+        ],
+        [
+          301.5528564453125,
+          89.91316498971261
+        ],
+        [
+          301.5528564453125,
+          110.61907958984375
+        ],
+        [
+          69.01488004823776,
+          110.61907958984375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.68432951574061,
+          195.14791454338962
+        ],
+        [
+          241.28583317139285,
+          195.14791454338962
+        ],
+        [
+          241.28583317139285,
+          209.19283196168186
+        ],
+        [
+          76.68432951574061,
+          209.19283196168186
+        ]
+      ]
+    },
+    {
+      "title": "3.1.3 Article 9(1)(g) \u2013 Deforestation-free",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          68.60514681645544,
+          282.42533791627824
+        ],
+        [
+          337.33319091796875,
+          282.42533791627824
+        ],
+        [
+          337.33319091796875,
+          303.60906982421875
+        ],
+        [
+          68.60514681645544,
+          303.60906982421875
+        ]
+      ]
+    },
+    {
+      "title": "Box 2. ISPO gaps: Article 9 (1)(d) \u2013 Geolocation Information",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          75.94282266535146,
+          93.12533457918244
+        ],
+        [
+          392.07785626082335,
+          93.12533457918244
+        ],
+        [
+          392.07785626082335,
+          110.6910400390625
+        ],
+        [
+          75.94282266535146,
+          110.6910400390625
+        ]
+      ]
+    },
+    {
+      "title": "Definition \u2013 EUDR Article 2(3):",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          76.62882488260341,
+          353.72219269804305
+        ],
+        [
+          239.75904846191406,
+          353.72219269804305
+        ],
+        [
+          239.75904846191406,
+          371.48101806640625
+        ],
+        [
+          76.62882488260341,
+          371.48101806640625
+        ]
+      ]
+    },
+    {
+      "title": "Definition \u2013 EUDR Article 2(4):",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          76.14925271137535,
+          431.7517362681225
+        ],
+        [
+          239.75904846191406,
+          431.7517362681225
+        ],
+        [
+          239.75904846191406,
+          449.24102783203125
+        ],
+        [
+          76.14925271137535,
+          449.24102783203125
+        ]
+      ]
+    },
+    {
+      "title": "Definition - EUDR Article 2 (13):",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          76.31731286036877,
+          523.4080856200954
+        ],
+        [
+          246.4793243408203,
+          523.4080856200954
+        ],
+        [
+          246.4793243408203,
+          539.0877685546875
+        ],
+        [
+          76.31731286036877,
+          539.0877685546875
+        ]
+      ]
+    },
+    {
+      "title": "3.1.4 Article 9 (1)(h) \u2013 Legality",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          68.43396553404685,
+          563.4452093435204
+        ],
+        [
+          273.5333251953125,
+          563.4452093435204
+        ],
+        [
+          273.5333251953125,
+          585.029052734375
+        ],
+        [
+          68.43396553404685,
+          585.029052734375
+        ]
+      ]
+    },
+    {
+      "title": "Box 3. ISPO gaps: Article 9 (1)(g) \u2013 Deforestation-free information",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          74.64810207568728,
+          371.24508137078766
+        ],
+        [
+          424.6541508210996,
+          371.24508137078766
+        ],
+        [
+          424.6541508210996,
+          389.36102294921875
+        ],
+        [
+          74.64810207568728,
+          389.36102294921875
+        ]
+      ]
+    },
+    {
+      "title": "Definition - Article 2 (40):",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          76.77746528221918,
+          105.87089795378415
+        ],
+        [
+          212.27911376953125,
+          105.87089795378415
+        ],
+        [
+          212.27911376953125,
+          122.03778076171875
+        ],
+        [
+          76.77746528221918,
+          122.03778076171875
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Traceability information",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          69.00725761048439,
+          216.0756684300736
+        ],
+        [
+          284.56689453125,
+          216.0756684300736
+        ],
+        [
+          284.56689453125,
+          236.2752685546875
+        ],
+        [
+          69.00725761048439,
+          236.2752685546875
+        ]
+      ]
+    },
+    {
+      "title": "Box 4. ISPO gaps: Article 9 (1)(h) \u2013 Legality",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          76.68385418716545,
+          93.51828812746096
+        ],
+        [
+          308.25787353515625,
+          93.51828812746096
+        ],
+        [
+          308.25787353515625,
+          110.6910400390625
+        ],
+        [
+          76.68385418716545,
+          110.6910400390625
+        ]
+      ]
+    },
+    {
+      "title": "3.3 EUDR Article 10 \u2013 Risk assessment",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          69.39666052369085,
+          369.0921936035156
+        ],
+        [
+          372.66668701171875,
+          369.0921936035156
+        ],
+        [
+          372.66668701171875,
+          391.9309387207031
+        ],
+        [
+          69.39666052369085,
+          391.9309387207031
+        ]
+      ]
+    },
+    {
+      "title": "Box 5. ISPO gaps: Traceability information",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          76.90433219698274,
+          93.5111777355707
+        ],
+        [
+          305.2792663574219,
+          93.5111777355707
+        ],
+        [
+          305.2792663574219,
+          108.957763671875
+        ],
+        [
+          76.90433219698274,
+          108.957763671875
+        ]
+      ]
+    },
+    {
+      "title": "Table 1. EUDR Risk Assessment criteria and information available from ISPO \nCertification.",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          70.039505197059,
+          88.76665863009934
+        ],
+        [
+          513.4171142578125,
+          88.76665863009934
+        ],
+        [
+          513.4171142578125,
+          122.128173828125
+        ],
+        [
+          70.039505197059,
+          122.128173828125
+        ]
+      ]
+    },
+    {
+      "title": "3.3.1 Article 10(c)(d) and (e) \u2013 Information regarding Indigenous \nPeoples",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          68.90857252606216,
+          89.61433975885515
+        ],
+        [
+          499.28155517578125,
+          89.61433975885515
+        ],
+        [
+          499.28155517578125,
+          125.8148193359375
+        ],
+        [
+          68.90857252606216,
+          125.8148193359375
+        ]
+      ]
+    },
+    {
+      "title": "3.3.2 Article 10(g) \u2013 The source, reliability, validity, and links to \nother available documentation of the information referred to \nin Article 9(1)",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          69.05235655662095,
+          370.74365859401087
+        ],
+        [
+          510.7711181640625,
+          370.74365859401087
+        ],
+        [
+          510.7711181640625,
+          424.6448974609375
+        ],
+        [
+          69.05235655662095,
+          424.6448974609375
+        ]
+      ]
+    },
+    {
+      "title": "3.3.3 Article 10(i) - Complexity of the supply chain",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          68.81569446784722,
+          503.4454458751322
+        ],
+        [
+          407.5329895019531,
+          503.4454458751322
+        ],
+        [
+          407.5329895019531,
+          522.3447570800781
+        ],
+        [
+          68.81569446784722,
+          522.3447570800781
+        ]
+      ]
+    },
+    {
+      "title": "3.3.4 Article 10(j) \u2013 Risk of circumvention or mixing products of \nunknown origin or from areas where deforestation has \noccurred",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          69.79929246109738,
+          183.89009913565957
+        ],
+        [
+          497.7505798339844,
+          183.89009913565957
+        ],
+        [
+          497.7505798339844,
+          237.05474853515625
+        ],
+        [
+          69.79929246109738,
+          237.05474853515625
+        ]
+      ]
+    },
+    {
+      "title": "3.3.5 Article 10(m) \u2013 Any information that would point to a risk that \nthe relevant products are non-compliant",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          69.01683290419109,
+          417.44139472777994
+        ],
+        [
+          518.7037963867188,
+          417.44139472777994
+        ],
+        [
+          518.7037963867188,
+          453.68475341796875
+        ],
+        [
+          69.01683290419109,
+          453.68475341796875
+        ]
+      ]
+    },
+    {
+      "title": "Presidential Regulation 44/2020",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          69.14212493512132,
+          503.6676699331798
+        ],
+        [
+          240.239013671875,
+          503.6676699331798
+        ],
+        [
+          240.239013671875,
+          520.7277526855469
+        ],
+        [
+          69.14212493512132,
+          520.7277526855469
+        ]
+      ]
+    },
+    {
+      "title": "Ministry of Agriculture Regulation 38/2020",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          68.33784607856039,
+          646.4402204396357
+        ],
+        [
+          295.0792541503906,
+          646.4402204396357
+        ],
+        [
+          295.0792541503906,
+          663.0777587890625
+        ],
+        [
+          68.33784607856039,
+          663.0777587890625
+        ]
+      ]
+    },
+    {
+      "title": "3.3.6 Article 10(n) \u2013 Complementary information provided by \ncertification schemes",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          69.2465483235472,
+          224.55434455090298
+        ],
+        [
+          478.2818603515625,
+          224.55434455090298
+        ],
+        [
+          478.2818603515625,
+          260.45477294921875
+        ],
+        [
+          69.2465483235472,
+          260.45477294921875
+        ]
+      ]
+    },
+    {
+      "title": "Box 6. ISPO Gaps: Article 10 \u2013 Risk Assessment",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          75.3666900711636,
+          508.8368504728893
+        ],
+        [
+          323.6077880859375,
+          508.8368504728893
+        ],
+        [
+          323.6077880859375,
+          526.2405395507812
+        ],
+        [
+          75.3666900711636,
+          526.2405395507812
+        ]
+      ]
+    },
+    {
+      "title": "4. Potential ISPO adaptations",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          69.13541306656614,
+          90.99154201110133
+        ],
+        [
+          355.5609436035156,
+          90.99154201110133
+        ],
+        [
+          355.5609436035156,
+          115.36871337890625
+        ],
+        [
+          69.13541306656614,
+          115.36871337890625
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Article 9 (1)(d) \u2013 Geolocation",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          68.30151494023781,
+          181.5910571702123
+        ],
+        [
+          320.9265441894531,
+          181.5910571702123
+        ],
+        [
+          320.9265441894531,
+          204.70098876953125
+        ],
+        [
+          68.30151494023781,
+          204.70098876953125
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Article 9 (1)(g) \u2013 Deforestation-free",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          68.74142867311723,
+          435.5285842365594
+        ],
+        [
+          366.426513671875,
+          435.5285842365594
+        ],
+        [
+          366.426513671875,
+          458.8909606933594
+        ],
+        [
+          68.74142867311723,
+          458.8909606933594
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Article 9 (1)(h) \u2013 Legality",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          68.15871592793115,
+          602.1894430158824
+        ],
+        [
+          289.006591796875,
+          602.1894430158824
+        ],
+        [
+          289.006591796875,
+          625.3509674072266
+        ],
+        [
+          68.15871592793115,
+          625.3509674072266
+        ]
+      ]
+    },
+    {
+      "title": "4.4 Traceability",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          68.70128917934312,
+          90.57931661223685
+        ],
+        [
+          192.1368408203125,
+          90.57931661223685
+        ],
+        [
+          192.1368408203125,
+          110.7552490234375
+        ],
+        [
+          68.70128917934312,
+          110.7552490234375
+        ]
+      ]
+    },
+    {
+      "title": "4.5 Article 10 \u2013 Risk assessment",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          68.75041410124271,
+          256.67766502427924
+        ],
+        [
+          322.8468933105469,
+          256.67766502427924
+        ],
+        [
+          322.8468933105469,
+          279.58099365234375
+        ],
+        [
+          68.75041410124271,
+          279.58099365234375
+        ]
+      ]
+    },
+    {
+      "title": "4.6 Other areas",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          68.83667192050731,
+          484.0699883560357
+        ],
+        [
+          192.13687133789062,
+          484.0699883560357
+        ],
+        [
+          192.13687133789062,
+          504.1652526855469
+        ],
+        [
+          68.83667192050731,
+          504.1652526855469
+        ]
+      ]
+    },
+    {
+      "title": "Appendix 1: EUDR due diligence statement",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          69.136,
+          90.93599999999999
+        ],
+        [
+          483.35600000000005,
+          90.93599999999999
+        ],
+        [
+          483.35600000000005,
+          114.512
+        ],
+        [
+          69.136,
+          114.512
+        ]
+      ]
+    },
+    {
+      "title": "ANNEX II",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          282.50399999999996,
+          182.714
+        ],
+        [
+          317.072,
+          182.714
+        ],
+        [
+          317.072,
+          192.818
+        ],
+        [
+          282.50399999999996,
+          192.818
+        ]
+      ]
+    },
+    {
+      "title": "Due diligence statement",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          253.89599999999996,
+          207.97399999999996
+        ],
+        [
+          345.08399999999995,
+          207.97399999999996
+        ],
+        [
+          345.08399999999995,
+          219.762
+        ],
+        [
+          253.89599999999996,
+          219.762
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          14
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          25
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ISPO_Joint_Gap_Assessment"
+}

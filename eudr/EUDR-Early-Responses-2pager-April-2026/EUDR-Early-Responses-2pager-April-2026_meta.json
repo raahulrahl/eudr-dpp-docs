@@ -1,0 +1,156 @@
+{
+  "table_of_contents": [
+    {
+      "title": "EU Deforestation Regulation: Early \nresponses in producer countries",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.12401878683633,
+          109.64794921875
+        ],
+        [
+          356.93896484375,
+          109.64794921875
+        ],
+        [
+          356.93896484375,
+          161.61993408203125
+        ],
+        [
+          62.12401878683633,
+          161.61993408203125
+        ]
+      ]
+    },
+    {
+      "title": "Key \u033bndings",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.84827484592082,
+          456.99798583984375
+        ],
+        [
+          146.35170970695745,
+          456.99798583984375
+        ],
+        [
+          146.35170970695745,
+          482.7200012207031
+        ],
+        [
+          39.84827484592082,
+          482.7200012207031
+        ]
+      ]
+    },
+    {
+      "title": "What it means for implementation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.05375137136925,
+          296.447998046875
+        ],
+        [
+          328.5208363569053,
+          296.447998046875
+        ],
+        [
+          328.5208363569053,
+          322.16998291015625
+        ],
+        [
+          40.05375137136925,
+          322.16998291015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "PageFooter",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/EUDR-Early-Responses-2pager-April-2026"
+}

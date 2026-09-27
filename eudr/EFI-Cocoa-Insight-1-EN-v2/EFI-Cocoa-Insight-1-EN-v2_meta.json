@@ -1,0 +1,1075 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The role of spatial information for \nEUDR due diligence",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.73606261438326,
+          300.91995345240497
+        ],
+        [
+          493.73114013671875,
+          300.91995345240497
+        ],
+        [
+          493.73114013671875,
+          365.7630920410156
+        ],
+        [
+          68.73606261438326,
+          365.7630920410156
+        ]
+      ]
+    },
+    {
+      "title": "Key messages",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.25341481706057,
+          388.2686752360098
+        ],
+        [
+          211.081210580821,
+          388.2686752360098
+        ],
+        [
+          211.081210580821,
+          411.06329345703125
+        ],
+        [
+          69.25341481706057,
+          411.06329345703125
+        ]
+      ]
+    },
+    {
+      "title": "Cocoa Insight / March 2024",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.523339682322,
+          252.23853810854712
+        ],
+        [
+          354.02081298828125,
+          252.23853810854712
+        ],
+        [
+          354.02081298828125,
+          278.3167724609375
+        ],
+        [
+          65.523339682322,
+          278.3167724609375
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.56217764366784,
+          91.96322311170378
+        ],
+        [
+          217.7350311279297,
+          91.96322311170378
+        ],
+        [
+          217.7350311279297,
+          115.38323974609375
+        ],
+        [
+          70.56217764366784,
+          115.38323974609375
+        ]
+      ]
+    },
+    {
+      "title": "2. Understanding and implementing the EUDR \nzero-deforestation requirement",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.89247404237838,
+          90.91714889241028
+        ],
+        [
+          516.6221923828125,
+          90.91714889241028
+        ],
+        [
+          516.6221923828125,
+          141.54327392578125
+        ],
+        [
+          69.89247404237838,
+          141.54327392578125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.71922567449228,
+          422.73742969271757
+        ],
+        [
+          497.4792074592648,
+          422.73742969271757
+        ],
+        [
+          497.4792074592648,
+          451.30955846417936
+        ],
+        [
+          68.71922567449228,
+          451.30955846417936
+        ]
+      ]
+    },
+    {
+      "title": "What spatial datasets regarding forest cover around year \n2020 are openly and freely available at the global and \nregional levels?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.24789986021872,
+          564.8599656768282
+        ],
+        [
+          510.3407287597656,
+          564.8599656768282
+        ],
+        [
+          510.3407287597656,
+          627.2166137695312
+        ],
+        [
+          69.24789986021872,
+          627.2166137695312
+        ]
+      ]
+    },
+    {
+      "title": "What datasets regarding forest cover around year 2020 are \navailable at national level?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.452806564062,
+          90.14926089034586
+        ],
+        [
+          523.7060546875,
+          90.14926089034586
+        ],
+        [
+          523.7060546875,
+          132.09661865234375
+        ],
+        [
+          69.452806564062,
+          132.09661865234375
+        ]
+      ]
+    },
+    {
+      "title": "Box 1: C\u00f4te d'Ivoire's national 2020 land cover baseline map",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          73.89992344469508,
+          128.55489003562758
+        ],
+        [
+          424.67791748046875,
+          128.55489003562758
+        ],
+        [
+          424.67791748046875,
+          143.96002197265625
+        ],
+        [
+          73.89992344469508,
+          143.96002197265625
+        ]
+      ]
+    },
+    {
+      "title": "How can geospatial data be used to assess compliance \nwith the deforestation-free criteria?",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          68.87590657193354,
+          690.7805098604115
+        ],
+        [
+          498.01220703125,
+          690.7805098604115
+        ],
+        [
+          498.01220703125,
+          732.0967102050781
+        ],
+        [
+          68.87590657193354,
+          732.0967102050781
+        ]
+      ]
+    },
+    {
+      "title": "3. Understanding and implementing the EUDR \nlegality criteria related to land use",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          69.90163700286327,
+          260.909097564507
+        ],
+        [
+          511.0655517578125,
+          260.909097564507
+        ],
+        [
+          511.0655517578125,
+          310.74322509765625
+        ],
+        [
+          69.90163700286327,
+          310.74322509765625
+        ]
+      ]
+    },
+    {
+      "title": "What data is available on protected area boundaries?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          69.04100593932029,
+          458.3576214485474
+        ],
+        [
+          481.90728759765625,
+          458.3576214485474
+        ],
+        [
+          481.90728759765625,
+          479.1368103027344
+        ],
+        [
+          69.04100593932029,
+          479.1368103027344
+        ]
+      ]
+    },
+    {
+      "title": "Box 2: Cameroon's Forest Atlas",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          75.07151675284359,
+          588.1951392318983
+        ],
+        [
+          262.66107177734375,
+          588.1951392318983
+        ],
+        [
+          262.66107177734375,
+          604.2799987792969
+        ],
+        [
+          75.07151675284359,
+          604.2799987792969
+        ]
+      ]
+    },
+    {
+      "title": "How can geospatial data be used to assess non-\ncompliance risk with the legality criteria related to land \nuse?",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          69.14257162944496,
+          176.77611486718575
+        ],
+        [
+          493.4273376464844,
+          176.77611486718575
+        ],
+        [
+          493.4273376464844,
+          238.65692138671875
+        ],
+        [
+          69.14257162944496,
+          238.65692138671875
+        ]
+      ]
+    },
+    {
+      "title": "4. How to enhance collaboration towards \nimproved access to robust and relevant \nspatial data?",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          69.16780985873052,
+          404.02260366084846
+        ],
+        [
+          473.48358154296875,
+          404.02260366084846
+        ],
+        [
+          473.48358154296875,
+          481.62298583984375
+        ],
+        [
+          69.16780985873052,
+          481.62298583984375
+        ]
+      ]
+    },
+    {
+      "title": "Box 3: Ghana Cocoa Board Deforestation Risk Assessment Module",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          75.30920967467185,
+          674.7420284716231
+        ],
+        [
+          464.70428466796875,
+          674.7420284716231
+        ],
+        [
+          464.70428466796875,
+          692.3600006103516
+        ],
+        [
+          75.30920967467185,
+          692.3600006103516
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          68.9992285663595,
+          538.9136136769187
+        ],
+        [
+          216.63270472759564,
+          538.9136136769187
+        ],
+        [
+          216.63270472759564,
+          553.0674922735906
+        ],
+        [
+          68.9992285663595,
+          553.0674922735906
+        ]
+      ]
+    },
+    {
+      "title": "Recommendations to cocoa supply chain actors:",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          69.06918776966162,
+          145.82482494378024
+        ],
+        [
+          311.6932067871094,
+          145.82482494378024
+        ],
+        [
+          311.6932067871094,
+          161.27801513671875
+        ],
+        [
+          69.06918776966162,
+          161.27801513671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          32
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          22
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/EFI-Cocoa-Insight-1-EN-v2"
+}

@@ -1,0 +1,681 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Report on Industry Needs in Sustainable Textile and Fashion Materials",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.99066734313965,
+          99.75599670410156
+        ],
+        [
+          475.1055908203125,
+          99.75599670410156
+        ],
+        [
+          475.1055908203125,
+          117.43194580078125
+        ],
+        [
+          68.99066734313965,
+          117.43194580078125
+        ]
+      ]
+    },
+    {
+      "title": "Executive Summary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.02982330322266,
+          127.49906158447266
+        ],
+        [
+          167.11287689208984,
+          127.49906158447266
+        ],
+        [
+          167.11287689208984,
+          142.58489990234375
+        ],
+        [
+          69.02982330322266,
+          142.58489990234375
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.94101142883301,
+          291.29500579833984
+        ],
+        [
+          142.1195182800293,
+          291.29500579833984
+        ],
+        [
+          142.1195182800293,
+          306.6249694824219
+        ],
+        [
+          68.94101142883301,
+          306.6249694824219
+        ]
+      ]
+    },
+    {
+      "title": "2. The Stakeholder Ecosystem",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.0892105102539,
+          501.9396057128906
+        ],
+        [
+          216.70358276367188,
+          501.9396057128906
+        ],
+        [
+          216.70358276367188,
+          517.5849609375
+        ],
+        [
+          68.0892105102539,
+          517.5849609375
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Academic Institutions (Universities and Schools)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.3034839630127,
+          550.3639984130859
+        ],
+        [
+          321.5307083129883,
+          550.3639984130859
+        ],
+        [
+          321.5307083129883,
+          566.304931640625
+        ],
+        [
+          68.3034839630127,
+          566.304931640625
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Creative and Textile Labs",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          67.63894271850586,
+          98.94473648071289
+        ],
+        [
+          209.3210678100586,
+          98.94473648071289
+        ],
+        [
+          209.3210678100586,
+          114.74493408203125
+        ],
+        [
+          67.63894271850586,
+          114.74493408203125
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Networks and Industry Platforms",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          67.7848949432373,
+          221.53759002685547
+        ],
+        [
+          245.68785095214844,
+          221.53759002685547
+        ],
+        [
+          245.68785095214844,
+          237.98492431640625
+        ],
+        [
+          67.7848949432373,
+          237.98492431640625
+        ]
+      ]
+    },
+    {
+      "title": "2.4 Creative Hubs and Studios",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          67.76481628417969,
+          345.80335235595703
+        ],
+        [
+          216.54295349121094,
+          345.80335235595703
+        ],
+        [
+          216.54295349121094,
+          361.344970703125
+        ],
+        [
+          67.76481628417969,
+          361.344970703125
+        ]
+      ]
+    },
+    {
+      "title": "3. Industry Needs and Challenges",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.35490798950195,
+          475.74110412597656
+        ],
+        [
+          232.8746566772461,
+          475.74110412597656
+        ],
+        [
+          232.8746566772461,
+          491.544921875
+        ],
+        [
+          68.35490798950195,
+          491.544921875
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Access to Reliable, Transparent Material Information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.47343444824219,
+          523.7547912597656
+        ],
+        [
+          339.3310546875,
+          523.7547912597656
+        ],
+        [
+          339.3310546875,
+          540.1449584960938
+        ],
+        [
+          68.47343444824219,
+          540.1449584960938
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Material Sourcing and Validation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.19157791137695,
+          623.2411651611328
+        ],
+        [
+          243.99002838134766,
+          623.2411651611328
+        ],
+        [
+          243.99002838134766,
+          639.6249694824219
+        ],
+        [
+          68.19157791137695,
+          639.6249694824219
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Bridging Theory and Practice",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.23196983337402,
+          703.9113922119141
+        ],
+        [
+          228.51644897460938,
+          703.9113922119141
+        ],
+        [
+          228.51644897460938,
+          720.7449569702148
+        ],
+        [
+          68.23196983337402,
+          720.7449569702148
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Cost and Market Accessibility",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.55000114440918,
+          163.3648796081543
+        ],
+        [
+          230.27337646484375,
+          163.3648796081543
+        ],
+        [
+          230.27337646484375,
+          179.544921875
+        ],
+        [
+          68.55000114440918,
+          179.544921875
+        ]
+      ]
+    },
+    {
+      "title": "3.5 Collaborative Networking",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.57315826416016,
+          253.98937225341797
+        ],
+        [
+          209.48927307128906,
+          253.98937225341797
+        ],
+        [
+          209.48927307128906,
+          269.784912109375
+        ],
+        [
+          68.57315826416016,
+          269.784912109375
+        ]
+      ]
+    },
+    {
+      "title": "4. The Imasus Project's Strategic Role",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.26588439941406,
+          348.6862106323242
+        ],
+        [
+          254.3158950805664,
+          348.6862106323242
+        ],
+        [
+          254.3158950805664,
+          364.824951171875
+        ],
+        [
+          68.26588439941406,
+          364.824951171875
+        ]
+      ]
+    },
+    {
+      "title": "5. Detailed Stakeholder Insights",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.70542907714844,
+          544.111083984375
+        ],
+        [
+          223.8570556640625,
+          544.111083984375
+        ],
+        [
+          223.8570556640625,
+          560.0649719238281
+        ],
+        [
+          68.70542907714844,
+          560.0649719238281
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Universities and Schools",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.32096481323242,
+          569.5558776855469
+        ],
+        [
+          208.30160522460938,
+          569.5558776855469
+        ],
+        [
+          208.30160522460938,
+          585.5049591064453
+        ],
+        [
+          68.32096481323242,
+          585.5049591064453
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Creative and Textile Labs",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          67.86315536499023,
+          655.9473266601562
+        ],
+        [
+          209.6008529663086,
+          655.9473266601562
+        ],
+        [
+          209.6008529663086,
+          672.0249557495117
+        ],
+        [
+          67.86315536499023,
+          672.0249557495117
+        ]
+      ]
+    },
+    {
+      "title": "5.3 Networks and Institutional Platforms",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.35724258422852,
+          99.2413330078125
+        ],
+        [
+          263.1895294189453,
+          99.2413330078125
+        ],
+        [
+          263.1895294189453,
+          114.74493408203125
+        ],
+        [
+          68.35724258422852,
+          114.74493408203125
+        ]
+      ]
+    },
+    {
+      "title": "5.4 Creative Hubs and Studios",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.47469329833984,
+          174.0102424621582
+        ],
+        [
+          216.58355712890625,
+          174.0102424621582
+        ],
+        [
+          216.58355712890625,
+          189.50494384765625
+        ],
+        [
+          68.47469329833984,
+          189.50494384765625
+        ]
+      ]
+    },
+    {
+      "title": "6. Recommendations for Imasus Implementation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.32813453674316,
+          276.6361999511719
+        ],
+        [
+          302.7937545776367,
+          276.6361999511719
+        ],
+        [
+          302.7937545776367,
+          292.10491943359375
+        ],
+        [
+          68.32813453674316,
+          292.10491943359375
+        ]
+      ]
+    },
+    {
+      "title": "7. Conclusion",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.00968742370605,
+          468.56272888183594
+        ],
+        [
+          138.0662498474121,
+          468.56272888183594
+        ],
+        [
+          138.0662498474121,
+          483.5049743652344
+        ],
+        [
+          69.00968742370605,
+          483.5049743652344
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          172
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/IMASUS_Report_o_-Industry_Needs_in_Sustainable_Textile_and_Fashion_Materials"
+}

@@ -1,0 +1,302 @@
+{
+  "table_of_contents": [
+    {
+      "title": "EU Deforestation Regulation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.698614970863016,
+          186.61442605321787
+        ],
+        [
+          189.56298290031683,
+          186.61442605321787
+        ],
+        [
+          189.56298290031683,
+          202.69586181640625
+        ],
+        [
+          30.698614970863016,
+          202.69586181640625
+        ]
+      ]
+    },
+    {
+      "title": "Traceability & geolocation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.78239583128345,
+          346.6898034657099
+        ],
+        [
+          466.1683654785156,
+          346.6898034657099
+        ],
+        [
+          466.1683654785156,
+          363.9100341796875
+        ],
+        [
+          319.78239583128345,
+          363.9100341796875
+        ]
+      ]
+    },
+    {
+      "title": "Point vs. polygon",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.532421775068382,
+          664.9241274853212
+        ],
+        [
+          121.97879791259766,
+          664.9241274853212
+        ],
+        [
+          121.97879791259766,
+          681.1110076904297
+        ],
+        [
+          30.532421775068382,
+          681.1110076904297
+        ]
+      ]
+    },
+    {
+      "title": "Plot of land",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          337.76729431921046,
+          507.96296443242846
+        ],
+        [
+          400.5980350676952,
+          507.96296443242846
+        ],
+        [
+          400.5980350676952,
+          525.3410034179688
+        ],
+        [
+          337.76729431921046,
+          525.3410034179688
+        ]
+      ]
+    },
+    {
+      "title": "Unpacking the geolocation \nrequirements under the EU \nDeforestation Regulation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.49151784286691,
+          75.7039794921875
+        ],
+        [
+          368.1802978515625,
+          75.7039794921875
+        ],
+        [
+          368.1802978515625,
+          159.08038330078125
+        ],
+        [
+          39.49151784286691,
+          159.08038330078125
+        ]
+      ]
+    },
+    {
+      "title": "EU Information System requirements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.66407378074204,
+          464.9928583975679
+        ],
+        [
+          206.0589919390546,
+          464.9928583975679
+        ],
+        [
+          206.0589919390546,
+          480.58001708984375
+        ],
+        [
+          29.66407378074204,
+          480.58001708984375
+        ]
+      ]
+    },
+    {
+      "title": "From plot to export",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          15.119103852087063,
+          55.49317077473668
+        ],
+        [
+          120.35736437588554,
+          55.49317077473668
+        ],
+        [
+          120.35736437588554,
+          71.05902099609375
+        ],
+        [
+          15.119103852087063,
+          71.05902099609375
+        ]
+      ]
+    },
+    {
+      "title": "Data protection and privacy",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          30.028814013118406,
+          643.60663488563
+        ],
+        [
+          163.13113403320312,
+          643.60663488563
+        ],
+        [
+          163.13113403320312,
+          658.8390045166016
+        ],
+        [
+          30.028814013118406,
+          658.8390045166016
+        ]
+      ]
+    },
+    {
+      "title": "Common errors & verification",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          307.6316459136886,
+          444.87279469056097
+        ],
+        [
+          451.38149862986063,
+          444.87279469056097
+        ],
+        [
+          451.38149862986063,
+          460.0790100097656
+        ],
+        [
+          307.6316459136886,
+          460.0790100097656
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ChemicalBlock",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "PageFooter",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Geolocation_FactSheet"
+}

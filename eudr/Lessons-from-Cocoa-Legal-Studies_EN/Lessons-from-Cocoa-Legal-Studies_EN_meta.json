@@ -1,0 +1,892 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Cocoa Insight",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.41481014222882,
+          286.3007589121111
+        ],
+        [
+          226.92803955078125,
+          286.3007589121111
+        ],
+        [
+          226.92803955078125,
+          315.583984375
+        ],
+        [
+          65.41481014222882,
+          315.583984375
+        ]
+      ]
+    },
+    {
+      "title": "1.Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.22000437239255,
+          93.75783911795884
+        ],
+        [
+          198.60008239746094,
+          93.75783911795884
+        ],
+        [
+          198.60008239746094,
+          114.84002685546875
+        ],
+        [
+          69.22000437239255,
+          114.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "2.Unpacking EUDR requirements",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.19371812950153,
+          93.57489096555769
+        ],
+        [
+          350.45037841796875,
+          93.57489096555769
+        ],
+        [
+          350.45037841796875,
+          114.84002685546875
+        ],
+        [
+          69.19371812950153,
+          114.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Understand the unique nature of the EUDR legality criterion",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.08207318284349,
+          217.66892248546026
+        ],
+        [
+          497.8511962890625,
+          217.66892248546026
+        ],
+        [
+          497.8511962890625,
+          235.80455189651394
+        ],
+        [
+          69.08207318284349,
+          235.80455189651394
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Clarify the concept\u2014due diligence is not a box-ticking exercise",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.10374358439024,
+          608.8112257076817
+        ],
+        [
+          514.0962524414062,
+          608.8112257076817
+        ],
+        [
+          514.0962524414062,
+          631.2639923095703
+        ],
+        [
+          69.10374358439024,
+          631.2639923095703
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Empower stakeholders to build trust and market readiness",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.129514410754,
+          270.6346950242271
+        ],
+        [
+          489.83514404296875,
+          270.6346950242271
+        ],
+        [
+          489.83514404296875,
+          289.92803955078125
+        ],
+        [
+          69.129514410754,
+          289.92803955078125
+        ]
+      ]
+    },
+    {
+      "title": "3.Mapping relevant legal frameworks",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.43209254651586,
+          93.50316352878207
+        ],
+        [
+          390.44000244140625,
+          93.50316352878207
+        ],
+        [
+          390.44000244140625,
+          114.84002685546875
+        ],
+        [
+          69.43209254651586,
+          114.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Manage ambiguity\u2014the EUDR legality scope is still taking shape",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.07606571687559,
+          249.94598388671875
+        ],
+        [
+          525.0861206054688,
+          249.94598388671875
+        ],
+        [
+          525.0861206054688,
+          272.15399169921875
+        ],
+        [
+          69.07606571687559,
+          272.15399169921875
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Do not set it in stone\u2014legal mappings must be living tools",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          68.58803498774992,
+          125.67596435546875
+        ],
+        [
+          485.8160400390625,
+          125.67596435546875
+        ],
+        [
+          485.8160400390625,
+          147.88397216796875
+        ],
+        [
+          68.58803498774992,
+          147.88397216796875
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Beware of legal grey zones\u2014vague provisions undermine clarity",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          68.84279965033159,
+          339.72601318359375
+        ],
+        [
+          524.5961303710938,
+          339.72601318359375
+        ],
+        [
+          524.5961303710938,
+          361.93402099609375
+        ],
+        [
+          68.84279965033159,
+          361.93402099609375
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Be cautious of generic legal frameworks that often ignore \nsmallholders' realities",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          68.55075319227704,
+          132.60700112374255
+        ],
+        [
+          481.2102355957031,
+          132.60700112374255
+        ],
+        [
+          481.2102355957031,
+          175.88397216796875
+        ],
+        [
+          68.55075319227704,
+          175.88397216796875
+        ]
+      ]
+    },
+    {
+      "title": "4.Developing due diligence guidance",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.5409316440073,
+          93.46639885566962
+        ],
+        [
+          382.66998291015625,
+          93.46639885566962
+        ],
+        [
+          382.66998291015625,
+          114.84002685546875
+        ],
+        [
+          68.5409316440073,
+          114.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Embrace flexibility\u2014one size doesn't fit all in risk assessment \nand mitigation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.70158697555888,
+          266.95599365234375
+        ],
+        [
+          505.34344482421875,
+          266.95599365234375
+        ],
+        [
+          505.34344482421875,
+          308.69793701171875
+        ],
+        [
+          68.70158697555888,
+          308.69793701171875
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Prioritise relevance\u2014efforts must target bigger risks",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          68.738570974816,
+          90.906005859375
+        ],
+        [
+          447.0660095214844,
+          90.906005859375
+        ],
+        [
+          447.0660095214844,
+          113.114013671875
+        ],
+        [
+          68.738570974816,
+          113.114013671875
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Recognise that compliance gaps often stem from structural \nbarriers",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          68.86528326462138,
+          91.81730276839815
+        ],
+        [
+          491.6352233886719,
+          91.81730276839815
+        ],
+        [
+          491.6352233886719,
+          132.64794921875
+        ],
+        [
+          68.86528326462138,
+          132.64794921875
+        ]
+      ]
+    },
+    {
+      "title": "Weak enforcement, despite strong legal frameworks",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          68.9592837854957,
+          210.0519595057011
+        ],
+        [
+          336.6119689941406,
+          210.0519595057011
+        ],
+        [
+          336.6119689941406,
+          225.21600341796875
+        ],
+        [
+          68.9592837854957,
+          225.21600341796875
+        ]
+      ]
+    },
+    {
+      "title": "Barriers to sharing or accessing documentation",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          68.33237693652097,
+          459.5002265311943
+        ],
+        [
+          308.8420715332031,
+          459.5002265311943
+        ],
+        [
+          308.8420715332031,
+          474.2859802246094
+        ],
+        [
+          68.33237693652097,
+          474.2859802246094
+        ]
+      ]
+    },
+    {
+      "title": "Transparency and data limitations hinder geospatial verification",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.23676113637929,
+          119.3741671119751
+        ],
+        [
+          393.63226318359375,
+          119.3741671119751
+        ],
+        [
+          393.63226318359375,
+          134.72625256858547
+        ],
+        [
+          69.23676113637929,
+          134.72625256858547
+        ]
+      ]
+    },
+    {
+      "title": "5.Conclusion",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          69.02700951717962,
+          93.13696404556451
+        ],
+        [
+          185.10008239746094,
+          93.13696404556451
+        ],
+        [
+          185.10008239746094,
+          114.84002685546875
+        ],
+        [
+          69.02700951717962,
+          114.84002685546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          12
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Lessons-from-Cocoa-Legal-Studies_EN"
+}
